@@ -1,15 +1,14 @@
 YUI 3.5.0PR1 History Rollup
 ===========================
 
-
 Anim Change History
-===================
+-------------------
 
 * No change.
 
 
 App Framework Change History
-============================
+----------------------------
 
 ### App
 
@@ -43,7 +42,7 @@ App Framework Change History
 
 * [!] The `html5`, `root`, and `routes` properties are now attributes, and
   `routes` may be set both during and after init. Code that refers to the old
-  properties, like `myController.root` and `myController.root = '/foo'`, must be
+  properties, like `myController.root` and `myController.root - '/foo'`, must be
   updated to use the attribute syntax instead: `myRouter.get('root')` and
   `myRouter.set('root', '/foo')`.
 
@@ -78,7 +77,7 @@ App Framework Change History
 
 * [!] The `container`, `model`, and `modelList` properties are now attributes.
   Code that refers to the old properties, like `myView.model` and
-  `myView.model = model`, must be updated to use the attribute syntax instead:
+  `myView.model - model`, must be updated to use the attribute syntax instead:
   `myView.get('model')` and `myView.set('model', model)`.
 
 * [!] The `container` attribute now treats string values as CSS selectors.
@@ -89,28 +88,28 @@ App Framework Change History
 
 
 ArraySort Change History
-========================
+------------------------
 
 
 * No changes.
 
 
 AsyncQueue Change History
-=========================
+-------------------------
 
 
 * No changes.
 
 
 Attribute Change History
-========================
+------------------------
 
 
 * No changes.
 
 
 AutoComplete Change History
-===========================
+---------------------------
 
 
 * The `requestTemplate` value is now made available to YQL sources via the
@@ -121,7 +120,7 @@ AutoComplete Change History
 
 
 Base Change History
-===================
+-------------------
 
 
 * Only invoke Base constructor logic once to 
@@ -135,21 +134,21 @@ Base Change History
 
 
 Cache Change History
-====================
+--------------------
 
 
 * No changes.
 
 
 Calendar Change History
-=======================
+-----------------------
 
 
 * No changes.
 
 
 Charts Change History
-=====================
+---------------------
 
 
 * #2529859 Fixed issue in which Chart with timeAxis was not correctly initialized when setting dataProvider.
@@ -167,42 +166,42 @@ Charts Change History
 
 
 ClassName Manager Change History
-================================
+--------------------------------
 
 
 * No changes.
 
 
 Collection Change History
-=========================
+-------------------------
 
 
 * No changes.
 
 
 ConsoleFilters Plugin Change History
-====================================
+------------------------------------
 
 
 * No changes.
 
 
 Console Change History
-======================
+----------------------
 
 
 * No changes.
 
 
 Cookie Change History
-=====================
+---------------------
 
 
 * No changes.
 
 
 CSS Base Change History
-=======================
+-----------------------
 
 
 * No code changes.
@@ -210,14 +209,14 @@ CSS Base Change History
 
 
 CSS Fonts Change History
-========================
+------------------------
 
 * No change.
 
 
 
 CSS Grids Change History
-========================
+------------------------
 
 
 * No change.
@@ -225,49 +224,49 @@ CSS Grids Change History
 
 
 CSS Reset Change History
-========================
+------------------------
 
 * No change.
 
 
 
 DataSchema Change History
-=========================
+-------------------------
 
 
 * No changes.
 
 
 DataSource Change History
-=========================
+-------------------------
 
 
 * No changes.
 
 
 DataTable Change History
-========================
+------------------------
 
 
 * No changes.
 
 
 DataType Change History
-=======================
+-----------------------
 
 
 * No changes.
 
 
 Drag and Drop Change History
-============================
+----------------------------
 
 
 * No changes.
 
 
 Dial Change History
-===================
+-------------------
 
 
 * Changed method name from _recalculateDialCenter to _calculateDialCenter
@@ -284,7 +283,7 @@ Dial Change History
 
 
 DOM Change History
-==================
+------------------
 
 * Bug fix: Comments are now filtered from IE child queries. [Ticket 2530101]
 * Bug fix: Root node border correctly accounted for in IE. [Ticket 2531246]
@@ -292,14 +291,14 @@ DOM Change History
 
 
 Dump Change History
-===================
+-------------------
 
 
 * No changes.
 
 
 Rich Text Editor Change History
-===============================
+-------------------------------
 
 
 * 2530547 Frame: src attribute doesn't do anything
@@ -307,7 +306,7 @@ Rich Text Editor Change History
 
 ###
 Escape Change History
-=====================
+---------------------
 
 
  * `regex()` no longer escapes the `#` character, since it has no special meaning
@@ -316,35 +315,35 @@ Escape Change History
 
 
 Custom Event Infrastructure Change History
-==========================================
+------------------------------------------
 
 
 * No changes.
 
 
 Gestures Change History
-=======================
+-----------------------
 
 
 * No changes.
 
 
 ValueChange Change History
-==========================
+--------------------------
 
 
 * No changes.
 
 
 Event Infrastructure Change History
-===================================
+-----------------------------------
 
 
 * No changes.
 
 
 Get Utility Change History
-==========================
+--------------------------
 
 
 * [!] The `Y.Get.abort()` method is now deprecated and will be removed in a
@@ -409,7 +408,7 @@ Get Utility Change History
 
 * Added a new `pollInterval` option, which allows you to customize the polling
   interval (in milliseconds) used to check for CSS load completion in WebKit and
-  Firefox <=8.
+  Firefox <-8.
 
 * The `css()`, `js()`, `load()`, and `script()` methods now return an instance
   of `Y.Get.Transaction`, which encompasses one or more requests and contains
@@ -440,7 +439,7 @@ Get Utility Change History
 
 
 Graphics Change History
-=======================
+-----------------------
 
 
 * #2531127 Fixed issue in which transforms were not consistent across different browsers.
@@ -454,42 +453,42 @@ Graphics Change History
 
 
 Handlebars Change History
-=========================
+-------------------------
 
 
 * Initial release.
 
 
 Highlight Change History
-========================
+------------------------
 
 
 * No changes.
 
 
 History Change History
-======================
+----------------------
 
 
 * No changes.
 
 
 ImageLoader Change History
-==========================
+--------------------------
 
 
 * No changes.
 
 
 Intl Change History
-===================
+-------------------
 
 
 * No changes.
 
 
 IO Utility Change History
-=========================
+-------------------------
 
 
 * Fixed error in sending an XML document as POST data. [Ticket #2531257]
@@ -499,21 +498,21 @@ IO Utility Change History
 
 
 JSON Utility Change History
-===========================
+---------------------------
 
 
 * No changes.
 
 
 JSONP Change History
-====================
+--------------------
 
 
 * No changes.
 
 
 YUI Loader Change History
-=========================
+-------------------------
 
 
 The biggest change made was the use of the `async` flag on `Y.Get` requests. Loader will now use the
@@ -532,21 +531,21 @@ all of them asynchronously, then return to loader for post processing of the inj
 
 
 Flick Node Plugin Change History
-================================
+--------------------------------
 
 
 * No changes.
 
 
 Focus Manager Change History
-============================
+----------------------------
 
 
 * No changes.
 
 
 MenuNav Change History
-======================
+----------------------
 
 
 * Added Night skin for MenuNav
@@ -554,7 +553,7 @@ MenuNav Change History
 
 
 Node Change History
-===================
+-------------------
 
 
 * Bug fix: Children collection now accessible from documentFragments. [Ticket 2531356] 
@@ -563,188 +562,188 @@ Node Change History
 
 
 OOP Change History
-==================
+------------------
 
 
 * No changes.
 
 
 Overlay Change History
-======================
+----------------------
 
 
 * No changes.
 
 
 Panel Change History
-====================
+--------------------
 
 
 * No changes.
 
 
 Parallel Change History
-=======================
+-----------------------
 
 
 * Initial Release
 
 
 Pjax Change History
-===================
+-------------------
 
 
 * Initial release.
 
 
 Plugin Change History
-=====================
+---------------------
 
 
 * No changes.
 
 
 Plugin Host Change History
-==========================
+--------------------------
 
 
 * No changes.
 
 
 QueryString Utility Change History
-==================================
+----------------------------------
 
 
 * No changes.
 
 
 Queue Promote Change History
-============================
+----------------------------
 
 
 * No changes.
 
 
 Recordset Change History
-========================
+------------------------
 
 
 * No changes.
 
 
 Resize Utility Change History
-=============================
+-----------------------------
 
 
 * No changes.
 
 
 ScrollView Change History
-=========================
+-------------------------
 
 
 * Allow scrollbar to work with non-px width scrollviews
 
 
 Simple YUI Change History
-=========================
+-------------------------
 
 
 * No changes.
 
 
 Slider Change History
-=====================
+---------------------
 
 
 * No changes.
 
 
 Sortable Utility Change History
-===============================
+-------------------------------
 
 
 * No changes.
 
 
 StyleSheet Change History
-=========================
+-------------------------
 
 
 * No changes.
 
 
 Substitute Utility Change History
-=================================
+---------------------------------
 
 
 * No changes.
 
 
 SWF Utility Change History
-==========================
+--------------------------
 
 
 * No changes.
 
 
 SWFDetect Utility Change History
-================================
+--------------------------------
 
 
 * No changes.
 
 
 TabView Change History
-======================
+----------------------
 
 
 * No change.
 
 
 Test Console Change History
-===========================
+---------------------------
 
 
 * Initial release.
 
 
 Text Change History
-===================
+-------------------
 
 
 * No changes.
 
 
 Transition Change History
-=========================
+-------------------------
 
 * No change.
 
 
 Uploader Utility Change History
-===============================
+-------------------------------
 
 
 * No changes.
 
 
 Widget Anim Change History
-==========================
+--------------------------
 
 
 * No changes.
 
 
 Widget Autohide Change History
-==============================
+------------------------------
 
 
 * No changes.
 
 
 Widget Buttons Change History
-=============================
+-----------------------------
 
 
 * Configurations of named button types, e.g. "close", are now merged with the
@@ -753,14 +752,14 @@ Widget Buttons Change History
 
 
 Widget Child Change History
-===========================
+---------------------------
 
 
 * No changes.
 
 
 Widget Modality Change History
-==============================
+------------------------------
 
 
 * Initialization logic will now always run, even when a widget is constructed
@@ -769,75 +768,75 @@ Widget Modality Change History
 
 
 Widget Parent Change History
-============================
+----------------------------
 
 
 * No changes.
 
 
 Widget Position Align Change History
-====================================
+------------------------------------
 
 
 * No changes.
 
 
 Widget Position Constrain Change History
-========================================
+----------------------------------------
 
 
 * No changes.
 
 
 Widget Position Change History
-==============================
+------------------------------
 
 
 * No changes.
 
 
 Widget Stack Change History
-===========================
+---------------------------
 
 
 * No changes.
 
 
 Widget Std Mod Change History
-=============================
+-----------------------------
 
 
 * No changes.
 
 
 Widget Change History
-=====================
+---------------------
 
 
  * Refactored some of the box stamping code, to avoid Node references
    until render. Changed caching mechanism for Y.Widget.getByNode to use node.get("id")
 
- * Patched after listeners in Widget with a if (e.target === this), so that homogenous 
+ * Patched after listeners in Widget with a if (e.target --- this), so that homogenous 
    bubbles don't end up changing state at both the source and the target. Broader
    fix needs to go into Event/EventTarget
 
 
 YQL Change History
-==================
+------------------
 
 
 * No changes.
 
 
 YUI Throttle Change History
-===========================
+---------------------------
 
 
 * No changes.
 
 
 YUI Core Change History
-=======================
+-----------------------
 
 
  * `Y.Object.isEmpty()` now casts the given value to an object if it isn't one
