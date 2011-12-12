@@ -1,7 +1,7 @@
 YUI 3.5.0PR1 History Rollup
 ===========================
 
-`
+The changes included in the PR1 release of YUI 3.5.0 are listed below, per component.
 
 Anim Change History
 -------------------
