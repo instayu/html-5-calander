@@ -54,7 +54,7 @@ App Framework Change History
   will be removed in a future version of YUI, so please update your route
   handlers to expect `next` as the third param.
 
-* "*" can now be used to create a wildcard route that will match any path
+* `"*"` can now be used to create a wildcard route that will match any path
   (previously it was necessary to use a regex to do this). Additionally, paths
   which contain a "*" (e.g., "/users/*") act as a wildcard matching everything
   after it.
