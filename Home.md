@@ -1,1 +1,1 @@
-Welcome to the yui3 wiki!
+Welcome to the YUI wiki!
