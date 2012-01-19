@@ -1,5 +1,8 @@
+DataTable Roadmap
+=================
+
 3.5.0
-=====
+-----
 * Model/ModelList + View
 * Render performance
 * Row filtering*
@@ -18,7 +21,7 @@
 * Fixed column widths
 
 3.6.0
-=====
+-----
 * Inline cell editing (text input only)
 * Popup cell editing
 * Keyboard navigation
@@ -32,7 +35,7 @@
 * Popup row editing
 
 3.7.0
-=====
+-----
 * Expandable rows (child rows map to current columns)
 * Expandable rows (expanded area is not bound to table format)
 * Drag Reorder rows
@@ -42,10 +45,10 @@
 * 100% width scrollable table
 
 3.8.0
-=====
+-----
 * Infinite Scroll
 * Drag reorder columns
 * Drag resizable column widths
 * Freeze columns
 
-* Feature noted to make sure they are preserved after architectural changes.
+(*) Feature noted to make sure they are preserved after architectural changes.
