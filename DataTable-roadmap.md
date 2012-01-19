@@ -3,22 +3,22 @@ DataTable Roadmap
 
 3.5.0
 -----
-* Model/ModelList + View (done)
-* Render performance (~2x improvement so far. Ongoing)
+* Model/ModelList + View _(done)_
+* Render performance _(~2x improvement so far. Ongoing)_
 * Row filtering*
-* Scrolling DataTable* (in gallery module with some bugs)
-* Cell formatters/renderers* (done)
-* Polling data source* (via DataSource, no work needed)
-* Add, remove, update rows* (done - datatable-mutable adds `addRow`, `removeColumn` etc)
+* Scrolling DataTable* _(in gallery module with some bugs)_
+* Cell formatters/renderers* _(done)_
+* Polling data source* _(via DataSource, no work needed)_
+* Add, remove, update rows* _(done - datatable-mutable adds `addRow`, `removeColumn` etc)_
 * Sortable columns*
 * Custom sorting for columns*
-* Cell, row, column navigation API (e.g. dt.cell(2,2), dt.cellAbove(cell)) (`getCell`, `getRow` in core - done?)
+* Cell, row, column navigation API (e.g. dt.cell(2,2), dt.cellAbove(cell)) _(`getCell`, `getRow` in core - done?)_
 * Progressive enhancement
 * ARIA
 * Pagination
 * Show/hide columns
 * Message tbody API
-* Fixed column widths (min-width done. Overflow left to implementer)
+* Fixed column widths _(min-width done. Overflow left to implementer)_
 
 3.6.0
 -----
