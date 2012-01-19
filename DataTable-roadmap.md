@@ -51,4 +51,4 @@ DataTable Roadmap
 * Drag resizable column widths
 * Freeze columns
 
-(*) Feature noted to make sure they are preserved after architectural changes.
+\* Feature noted to make sure they are preserved after architectural changes.
