@@ -1,4 +1,4 @@
-YUI 3.5.0PR1 History Rollup
+YUI 3.5.0 History Rollup
 ===========================
 
 The changes included in the PR1 and PR2 releases of YUI 3.5.0 are listed below, per component.
