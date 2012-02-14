@@ -10,15 +10,15 @@ DataTable Roadmap
 * Cell formatters/renderers* _(done)_
 * Polling data source* _(via DataSource, no work needed)_
 * Add, remove, update rows* _(done - datatable-mutable adds `addRow`, `removeColumn` etc)_
-* Sortable columns*
-* Custom sorting for columns*
+* Sortable columns _(done)_
+* Custom sorting for columns _(done)_
 * Cell, row, column navigation API (e.g. dt.cell(2,2), dt.cellAbove(cell)) _(`getCell`, `getRow` in core - done?)_
 * Progressive enhancement
 * ARIA
 * Pagination
 * Show/hide columns
-* Message tbody API
-* Fixed column widths _(min-width done. Overflow left to implementer)_
+* Message tbody API _(done)_
+* Fixed column widths _(non-absolute width done in `datatable-column-widths`. Absolute widths left to implementer)_
 
 3.6.0
 -----
@@ -30,7 +30,7 @@ DataTable Roadmap
 * Cell, row, column highlight
 * Cell, row, column(?) selection
 * Complex selection (ctrl+/alt+/meta+)
-* Multi-column sort
+* Multi-column sort _(API support done in 3.5.0)_
 * Inline cell editing (alternate inputs - select, radio, ???)
 * Popup row editing
 
