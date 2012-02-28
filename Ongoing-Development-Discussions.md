@@ -5,9 +5,9 @@ Usually, design proposals take the form of gists, and code reviews pull requests
 Code Reviews
 ============
 
-* [**WidgetButtons** Rewrite](https://github.com/yui/yui3/pull/82) (Open)
-* <strike>[new **DataTable** architecture, implementation](https://github.com/yui/yui3/pull/63)</strike> (Closed)
-* <strike>[Button](https://github.com/yui/yui3/pull/61)</strike> (Closed)
+* <strike>[**WidgetButtons** Rewrite](https://github.com/yui/yui3/pull/82)</strike> (Merged)
+* <strike>[new **DataTable** architecture, implementation](https://github.com/yui/yui3/pull/63)</strike> (Merged)
+* <strike>[Button](https://github.com/yui/yui3/pull/61)</strike> (Merged)
 
 Design Proposals
 ================
