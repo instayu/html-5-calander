@@ -6,9 +6,6 @@ The changes included in the PR1, PR2 and PR3 releases of YUI 3.5.0 are listed be
 App Framework Change History
 ============================
 
-3.5.0
------
-
 ### App
 
 * Initial release.
@@ -166,9 +163,6 @@ App Framework Change History
 Attribute Change History
 ========================
 
-3.5.0
------
-
   * Broke Y.Attribute up into:
 
     - Y.AttributeCore
@@ -234,9 +228,6 @@ Attribute Change History
 AutoComplete Change History
 ===========================
 
-3.5.0
------
-
 * Added an `enableCache` config attribute. Set this to `false` to prevent the
   built-in result sources from caching results (it's `true` by default).
 
@@ -272,9 +263,6 @@ AutoComplete Change History
 
 Base Change History
 ===================
-
-3.5.0
------
 
   * Only invoke Base constructor logic once to 
     support multi-inheritance scenario in which
@@ -342,17 +330,12 @@ Base Change History
 Button Change History
 ====================
 
-3.5.0
------
-
   * Initial Release
 
 
 Calendar Change History
 =======================
 
-3.5.0
------
    * Calendar is now keyboard navigable [Ticket #2530348]
    * Calendar skins have been updated [Tickets #2530720, [#2531110, #2531744]
    * Calendar has received accessibility fixes
@@ -362,9 +345,6 @@ Calendar Change History
 
 Charts Change History
 =====================
-
-3.5.0
------
 
   * #2531748 Added aria keyboard navigation. 
   * #2530195 Tooltip display toggles on touchend event for mobile implementations. 
@@ -397,9 +377,6 @@ Charts Change History
 Collection Change History
 =========================
 
-3.5.0
------
-
 * YUI now detects non-native ES5 shims added to native objects by other
   libraries and falls back to its own internal shims rather than relying on the
   potentially broken code from the other library.
@@ -411,18 +388,12 @@ Collection Change History
 DataTable (deprecated) Change History
 =====================================
 
-3.5.0
------
-
 Created to house the 3.4.1 implementations of datatable modules for people that
 can't upgrade to 3.5.0 or greater for whatever reason.
 
 
 DataTable Change History
 ========================
-
-3.5.0
------
 
  * Major refactor.  See README for details about the new architecture.
  * Y.DataTable is now instantiable, in addition to Y.DataTable.Base
@@ -459,8 +430,6 @@ DataTable Change History
 Drag and Drop Change History
 ============================
 
-### 3.5.0
-
 * 2530257 Avoid interference of Drag and Nodes Event Handles
 * 2531377 shim is not created if dd-ddm is loaded after the first drag is activated
 * 2531674 Issue with drag and drop and drop:hit event
@@ -468,9 +437,6 @@ Drag and Drop Change History
 
 Dial Change History
 ===================
-
-3.5.0
------
 
   * Changed method name from _recalculateDialCenter to _calculateDialCenter
    
@@ -488,8 +454,6 @@ Dial Change History
 DOM Change History
 ==================
 
-3.5.0
------
   * Bug fix: Comments are now filtered from IE child queries. [Ticket 2530101]
   * Bug fix: Root node border correctly accounted for in IE. [Ticket 2531246]
   * Added Y.DOM.getScrollbarWidth() to return the width of a scrollbar in the current user agent
@@ -498,9 +462,6 @@ DOM Change History
 
 Rich Text Editor Change History
 ===============================
-
-3.5.0
------
 
 * 2530547 Frame: src attribute doesn't do anything
 * General fixes for Y! Mail deployment
@@ -517,9 +478,6 @@ Rich Text Editor Change History
 Escape Change History
 =====================
 
-3.5.0
------
-
 * `regex()` no longer escapes the `#` character, since it has no special meaning
   in JS regexes.
 
@@ -528,17 +486,11 @@ Escape Change History
 Custom Event Infrastructure Change History
 ==========================================
 
-3.5.0
------
-
   * Multiple calls to target.publish({ ... }) now work [Ticket #2531671]
 
 
 Gestures Change History
 =======================
-
-3.5.0
------
 
   * Chrome fixed ontouchstart in window bug. No need to caveat
     the touch test for Chrome 6+.
@@ -546,9 +498,6 @@ Gestures Change History
 
 ValueChange Change History
 ==========================
-
-3.5.0
------
 
 * Changed the name of the synthetic event to "valuechange" (all lowercase) for
   greater consistency with DOM event names. The older "valueChange" name will
@@ -567,8 +516,6 @@ ValueChange Change History
 Event Infrastructure Change History
 ===================================
 
-3.5.0
------
   * `event-simulate` references to `window` replaced with `Y.config.win`
     [#2531223]
   * `event-resize` no longer throws an exception in IE [#2531310]
@@ -588,15 +535,11 @@ Event Infrastructure Change History
 File Module Change History
 ==========================
 
-3.5.0
   * Initial release
 
 
 Get Utility Change History
 ==========================
-
-3.5.0
------
 
 * [!] The `Y.Get.abort()` method is now deprecated and will be removed in a
   future version of YUI. Use the transaction-level `abort()` method instead.
@@ -693,8 +636,6 @@ Get Utility Change History
 Graphics Change History
 =======================
 
-3.5.0
------
   * #2531630 Changed BaseGraphic class to GraphicBase.
   * Removed memory leaks from Shape class. 
   * Added defaultGraphicEngine config to allow developer to specify canvas as the preferred graphic technology. 
@@ -711,16 +652,12 @@ Graphics Change History
 Handlebars Change History
 =========================
 
-3.5.0
------
   * Initial release.
 
 
 History Change History
 ======================
 
-3.5.0
------
   * Added a workaround for a nasty iOS 5 bug that destroys stored references to
     `window.location` when the page is restored from the page cache. We already
     had a workaround in place since this issue is present in desktop Safari as
@@ -735,8 +672,6 @@ History Change History
 IO Utility Change History
 =========================
 
-3.5.0
------
   * Fixed error in sending an XML document as POST data. [Ticket #2531257]
 
   * Configuration data can now include an instance of FormData for HTTP
@@ -746,8 +681,6 @@ IO Utility Change History
 YUI Loader Change History
 =========================
 
-3.5.0
------
 The biggest change made was the use of the `async` flag on `Y.Get` requests. Loader will now use the
 `Y.Loader.resolve()` method under the hood to calculate all the dependencies that it is aware of, then
 build the URL's to complete this request. It will then batch those into one `Y.Get` transation and fetch
@@ -785,8 +718,6 @@ all of them asynchronously, then return to loader for post processing of the inj
 Matrix Change History
 =====================
 
-3.5.0
------
   * Nobody can know what the Matrix is: you have to see it for yourself.
 
 
@@ -794,8 +725,6 @@ Matrix Change History
 MenuNav Change History
 ======================
 
-3.5.0
------
   * Added Night skin for MenuNav
   * Removed console logging message (#2531192)
    
@@ -804,17 +733,12 @@ MenuNav Change History
 Node Change History
 ===================
 
-3.5.0
------
   * Bug fix: Children collection now accessible from documentFragments. [Ticket 2531356] 
   * Bug fix: The compareTo() method now works across sandboxes. [Ticket 2530381] 
 
 
 Panel Change History
 ====================
-
-3.5.0
------
 
   * Panel now hosts the a default "close" button which can be included more
     easily then before. This button has advanced styling which will render the
@@ -846,24 +770,18 @@ Panel Change History
 Parallel Change History
 =======================
 
-3.5.0
------
   * Initial Release
 
 
 Pjax Change History
 ===================
 
-3.5.0
------
   * Initial release.
 
 
 Plugin Host Change History
 ==========================
 
-3.5.0
------
   * API corrected for hasPlugin. It returns the plugin if available, otherwise undefined.
     It has always done this, and since they're truthy/falsey, figured it was better than
     changing the behavior, in case folks are using the plugin instance returned by hasPlugin.
@@ -872,17 +790,12 @@ Plugin Host Change History
 Resize Utility Change History
 =============================
 
-3.5.0
------
-
    * No changes.
 
 
 ScrollView Change History
 =========================
 
-3.5.0
------
   * Allow scrollbar to work with non-px width scrollviews
   * Added mousewheel support (#2529136)
 
@@ -890,8 +803,6 @@ ScrollView Change History
 Slider Change History
 =====================
 
-3.5.0
------
   * Added ARIA roles and states [#2528788]
   * Added keyboard support. Arrows, pageUp/Down, home/end [#2528788]
   * Fixed a bug where set('value', x) could be ignored if the max - min was
@@ -903,16 +814,12 @@ Slider Change History
 Test Console Change History
 ===========================
 
-3.5.0
------
    * Initial release.
 
 
 Text Change History
 ===================
 
-3.5.0
------
    * Data files now use escape sequences rather than actual Unicode characters in
      order to work around a bug in Internet Explorer that causes script file
      encodings to be ignored.
@@ -923,16 +830,12 @@ Text Change History
 Uploader Utility (DEPRECATED) Change History
 ============================================
 
-3.5.0
------
   * 3.4.1 Uploader, deprecated as uploader-deprecated
 
 
 Uploader Utility (New) Change History
 =====================================
 
-3.5.0
------
   * Added HTML5Uploader layer
   * Refactored queue management out of Uploader
   * Introduced new APIs (more details in documentation)
@@ -943,9 +846,6 @@ Uploader Utility (New) Change History
 
 Widget Buttons Change History
 =============================
-
-3.5.0
------
 
   * [!] WidgetButtons has been completely rewritten, back-compat for common
     usage has been maintained. The new version is _much more_ robust.
@@ -1036,9 +936,6 @@ Widget Buttons Change History
 Widget Modality Change History
 ==============================
 
-3.5.0
------
-
   * Initialization logic will now always run, even when a widget is constructed
     with `{modal: false}`; previously the initialization logic did not run in
     this case. [Ticket #2531401]
@@ -1055,18 +952,12 @@ Widget Modality Change History
 Widget Std Mod Change History
 =============================
 
-3.5.0
------
-
   * Added `forceCreate` option to `getStdModNode()` method which, if true, will
     create the section node if it does not already exist. [Ticket #2531214]
 
 
 Widget Change History
 =====================
-
-3.5.0
------
 
  * Refactored some of the box stamping code, to avoid Node references
    until render. Changed caching mechanism for Y.Widget.getByNode to use node.get("id")
@@ -1089,9 +980,6 @@ Widget Change History
 
 YUI Core Change History
 =======================
-
-3.5.0
------
 
 * YUI now runs natively on Node.js without a shim. See README.nodejs.md for
   details.
