@@ -2,7 +2,7 @@ This is a grab-bag of things that would be nice to have in `Y.Attribute`.
 
 ## 3.6.0
 
-* **Value filters.** It would be a huge boon to the security of the library if Attribute supported pluggable filters that could be run when a string value is retrieved. For example, to get a raw value: `.get('foo')`. To get an HTML-escaped value: `.get('foo:html')`. To get a URL-encoded value: `.get('foo:url')`.
+* **Value filters.** ([Detailed proposal here](https://gist.github.com/2025242)) It would be a huge boon to the security of the library if Attribute supported pluggable filters that could be run when a string value is retrieved. For example, to get a raw value: `.get('foo')`. To get an HTML-escaped value: `.get('foo:html')`. To get a URL-encoded value: `.get('foo:url')`.
 
 * **Coalesced change events.** A call to `setAttrs()` that changes multiple attributes should fire a single coalesced change event in addition to the individual change events. This is currently implemented in `Y.Model`. [Ticket #2530248](http://yuilibrary.com/projects/yui3/ticket/2530248)
 
