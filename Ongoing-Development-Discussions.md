@@ -17,3 +17,8 @@ Design Proposals
 * [`Y.WidgetStringRenderer`](https://gist.github.com/1386836) (Renders Widgets to HTML strings instead of DOM nodes)
 * [Yeti Next](https://github.com/yui/yeti/wiki/Yeti-Next)
 * [Lighter version of Attribute](http://yuilibrary.com/projects/yui3/ticket/2530190)
+
+Other Stuff
+===========
+
+* [[Attribute Wishlist]]
