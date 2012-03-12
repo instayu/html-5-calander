@@ -1,3 +1,4 @@
+_Note: This document is a work in progress. To comment on the latest living version of this proposal, visit <https://gist.github.com/2025242>. That gist is a living document, whereas this page represents the latest working draft derived from the gist._
 
 With more and more application logic moving to the client, and with YUI becoming more popular on the server, it's increasingly important to design APIs that handle user input safely. Currently, YUI modules that store user input in attributes must do one of two things: either escape user strings before setting an attribute, or escape them manually before using them.
 
