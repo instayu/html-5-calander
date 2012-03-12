@@ -10,3 +10,4 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 ## Future
 
 * [[DataTable Roadmap]]
+* [[Attribute Wishlist]]
