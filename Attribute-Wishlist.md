@@ -9,3 +9,5 @@ This is a grab-bag of things that would be nice to have in `Y.Attribute`.
 * **Better support for sub-attribute getters.** Currently, getters are required to return an entire object even when triggered by a sub-attribute retrieval like `.get('foo.bar.baz')`. This is inefficient and can be confusing.
 
 * <strong>`set()` and `setAttr()` should support an options object.</strong> The internal `_setAttr()` method supports an `options` object as its third parameter, and mixes it into the event facade of the change event. This is very useful (it's used in `Model` and `ModelList`), but the public `set()` and `setAttrs()` methods don't currently support the `options` param.
+
+* **Unravel the `value` vs. `valueFn` conflict.** If an attribute is defined with a `valueFn`, but an implementer provides a value when instantiating the class, the value is ignored and the `valueFn` wins. This tends to confuse people, so we should consider making this behavior more intuitive, or at least documenting the hell out of it.
