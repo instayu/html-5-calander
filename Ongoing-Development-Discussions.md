@@ -12,6 +12,7 @@ Code Reviews
 Design Proposals
 ================
 
+* [Attribute Value Filters](https://gist.github.com/2025242)
 * [DataTable design proposal](https://gist.github.com/1356355)
 * [Button family proposal](https://gist.github.com/1389403) ([code](https://github.com/derek/yui3-1/tree/master/src/button) and [examples](http://derek.io/~/yui/yui3/src/button/tests/manual/index.html))
 * [`Y.WidgetStringRenderer`](https://gist.github.com/1386836) (Renders Widgets to HTML strings instead of DOM nodes)
