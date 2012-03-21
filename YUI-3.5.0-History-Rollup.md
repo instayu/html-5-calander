@@ -1,7 +1,7 @@
 YUI 3.5.0 History Rollup
 ===========================
 
-The changes included in the PR1, PR2 and PR3 releases of YUI 3.5.0 are listed below, per component.
+The changes included in the PR1-PR4 releases of YUI 3.5.0 are listed below, per component.
 
 App Framework Change History
 ============================
