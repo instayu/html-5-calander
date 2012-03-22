@@ -3,21 +3,21 @@ DataTable Roadmap
 
 3.5.0
 -----
-* Model/ModelList + View _(done)_
+* <del>Model/ModelList + View</del> _(done)_
 * Render performance _(~2x improvement so far. Ongoing)_
 * Row filtering*
-* Scrolling DataTable* _(in gallery module with some bugs)_
-* Cell formatters/renderers* _(done)_
+* <del>Scrolling DataTable*</del> _(done)_
+* <del>Cell formatters/renderers*</del> _(done)_
 * Polling data source* _(via DataSource, no work needed)_
-* Add, remove, update rows* _(done - datatable-mutable adds `addRow`, `removeColumn` etc)_
-* Sortable columns _(done)_
-* Custom sorting for columns _(done)_
-* Cell, row, column navigation API (e.g. dt.cell(2,2), dt.cellAbove(cell)) _(`getCell`, `getRow` in core - done?)_
+* <del>Add, remove, update rows*</del> _(done)_
+* <del>Sortable columns</del> _(done)_
+* <del>Custom sorting for columns</del> _(done)_
+* <del>Cell, row, column navigation API (e.g. dt.cell(2,2), dt.cellAbove(cell))</del> _(done)_
 * Progressive enhancement
-* ARIA
+* <del>ARIA</del>
 * Pagination
 * Show/hide columns
-* Message tbody API _(done)_
+* <del>Message tbody API</del> _(done)_
 * Fixed column widths _(non-absolute width done in `datatable-column-widths`. Absolute widths left to implementer)_
 
 3.6.0
@@ -30,7 +30,7 @@ DataTable Roadmap
 * Cell, row, column highlight
 * Cell, row, column(?) selection
 * Complex selection (ctrl+/alt+/meta+)
-* Multi-column sort _(API support done in 3.5.0)_
+* <del>Multi-column sort</del> _(done in 3.5.0)_
 * Inline cell editing (alternate inputs - select, radio, ???)
 * Popup row editing
 
@@ -42,7 +42,7 @@ DataTable Roadmap
 * tfoot API
 * tfoot summary options
 * Checkbox select column
-* 100% width scrollable table
+* <del>100% width scrollable table</del>
 
 3.8.0
 -----
