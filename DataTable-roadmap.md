@@ -7,30 +7,31 @@ DataTable Roadmap
 * Render performance _(~2x improvement so far. Ongoing)_
 * Row filtering*
 * <del>Scrolling DataTable*</del> _(done)_
+* <del>100% width scrollable table</del> _(done)_
 * <del>Cell formatters/renderers*</del> _(done)_
 * Polling data source* _(via DataSource, no work needed)_
 * <del>Add, remove, update rows*</del> _(done)_
 * <del>Sortable columns</del> _(done)_
 * <del>Custom sorting for columns</del> _(done)_
 * <del>Cell, row, column navigation API (e.g. dt.cell(2,2), dt.cellAbove(cell))</del> _(done)_
-* Progressive enhancement
+* <del>Multi-column sort</del> _(done)_
 * <del>ARIA</del>
-* Pagination
-* Show/hide columns
 * <del>Message tbody API</del> _(done)_
 * Fixed column widths _(non-absolute width done in `datatable-column-widths`. Absolute widths left to implementer)_
 
 3.6.0
 -----
+* Progressive enhancement (didn't make 3.5.0)
+* Pagination (didn't make 3.5.0)
+* Show/hide columns (didn't make 3.5.0)
 * Inline cell editing (text input only)
 * Popup cell editing
-* Keyboard navigation
+* Keyboard navigation of cells and rows
 * cellClick etc events - Based on mosen's work
 * Data types with auto-default formatter/parsers/editors(?) ('currency', 'date', etc)
 * Cell, row, column highlight
 * Cell, row, column(?) selection
 * Complex selection (ctrl+/alt+/meta+)
-* <del>Multi-column sort</del> _(done in 3.5.0)_
 * Inline cell editing (alternate inputs - select, radio, ???)
 * Popup row editing
 
@@ -42,7 +43,6 @@ DataTable Roadmap
 * tfoot API
 * tfoot summary options
 * Checkbox select column
-* <del>100% width scrollable table</del>
 
 3.8.0
 -----
