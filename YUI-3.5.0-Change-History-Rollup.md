@@ -1,7 +1,7 @@
 YUI 3.5.0 Change History Rollup
 ===========================
 
-The changes included in the YUI 3.5.0 are listed below, per component.
+The changes included in the YUI 3.5.0 are listed below, per component.  Components not listed were not changed in 3.5.0.
 
 App Framework Change History
 ============================
@@ -77,6 +77,10 @@ App Framework Change History
   customize the low-level comparison logic used for sorting. This makes it easy
   to do things like descending sort, multi-field sorting, etc. See the API docs
   for details.
+
+* The `reset()` method now allows the caller-provided options object to override
+  the `src` property that's passed on the event facade of the `reset` event.
+  [Ticket #2531888]
 
 ### Router (formerly Controller)
 
@@ -182,12 +186,6 @@ Attribute Change History
     manually pull in attribute-core, attribute-events and attribute-extras 
     before it.
 
-    **IMPORTANT** AttributeCore, AttributeEvents and AttributeExtras are 
-    considered beta, and may be subject to change over the course 
-    of the 3.5.0PRS. 
-
-    Y.Attribute will remain unchanged however.
-
     Summary:
 
     Y.Attribute     - Common Attribute Functionality (100% backwards compat)
@@ -258,7 +256,6 @@ AutoComplete Change History
 
 * Fixed a bug that prevented the list from being re-aligned when the window was
   resized.
-
 
 
 Base Change History
@@ -332,6 +329,11 @@ Button Change History
 
   * Initial Release
 
+Cache Change History
+====================
+
+  * Fixed issue with dropping values when `uniqueKeys` was `true`.
+    [Ticket #2531339] [PR #39] [Contributed by Stuart Colville]
 
 Calendar Change History
 =======================
@@ -383,7 +385,10 @@ Collection Change History
 * Deprecated arraylist-add and arraylist-filter in favor of individual
   subclass implementations or ModelList.
 
+CSS Grids Change History
+========================
 
+  * CSS Grids has been broken out into cssgrids-base and cssgrids-units.
 
 DataTable (deprecated) Change History
 =====================================
@@ -471,8 +476,11 @@ Rich Text Editor Change History
 * 2531329 Rename Y.Selection to Y.EditorSelection (or something)
 * 2531577 Plugin.EditorBR works incorrectly in IE
 * 2531615 Newline breaks <br> replaced with <wbr> in IE8 [bz 5242614]
-* 2531329 - Breaking change: Bug #2531329 changed the old Y.Selection to Y.EditorSelection. 
-  This has been aliased until 3.6.0, bug #2531659 created to track that change.
+* 2531329 - Breaking change, more below:
+
+
+Bug #2531329 changed the old Y.Selection to Y.EditorSelection. This has been aliased until 3.6.0, bug #2531659
+created to track that change.
 
 
 Escape Change History
@@ -530,7 +538,6 @@ Event Infrastructure Change History
     focused target. Same for blur. [#2531334] (`event-focus`)
   * `node.delegate('focus', fn, filterThatMatchesNode); node.focus();` now
     works. [#2531734]
-
 
 File Module Change History
 ==========================
@@ -672,11 +679,28 @@ History Change History
 IO Utility Change History
 =========================
 
-  * Fixed error in sending an XML document as POST data. [Ticket #2531257]
-
   * Configuration data can now include an instance of FormData for HTTP
     POST requests. [Ticket #2531274]
 
+  * Implemented FormData file upload in io-base. [Ticket #2531274]
+
+  * Fixed transport error in io-base [Ticket #2531308][Ticket #2531941]
+    [Ticket #2531947]
+
+  * Fixed IO loader meta-data [Ticket #2531320]
+
+  * Fixed transport error in io-base [Ticket #2531308]
+
+  * Implemented Node.js compatibility [Ticket #2531495]
+
+  * Fixed transport error in io-base [Ticket #2531308]
+
+  * Fixed API docs discrepancy for IO [Ticket #2531756]
+
+  * Fixed error in sending an XML document as POST data. [Ticket #2531257]
+
+  * success/failure/complete/etc callbacks that throw errors no longer
+    hijack all future transactions. [Ticket #2532107]
 
 YUI Loader Change History
 =========================
@@ -713,7 +737,6 @@ all of them asynchronously, then return to loader for post processing of the inj
    * 2531646 "undefined" error
    * 2531697 Loading a CSS module without specifying 'type=css' will throw a syntax error
    * 2531587 Loader will not load custom modules if combine: true
-
 
 Matrix Change History
 =====================
@@ -765,7 +788,6 @@ Panel Change History
   * See also WidgetButtons' change history.
 
   * See also WidgetModality's change history.
-
 
 Parallel Change History
 =======================
@@ -841,7 +863,6 @@ Uploader Utility (New) Change History
   * Introduced new APIs (more details in documentation)
   * Added keyboard access to the Flash layer
   * Old uploader has been deprecated as 'uploader-deprecated' module.
-
 
 
 Widget Buttons Change History
@@ -932,7 +953,6 @@ Widget Buttons Change History
   * Buttons can now be added to a widget's body, not just the header and footer.
 
 
-
 Widget Modality Change History
 ==============================
 
@@ -947,6 +967,19 @@ Widget Modality Change History
 
   * Moved mask-related styles/skins out of Panel and into WidgetModality.
 
+Widget Parent Change History
+============================
+
+  * Removing a focused child, now unsets activeDescendant properly
+
+Widget Stack Change History
+===========================
+
+  * [!] Default `zIndex` was reverted back to `0` now that parsing works
+    correctly.
+
+  * `zIndex` is now correctly parsed from a widget's `srcNode` using an updated
+    `HTML_PARSER` implementaiton. [Ticket 2530186] [PR #68] [Hat tip Pat Cavit]
 
 
 Widget Std Mod Change History
