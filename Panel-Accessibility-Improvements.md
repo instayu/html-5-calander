@@ -244,9 +244,19 @@ Y.Panel = Y.Base.create('panel', Y.Widget, [
 ```
 
 ## Modality
-Panel's modal behavior seems to deviate from the modal behavior of desktop dialogs in two ways:
 
-1. The Panel's bounding box is in the tab flow (has a tabIndex of 0). Typically the Panel itself isn't in the tab flow, just its contents are. So, arguable the Panel's tabIndex attribute should be defaulted to -1, ensuring it can still be focused via script, but isn't in the tab flow.
+The user can use the Tab key to move focus from the Panel into the browser's location bar. Typically modal controls restrict the Tab flow to the scope of the control. It is worth considering this behavior over the current behavior.
 
-2. The user can use the Tab key to move focus from the Panel into the browser's location bar. Typically modal controls restrict the Tab flow to the scope of the control.
+This could be implemented by having the Widget-Modality extension append an empty, but focusable \<div\>s as the last child of the bounding box. If that last node gets focus, the event handler would forward focus back to the bounding box.
+
+```html
+<div class="yui3-panel" tabindex="0">
+  <div class="yui3-panel-content">
+    <div class="yui3-widget-hd"></div>
+    <div class="yui3-widget-bd"></div>
+    <div class="yui3-widget-ft"></div>        
+  </div>
+  <div tabindex="0"></div>
+</div>
+```
 
