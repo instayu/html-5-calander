@@ -41,7 +41,7 @@ Since there are two possible ARIA roles ("dialog" and "alertdialog") and the "ar
 For example, this config allows the developer to define what ARIA role to use, as well as the elements to receive the "aria-lablledby" and "aria-describedby" attributes.
 
 ```js
-var nestedPanel = new Y.Panel({
+var Panel = new Y.Panel({
     aria: {
         'role': 'dialog',
         'aria-labelledby' : 'yui3-widget-hd',
