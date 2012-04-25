@@ -35,3 +35,18 @@ Example usage of the above attributes based on the current YUI Panel markup and 
 </div>
 ```
 
+### Applying ARIA Attributes
+Since there are two possible ARIA roles ("dialog" and "alertdialog") and the "aria-describedby" attribute is only used with the "alertdialog" role, it might make sense for Panel to manage the application of the ARIA attributes via a configuration attribute.
+
+For example, this config allows the developer to define what ARIA role to use, as well as the elements to receive the "aria-lablledby" and "aria-describedby" attributes.
+
+```js
+var nestedPanel = new Y.Panel({
+    aria: {
+        'role': 'dialog',
+        'aria-labelledby' : 'yui3-widget-hd',
+        'aria-describedby' : 'yui3-widget-bd'
+    }
+});
+```
+
