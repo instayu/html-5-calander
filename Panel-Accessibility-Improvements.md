@@ -38,7 +38,7 @@ Example usage of the above attributes based on the current YUI Panel markup and 
 ### Applying ARIA Attributes
 Since there are two possible ARIA roles ("dialog" and "alertdialog") and the "aria-describedby" attribute is only used with the "alertdialog" role, it might make sense for Panel to manage the application of the ARIA attributes via a configuration attribute.
 
-For example, this config allows the developer to define what ARIA role to use, as well as the elements to receive the "aria-lablledby" and "aria-describedby" attributes.
+For example, the following example config allows the developer to define what ARIA role to use, as well as the elements to receive the "aria-lablledby" and "aria-describedby" attributes. (Note: It is likely that the "dialog" or "alertdialog" role will always be applied to the bounding box, so that is why this config example doesn't allow the developer to specify the element to which the "role" attribute should be applied.)
 
 ```js
 var Panel = new Y.Panel({
@@ -49,4 +49,10 @@ var Panel = new Y.Panel({
     }
 });
 ```
+
+Going forward, a Dialog and Alert subclass could be written that sets the relevant ARIA attributes using the above config.
+
+
+
+
 
