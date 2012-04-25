@@ -52,7 +52,40 @@ var Panel = new Y.Panel({
 
 Going forward, Dialog and Alert subclasses could be written that set the relevant ARIA attributes using the above config.
 
+### Hidden State
+ARIA also provides the "aria-hidden" attribute for indicating the hidden state of a widget. This could be incorporated into Panel in two ways:
 
+1. The Widget base class should toggle "aria-hidden" to the correct value in response to the "visible" attribute changing:
+```js
+_uiSetVisible: function(val) {
+    var bb = this.get(BOUNDING_BOX);
+    bb.toggleClass(this.getClassName(HIDDEN), !val);
+    bb.set("aria-hidden", !val);    
+} 
+```
 
+2. The Widget-Modality extension should toggle "aria-hidden" on the \<body\> to prevent users of screen readers from being able to move outside of the modal widget. When a modal widget is made visible:
+
+* "aria-hidden" should be set to "true" on the \<body\> 
+* "aria-hidden" should be set to "false" on the widget's bounding box
+
+Here's an example of what the markup would look like for a modal dialog:
+
+'''html
+<body aria-hidden="true">
+
+<div class="yui3-panel" role="alertdialog" aria-labelledby="header" aria-describedby="msg" aria-hidden="true">
+  <div class="yui3-panel-content">
+    <div id="header" class="yui3-widget-hd">Alert</div>
+    <div id="msg" class="yui3-widget-bd">Are you sure you want to submit this form?</div>
+    <div class="yui3-widget-ft">
+      <button type="button">OK</button>
+      <button type="button">Cancel</button>
+    </div>
+  </div>  
+</div>
+
+</body>
+'''
 
 
