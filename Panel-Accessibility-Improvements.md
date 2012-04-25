@@ -162,5 +162,84 @@ Y.Panel = Y.Base.create('panel', Y.Widget, [
 });
 ```
 
+#### Implementing A "Cancel" Event
+Building on the concept of restoring focus when the Panel is cancelled by the user: Panel could implement a "cancel" event. This event would be fired in response to user actions like pressing Esc or clicking the "x" (close) button. The default behavior for the "cancel" event would be to restore focus to the element that had focus prior to the Panel's display. Here's an example:
+
+```js
+Y.Panel = Y.Base.create('panel', Y.Widget, [
+    Y.WidgetPosition,
+    Y.WidgetStdMod,
+    Y.WidgetAutohide,
+    Y.WidgetButtons,
+    Y.WidgetModality,
+    Y.WidgetPositionAlign,
+    Y.WidgetPositionConstrain,
+    Y.WidgetStack
+], {
+    BUTTONS: {
+        close: {
+            label  : 'Close',
+            action : 'hide',
+            section: 'header',
+
+            // Uses `type="button"` so the button's default action can still
+            // occur but it won't cause things like a form to submit.
+            template  : '<button type="button" />',
+            classNames: getClassName('button', 'close')
+        }
+    },
+
+    _restoreFocus: function (e) {
+        var activeEl = e.activeElement;
+        if (activeEl) {
+            activeEl.focus();
+        }
+    },
+    
+    _onPanelVisibleChange: function (e) {
+        var activeElement = Y.one("doc").get("activeElement"),
+            closeBtn = Y.one(".yui3-button-close"),
+            data;
+        
+        if (e.newVal) {
+
+            if (activeElement && activeElement.get("nodeName").toLowerCase() !== "body") {
+                data = { activeElement: activeElement };    
+            }
+
+            this.get("boundingBox").once("keydown", function (e) {
+                if (e.keyCode === 27) {
+                    this.fire("cancel", data);
+                }
+            }, this);
+
+            
+            if (closeBtn) {
+                closeBtn.once("click", function () {
+                    this.fire("cancel", data);
+                }, this);
+            }
+        
+        }
+    }, 
+    
+    initializer: function () {
+        this.publish("cancel", {
+            defaultFn: this._restoreFocus
+        });
+    },
+    
+    bindUI: function () {
+        this.on("visibleChange", this._onPanelVisibleChange);
+    }
+    
+}, {
+    ATTRS: {
+        buttons: {
+            value: ['close']
+        }
+    }
+});
+```
 
 
