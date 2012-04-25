@@ -50,7 +50,7 @@ var Panel = new Y.Panel({
 });
 ```
 
-Going forward, a Dialog and Alert subclass could be written that sets the relevant ARIA attributes using the above config.
+Going forward, Dialog and Alert subclasses could be written that set the relevant ARIA attributes using the above config.
 
 
 
