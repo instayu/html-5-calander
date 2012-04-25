@@ -71,7 +71,7 @@ _uiSetVisible: function(val) {
 
 Here's an example of what the markup would look like for a modal dialog:
 
-'''html
+```html
 <body aria-hidden="true">
 
 <div class="yui3-panel" role="alertdialog" aria-labelledby="header" aria-describedby="msg" aria-hidden="true">
@@ -86,6 +86,6 @@ Here's an example of what the markup would look like for a modal dialog:
 </div>
 
 </body>
-'''
+```
 
 
