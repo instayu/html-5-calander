@@ -74,7 +74,7 @@ Here's an example of what the markup would look like for a modal dialog:
 ```html
 <body aria-hidden="true">
 
-<div class="yui3-panel" role="alertdialog" aria-labelledby="header" aria-describedby="msg" aria-hidden="true">
+<div class="yui3-panel" role="alertdialog" aria-labelledby="header" aria-describedby="msg" aria-hidden="false">
   <div class="yui3-panel-content">
     <div id="header" class="yui3-widget-hd">Alert</div>
     <div id="msg" class="yui3-widget-bd">Are you sure you want to submit this form?</div>
