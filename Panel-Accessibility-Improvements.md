@@ -92,7 +92,8 @@ Here's an example of what the markup would look like for a modal dialog:
 When a Panel is made visible, focus should move into the Panel—ideally to the control that represents the first or default action. This will ensure users of screen readers that the context has changed and they are now inside the Panel. Without the change in focus, users of screen readers will not be aware that the Panel is visible.
 
 ### Setting Focus
-Currently when a Panel is made visible focus is only moved into the Panel when either the Widget-Modality extension is in use, or the developer has specified a default button. Otherwise, focus remains where is was previous to the Panel's display. To fix this, Panel should set focus to either the bounding box, or some specified element when it is made visible.
+Currently when a Panel is made visible focus is only moved into the Panel when either the Widget-Modality extension is in use, or the developer has specified a default button. Otherwise, focus remains where is was previous to the Panel's display. To fix this, Panel should set focus to some element inside it (defined by a new configuration attribute), or default to the bounding box.
+
 
 ### Restoring Focus
 If the display of a Panel is canceled, by the user hitting the "X" (close) button or by pressing Esc, focus should be restored to the element that had focus prior to the Panel's display. This is easily accomplished using the document's "activeElement" property. "activeElement" returns a reference to the currently focused element. When the Panel is made visible it should capture a reference to the current value of document.activeElement before it sets focus inside the panel. When the Panel hides, it can use that reference to restore focus the node that had focus prior to the Panel being visible.
