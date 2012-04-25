@@ -91,14 +91,76 @@ Here's an example of what the markup would look like for a modal dialog:
 ## Managing Focus
 When a Panel is made visible, focus should move into the Panel—ideally to the control that represents the first or default action. This will ensure users of screen readers that the context has changed and they are now inside the Panel. Without the change in focus, users of screen readers will not be aware that the Panel is visible.
 
-### Focus onShow
-Currently when a Panel is made visible focus is only moved into the Panel when the Widget-Modality extension is in use. Otherwise, focus remains where is was previous to the Panel's display. To fix this, Panel should set focus to either the bounding box, or some specified element when it is made visible.
+### Setting Focus
+Currently when a Panel is made visible focus is only moved into the Panel when either the Widget-Modality extension is in use, or the developer has specified a default button. Otherwise, focus remains where is was previous to the Panel's display. To fix this, Panel should set focus to either the bounding box, or some specified element when it is made visible.
 
-### Restore Focus onCancel
-If the display of a Panel is canceled, by the user hitting the "X" (close) button or by pressing Esc, focus should be restored to the element that had focus prior to the Panel's display. This is easily accomplished using the document's "activeElement" property. "activeElement" returns a reference to the currently focused element. When the Panel is made visible it should capture a reference to the current value of document.activeElement before it sets focus inside the panel. When the Panel hides, it can then use that reference to restore focus the node that had focus prior to the Panel being visible.
+### Restoring Focus
+If the display of a Panel is canceled, by the user hitting the "X" (close) button or by pressing Esc, focus should be restored to the element that had focus prior to the Panel's display. This is easily accomplished using the document's "activeElement" property. "activeElement" returns a reference to the currently focused element. When the Panel is made visible it should capture a reference to the current value of document.activeElement before it sets focus inside the panel. When the Panel hides, it can use that reference to restore focus the node that had focus prior to the Panel being visible.
 
+Here's an example of how this could be implemented in Panel:
+```js 
+Y.Panel = Y.Base.create('panel', Y.Widget, [
+    Y.WidgetPosition,
+    Y.WidgetStdMod,
+    Y.WidgetAutohide,
+    Y.WidgetButtons,
+    Y.WidgetModality,
+    Y.WidgetPositionAlign,
+    Y.WidgetPositionConstrain,
+    Y.WidgetStack
+], {
+    BUTTONS: {
+        close: {
+            label  : 'Close',
+            action : 'hide',
+            section: 'header',
 
+            // Uses `type="button"` so the button's default action can still
+            // occur but it won't cause things like a form to submit.
+            template  : '<button type="button" />',
+            classNames: getClassName('button', 'close')
+        }
+    },
 
+    _restoreFocus: function (node) {
+        node.focus();
+    },
+    
+    _onPanelVisibleChange: function (e) {
+        var activeElement = Y.one("doc").get("activeElement"),
+            closeBtn = Y.one(".yui3-button-close");
+        
+        if (e.newVal) {
+        
+            if (activeElement && activeElement.get("nodeName").toLowerCase() !== "body") {
+                this.get("boundingBox").once("keydown", function (e) {
+                    if (e.keyCode === 27) {
+                        this._restoreFocus(activeElement);
+                    }
+                }, this);
+            }
+            
+            if (closeBtn) {
+                closeBtn.once("click", function () {
+                    this._restoreFocus(activeElement);
+                }, this);
+            }
+        
+        }
+    }, 
+    
+    bindUI: function () {
+        this.on("visibleChange", this._onPanelVisibleChange);
+    }
+    
+}, {
+    ATTRS: {
+        buttons: {
+            value: ['close']
+        }
+    }
+});
+```
 
 
 
