@@ -32,16 +32,16 @@ AutoComplete Change History
 Charts Change History
 =====================
 
-  * #2532138 Fixed min/max issues with NumericAxis.
+  * Fixed min/max issues with NumericAxis. [Ticket #2532138]
 
-  * #2532195 Fixed issues with tooltip when numeric values are used in a 
-    CategoryAxis.
+  * Fixed issues with tooltip when numeric values are used in a 
+    CategoryAxis. [Ticket #2532195]
 
 
 DOM Change History
 ==================
 
-  * Bug fix: Fix multiple grouped queries for IE. [Ticket 2532155]
+  * Bug fix: Fix multiple grouped queries for IE. [Ticket #2532155]
 
 
 Get Utility Change History
@@ -54,29 +54,30 @@ Get Utility Change History
 Graphics Change History
 =======================
 
-  * #2531921 Fixed issue in which gradients fills threw an exception in canvas 
-    implementations.
+  * Fixed issue in which gradients fills threw an exception in canvas 
+    implementations. [Ticket #2531921]
 
-  * #2532197 Fixed issue in which updating the transform attribute of a shape 
-    caused two redraws.
+  * Fixed issue in which updating the transform attribute of a shape 
+    caused two redraws. [Ticket #2532197]
 
 
 Matrix Change History
 =====================
 
-  * #2532208 Fixed issue in which matrix animations were not ending correctly.  
+  * Fixed issue in which matrix animations were not ending correctly.
+    [Ticket #2532208]
 
 
 Node Change History
 ===================
 
-  * Bug fix: Force case-insensitive removeAttribute in IE. [Ticket 2532192]
+  * Bug fix: Force case-insensitive removeAttribute in IE. [Ticket #2532192]
 
 
 ScrollView Change History
 =========================
 
-  * Fixed `mousewheel` bug (#2532214)
+  * Fixed `mousewheel` bug [Ticket #2532214]
   
 
 Widget Change History
