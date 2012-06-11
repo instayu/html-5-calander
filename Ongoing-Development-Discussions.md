@@ -5,7 +5,7 @@ Usually, design proposals take the form of gists, and code reviews pull requests
 Code Reviews
 ============
 
-(none yet)
+* [TreeView](https://github.com/yui/yui3/pull/159)
 
 Design Proposals
 ================
