@@ -6,6 +6,7 @@ Code Reviews
 ============
 
 * [TreeView](https://github.com/yui/yui3/pull/159)
+* [Base Events](https://github.com/yui/yui3/pull/168)
 
 Design Proposals
 ================
