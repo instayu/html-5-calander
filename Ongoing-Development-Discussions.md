@@ -4,8 +4,7 @@ Usually, design proposals take the form of gists, and code reviews pull requests
 
 Code Reviews
 ============
-
-* [LazyModelList](https://github.com/yui/yui3/pull/154)
+* <del>[LazyModelList](https://github.com/yui/yui3/pull/154)</del> (Merged into master)
 * [TreeView](https://github.com/yui/yui3/pull/159)
 * [Base Events](https://github.com/yui/yui3/pull/168)
 * [Touch Event Simulation](https://github.com/yui/yui3/pull/177)
