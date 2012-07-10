@@ -17,6 +17,8 @@ It also includes the test console (skinned to be out of the way & collapsed by d
 
 It will only run on example pages, landing pages are totally ignored (since they don't contain any functional code, we can change this later if we need to).
 
+Do not use alerts in your examples. You should print to a DIV or other container. Alerts will stall the tests and keep them from running properly.
+
 ## Dev time use
 
 By default, if you fire up `selleck --server` from the src directory these tests will automatically run & the filter is automatically set to raw. There is no url parameter to turn them off. This might be a little annoying until you get all of your test files in place, but at least you won't miss one ;)
