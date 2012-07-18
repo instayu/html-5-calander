@@ -85,6 +85,7 @@ Widget Change History
 
   * Cleaned up logic to detach document focus listener after last Widget is 
     destroyed. The count was off by one, leaving one Widget in memory.
+  * DataTable widget changed quite a bit see: http://yuilibrary.com/yui/docs/datatable/migration.html
 
 
 Widget Buttons Change History
