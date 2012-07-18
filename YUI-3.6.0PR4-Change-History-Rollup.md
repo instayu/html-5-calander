@@ -1,27 +1,44 @@
 YUI 3.6.0 Change History Rollup
 ===============================
 
-The changes included in the YUI 3.6.0 up to PR2 are listed below, per component.  Components not listed were not changed in 3.6.0PR2.
+The changes included in the YUI 3.6.0 up to PR4 are listed below, per component.  Components not listed were not changed in 3.6.0PR1-PR4.
+
+Anim Change History
+===================
+
+3.6.0
+-----
+  * Allow for pass through to object properties for arbitrary animation.
 
 App Framework Change History
 ============================
+
+3.6.0
+-----
 
 ### App
 
 * Added static property: `Y.App.serverRouting`, which serves as the default
   value for the `serverRouting` attribute of all apps. [Ticket #2532319]
 
-* Organized all CSS classes `Y.App` uses under a static `CLASS_NAMES` property.
-
-### App Transitions
-
 * Fixed issue with non-collapsing white space between views while transitioning.
   White space is now fully collapsed and prevents views from jumping after a
   cross-fade transition. [Ticket #2532298]
 
+* Organized all CSS classes `Y.App` uses under a static `CLASS_NAMES` property.
+
 * Moved `transitioning` CSS classname under `Y.App.CLASS_NAMES`.
 
+### Model
+
+* Added ModelSync.REST, an extension which provides a RESTful XHR `sync()`
+  implementation that can be mixed into a Model or ModelList subclass.
+
 ### ModelList
+
+* Added LazyModelList, a subclass of ModelList that manages a list of plain
+  objects rather than a list of Model instances. This can be more efficient when
+  working with large numbers of items. [Ryan Grove]
 
 * The `add()` method now accepts an `index` option, which can be used to insert
   the specified model(s) at a specific index in the list. [Greg Hinch]
@@ -32,6 +49,10 @@ App Framework Change History
 * The `remove()` method now optionally accepts the index of a model to remove
   (or an array of indices). You no longer need to specify the actual model
   instance(s), although that's still supported as well.
+
+* The `filter()` method now returns an instance of the subclass rather than
+  ModelList itself when called with `options.asList` set to `true` on a subclass
+  of ModelList. [Ryan Grove]
 
 * Fixed an issue where a list that received bubbled events from a model would
   assume the model was in the list if its `id` changed, even if the model
@@ -44,17 +65,27 @@ App Framework Change History
   path-like hash fragments are now treated as a continuation of the URL's path
   when the router has been configured with a `root`. [Ticket #2532318]
 
-* Fixed issue when multiple routers on were on the page and one router was
-  destroyed the remaining routers would stop dispatching. [Ticket #2532317]
+* Fixed issue when multiple routers are on the page and one router is destroyed
+  the remaining routers would stop dispatching. [Ticket #2532317]
+
+* Fixed a multi-router issue where creating a router instance after a previous
+  router's `save()`/`replace()` method was called would cause in infinite
+  History replace loop. [Ticket #2532340]
 
 * The `req` object passed to routes now has a `pendingRoutes` property that
   indicates the number of matching routes after the current route in the
   dispatch chain. [Steven Olmsted]
 
+* Added a static `Y.Router.dispatch()` method which provides a mechanism to
+  cause all active router instances to dispatch to their route handlers without
+  needing to change the URL or fire the `history:change` or `hashchange` event.
 
 
 Attribute Change History
 ========================
+
+3.6.0
+-----
 
   * Optimized valueFn handling, so that valueFn is not called for Attribute,
     if user provides a value.
@@ -63,8 +94,21 @@ Attribute Change History
     mixed into the event payload for all the attributes set through setAttrs()
 
 
+AutoComplete Change History
+===========================
+
+3.6.0
+-----
+
+* Fixed an issue that prevented events from being detached when the AutoComplete
+  widget was destroyed. [Ticket #2532419]
+
+
 Base Change History
 ===================
+
+3.6.0
+-----
 
   * "value" defined in a subclass ATTRS definition, will now override 
     "valueFn" for the same attribute from the superclass chain. 
@@ -76,15 +120,32 @@ Base Change History
     This meant that subclasses had to define a "valueFn" to overide 
     superclasses, if the superclass used "valueFn".
 
+Button Change History
+====================
+
+3.6.0
+-----
+  * #2532458 - ButtonGroup properly handles nested labels.
+
+
 Calendar Change History
 =======================
 
+3.6.0
+-----
   * Bug fixes for 2532262, 2532277, 2531828.
   * Near 100% unit test coverage
 
 Charts Change History
 =====================
 
+3.6.0
+-----
+
+  * #2532336 Addressed issue in which tooltip was referenced before it was set. 
+  * #2532078 Addressed issue in which setting a dataProvider with a different structure failed to update a chart.
+  * #2532103 Addressed issues with null values in stacked area charts.
+  * #2532115 Addressed issue in which stacked area charts did not close correctly when a series had null values at the beginning or end.
   * #2531796 Addressed issue in which a combo series with discontinuous data and discontinuousType set to dashed broke the chart.
   * #2532102 Addressed issue in which Area Charts with null values at the start or beginning do not close accurately.
   * #2532186 Addressed issue in which categoryDisplayName and valueDisplayName in seriesCollection were not accepted on init.
@@ -101,6 +162,9 @@ Charts Change History
 Collection Change History
 =========================
 
+3.6.0
+-----
+
 * [!] The `sort` parameter of `Array.unique()` has been removed. This parameter
   was deprecated in YUI 3.3.0.
 
@@ -111,8 +175,12 @@ Collection Change History
 * The `every()`, `filter()`, `map()`, and `reduce()` functions now work
   correctly on array-like objects in ES5 browsers. [Ticket #2531652]
 
+
 DataTable Change History
 ========================
+
+3.6.0
+-----
 
  * Extracted all rendering logic into new class Y.DataTable.TableView.  Added
    `view` and `viewConfig` attributes to configure which view to use to render
@@ -125,8 +193,36 @@ DataTable Change History
  * Column configuration array is now copied when assigned.  This allows the same
    array and column config objects to be used for multiple tables.
 
+
+Drag and Drop Change History
+============================
+
+3.6.0
+-----
+
+* 2531340 DDConstrained broken when using DDNodeScroll plugin
+* 2532009 Drag examples could use some Jeff polish
+* 2532106 Drag handles aren't well explained in the example.
+* 2532216 DDConstrained does not remove event listeners on destroy properly
+* 2532291 DD Delegate ignores dragNode configuration option
+* 2532500 Y.Plugin.Drag interferes with browser's native handling of dragged links, even when those links aren...
+
+
+Rich Text Editor Change History
+===============================
+
+3.6.0
+-----
+
+* 2532376 bz #5540030 - Indent/Outdent button doestn't work properly in Chrome/IE when in RTL mode
+* 2532395 nodeChange event's command key loses both the underline and strikethrough property if both are appli...
+
+
 Custom Event Infrastructure Change History
 ==========================================
+
+3.6.0
+-----
 
  * Fixed memory consumption issue where Y.Do's internal touched object cache, 
    Y.Do.objs, would never release object references.
@@ -144,12 +240,17 @@ Custom Event Infrastructure Change History
 File Module Change History
 ==========================
 
+3.6.0
+-----
   * Added the ability to set custom headers and 
     `withCredentials` property on the XHR instance.
 
 
 Graphics Change History
 =======================
+
+3.6.0
+-----
 
   * #2532293 Filled out testing coverage. 
   * #2532307 Added xRadius and yRadius attributes for ellipses. 
@@ -170,43 +271,110 @@ Graphics Change History
 Handlebars Change History
 =========================
 
-  * Merged in commit wycats/handlebars.js@0afc8b58d
+3.6.0
+-----
+
+Merged in commit wycats/handlebars.js@0afc8b58d
+
+
+History Change History
+======================
+
+3.6.0
+-----
+
+* HistoryHTML5 now treats empty `window.history.state` objects as `null` when
+  seeding its initial state value on construction. [Ticket #2532340]
 
 
 IO Utility Change History
 =========================
 
+3.6.0
+-----
+
   * Fixed issue when running in Node.js where `config.data` wasn't automatically
     stringified. [Ticket #2532390]
 
 
+YUI Loader Change History
+=========================
+
+3.6.0
+-----
+
+* 2531640 Configuring the loader for modules that ship with only the root bundle.
+* 2532070 Loader may calculate incorrect css file paths for different skins
 Matrix Change History
 =====================
 
+3.6.0
+-----
+
   * #2532255 Added translateX and translateY methods.
+
+
+Parallel Change History
+=======================
+
+3.6.0
+-----
+
+* 2532215 - Handling no fn callbacks
 
 Pjax Change History
 ===================
+
+3.6.0
+-----
 
 * Fixed issue where pjax would try to navigate from clicks on elements which
   were not anchors or the anchor's `href` was a URL from a different origin than
   the current page. [Ticket #2531943]
 
+
 Plugin Host Change History
 ==========================
+
+3.6.0
+-----
 
   * Allow for non-base/non-attribute based plugins, by not assuming setAttrs or destroy exist
     on the plugin.
 
 
+ScrollView Change History
+=========================
+
+3.6.0
+-----
+  
+  * Fixed issue with mousewheel not working when multiple scrollviews are present (#2532377)
+
+
 Slider Change History
 =====================
 
+3.6.0
+-----
+
   * `new Y.Slider({ disabled: true })` now locks thumb [#2532100]
+
+Sortable Utility Change History
+===============================
+
+3.6.0
+-----
+
+* 2531908 Sortable utility - can't drop on empty container space
+* 2531909 Sortable - JS error when drug between two full join lists after manual nodes manipulation
+
 
 SWF Utility Change History
 ==========================
 
+3.6.0
+-----
   * Changed how the `<object>` tag is written to the DOM
     to fix an issue in IE (bug 2529891).
 
@@ -214,6 +382,8 @@ SWF Utility Change History
 Uploader Utility (New) Change History
 =====================================
 
+3.6.0
+-----
   * Bug fix for 2532150 (empty fileList after fileselect event)
   * Bug fix for 2532140 (can't select the same set of files twice)
   * Bug fix for 2532111 (drop event is not being fired)
@@ -225,23 +395,51 @@ Uploader Utility (New) Change History
     property for the HTML5 uploader (passed through to the underlying
     XMLHttpRequest Level 2 instance).
 
+
 Widget Modality Change History
 ==============================
+
+3.6.0
+-----
 
   * Removed hard-coded "yui3-" CSS classname where the mask node was being
     retrieved via the ".yui3-widget-mask" CSS selector. [Ticket #2532363]
 
+
 Widget Change History
 =====================
+
+3.6.0
+-----
 
  * Widget no longer runs html parser against the default `contentBox` created
    from `CONTENT_TEMPLATE`, so that html parser implementations don't need to
    check for `null` results for missing nodes.
 
+YQL Change History
+==================
+
+3.6.0
+-----
+
+* 2529620 Would like to see a context property in the YQL module
+* 2530225 Allow use of failure callback for YQL module
+
 
 YUI Core Change History
 =======================
 
+3.6.0
+-----
+
 * Changed the default `throwFail` behavior to act like it sounds, see ticket #2531679
     If `throwFail` is `true` (default) we will not wrap modules or the use callback in
     a try catch. If it's `false`, they will be wrapped (the old behavior).
+
+* 2528334 YUI configuration to delay use() callback until domready or window load
+* 2529742 Y[UI()].use() callback's 2nd parameter: 2 issues
+* 2531647 div is appended precedent to <head> node
+* 2531679 Module/use callback load errors do not provide useful stacktrace
+* 2532215 Y.Parallel should push arguments if fn is not specified
+* 2532344 Missing requirements sometimes return in wrong order
+* 2532397 Automate Testing for OOP examples
