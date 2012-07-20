@@ -31,7 +31,7 @@ When our internal Hudson server builds the docs, these tests will be included. H
 
 The only changes you will have to make are for your examples that open in a new window. I'm including the test-runner in the global layout for the examples, so it will always "just work" for them. However, new window examples use their own layout, so you need to add my `{{>test-runner}}` partial to the HEAD of your example. You also must use an example name in your `pages` config.
 
-For example, `dd` has an example called "photo-browser" and a page called "photo-browser-example" (new window), in the `pages` config for this module I added a key for "name" and called it "photo-browser" (since that is the name of the example that this page belongs to. Then I added a `"newWindow": "true"` key to the "photo-browser" example to tell the Test-Runner that it should not run the tests on this page since it opens in a new window.
+For example, `dd` has an example called "photo-browser" and a page called "photo-browser-example" (new window), in the `pages` config for this module I added a key for "name" and called it "photo-browser" (since that is the name of the example that this page belongs to. Then in the `examples` part of the config, I added a `"newWindow": "true"` key to the "photo-browser" example to tell the Test-Runner that it should not run the tests on this page, since it's the page that has the button that opens a new window.
 
 ## Working Examples
 
