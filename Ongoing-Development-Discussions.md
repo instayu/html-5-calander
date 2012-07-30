@@ -14,6 +14,7 @@ Code Reviews
 Design Proposals
 ================
 
+* [Data Binding](https://gist.github.com/e0fbadb4b3b17733fbca)
 * [Attribute Value Filters](https://gist.github.com/2025242)
 * [`Y.WidgetStringRenderer`](https://gist.github.com/1386836) (Renders Widgets to HTML strings instead of DOM nodes)
 * [Data Access in YUI](https://gist.github.com/0fe7ff471d8bafb57878)
