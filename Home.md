@@ -4,7 +4,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Upcoming Release: 3.6.0
 
-* [[YUI 3.6.0PR4 Change History Rollup]]
+* [[YUI 3.6.0 Change History Rollup]]
 
 ## Current Release: 3.5.1
 
