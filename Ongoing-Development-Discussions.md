@@ -7,9 +7,6 @@ Code Reviews
 * Touch Event Simulation: [Part 1](https://github.com/yui/yui3/pull/177), [Part 2](https://github.com/yui/yui3/pull/200)
 * [ModelSync.Local](https://github.com/yui/yui3/pull/190)
 * [Base Events](https://github.com/yui/yui3/pull/168)
-* <del>[LazyModelList](https://github.com/yui/yui3/pull/154)</del> (Merged into master)
-* <del>[ModelSync.REST](https://github.com/yui/yui3/pull/179)</del> (Merged into master)
-* <del>[TreeView](https://github.com/yui/yui3/pull/159)</del> (Moved into Gallery)
 
 Design Proposals
 ================
