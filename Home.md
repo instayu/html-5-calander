@@ -6,7 +6,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 * [[Ongoing Development Discussions]]
 
-Current Release: 3.6.0
+## Current Release: 3.6.0
 
 * [[YUI 3.6.0 Change History Rollup]]
 
