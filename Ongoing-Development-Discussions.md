@@ -4,6 +4,8 @@ Usually, design proposals take the form of gists, and code reviews pull requests
 
 Code Reviews
 ============
+
+* [Router Middleware](https://github.com/yui/yui3/pull/211)
 * Touch Event Simulation: [Part 1](https://github.com/yui/yui3/pull/177), [Part 2](https://github.com/yui/yui3/pull/200)
 * [ModelSync.Local](https://github.com/yui/yui3/pull/190)
 * [Base Events](https://github.com/yui/yui3/pull/168)
