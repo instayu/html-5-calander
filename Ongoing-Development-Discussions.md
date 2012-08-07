@@ -20,7 +20,7 @@ Design Proposals
 * [`Y.WidgetStringRenderer`](https://gist.github.com/1386836) (Renders Widgets to HTML strings instead of DOM nodes)
 * [Data Access in YUI](https://gist.github.com/0fe7ff471d8bafb57878)
   * [Brainstorming data access normalization APIs/tiers](https://gist.github.com/2375130)
-* [[TreeView]]
+* [[Treeview Design Ideas]]
 
 Other Stuff
 ===========
