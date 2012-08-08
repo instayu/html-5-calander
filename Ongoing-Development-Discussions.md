@@ -6,10 +6,10 @@ Code Reviews
 ============
 
 * [Router Middleware](https://github.com/yui/yui3/pull/211)
-* [Custom Response Parsing for ModelSync.REST](https://github.com/yui/yui3/pull/213)
-* Touch Event Simulation: [Part 1](https://github.com/yui/yui3/pull/177), [Part 2](https://github.com/yui/yui3/pull/200)
 * [ModelSync.Local](https://github.com/yui/yui3/pull/190)
 * [Base Events](https://github.com/yui/yui3/pull/168)
+* <del>[Custom Response Parsing for ModelSync.REST](https://github.com/yui/yui3/pull/213)</del> (Merged into `master`)
+* <del>Touch Event Simulation: [Part 1](https://github.com/yui/yui3/pull/177), [Part 2](https://github.com/yui/yui3/pull/200), [Part 3](https://github.com/yui/yui3/pull/215)</del> (Merged into `master`)
 
 Design Proposals
 ================
