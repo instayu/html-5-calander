@@ -30,3 +30,13 @@
 * Persistent Tree -- use localStorage or cookies to preserve the open/shut state of each node across page views. Very useful for any kind of "book" or "documentation" interface. (YUI 2 TreeView did not have this)
 * Router Tree -- A tree that responds to HTML History and reflects the current path -- as the user navigates around from {root}/foo/bar to {root}/baz/zot, the tree automatically closes /foo/bar and opens /baz/zot. 
 * Greppable Tree -- add advanced List-like features, like grep(), filter(), ... In response to some event, I need to find a node (according to some criteria) and expand to that node.
+
+## Performance data
+
+(I feel this is better suited for a forum post, but I didn't find any better place to put it so, here it goes)
+
+With the help of Zaar Hai I manage to get some solid performance data.   Zaar made the Widget-based TreeView with WidgetParent/WidgetChild to handle the relationship. See: [Gallery TreeView](http://yuilibrary.com/gallery/show/yui3treeview-ng).  I took a different approach, see: [Fast TreeView](https://github.com/Satyam/flyWeightTreeView).  We all know using Widget for every node is expensive. I didn't know how much so I tested it.   For a tree with 781 nodes (it just came out from a tree of four levels deep with 5 nodes per level), the one widget per node approach took around 17 secs, mine about 3.5secs.  The real difference, though, was in the memory consumption.  Mine took 11MB, the traditional one crashed the Chrome profiler.   So, I took the tree one level down to just three levels deep.   The traditional took 40MB for just 156 nodes!, mine came down to slightly above 10MB or, seen the other way around, as the tree grows, the memory doesn't go up that much: 156 nodes => 10.2MB, 781 nodes => 11MB.    I couldn't test them in Firefox because the 'script is taking too long' popped up all the time.  
+
+We all knew the one-widget-per-node was bad, I, for one, simply didn't know how bad.  Now I do.
+
+I went to the extreme of not having any active objects for each node, just a literal object per node with no methods or attributes or events.  A cache of TreeNode objects are slid on top of any node when needed so there are rarely ever more TreeNode instances than the depth of the tree. In that sense it is like LazyModelList, except that it moves in two dimensions (it adds depth) instead of one.  The code is not a complete implementation, it lacks many features, but the extra code for all the features should not worsen the numbers since the number of instances doesn't grow with the number of nodes but with the depth of the tree.
