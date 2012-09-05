@@ -9,6 +9,7 @@
 * The default TreeNode template should just expect a label and optionally take a url.
 * The default TreeNode template should make it easy to choose whether you want the label treated as text or as innerHTML. 
 * TreeView should ship with at least one (preferably a few) templates that show how to have a TreeNode with a label and a checkbox, or an editable label, or [insert your favorite feature here]
+* Templates for nodes should have separate DIVs for toggle icon, possibly graphic icon and selection indicator (checkbox or whatever) and content (label or HTML). The DIVs are required to tell apart the clicks on the different active areas of each node.  Most important of all a click on the toggle icon should be easily recognizable, the toggle cannot simply be a non-repeating background image on a left padding of the label (as in the suggested implementation)
 
 ## Data sources
 
