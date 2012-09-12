@@ -5,7 +5,11 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 ## Active Development on YUI
 
 * [[Ongoing Development Discussions]]
-* [[YUI 3.7.0 Change History Rollup]] (ongoing, currently reflects 3.7.0pr1)
+* [[YUI 3.7.0 Change History Rollup]] (ongoing, currently reflects 3.7.0pr2)
+
+## Next Release: 3.7.0 (Planned)
+
+* Planned release date: Tuesday September 18, 2012
 
 ## Current Release: 3.6.0
 
