@@ -173,17 +173,17 @@ GestureSimulation Change History
 Graphics Change History
 -----------------------
 
-  * #2532682 Addressed issue in which drawing and filling the same shape independently resulted in bad VML rendering.
+  * Ticket #2532682 Addressed issue in which drawing and filling the same shape independently resulted in bad VML rendering.
 
-  * #2531432 Added data attribute to allow for passing svg path strings to a shape.
+  * Ticket #2531432 Added data attribute to allow for passing svg path strings to a shape.
 
-  * #2532495 Added generic (non-implementation specific) class names to shapes.
+  * Ticket #2532495 Added generic (non-implementation specific) class names to shapes.
 
-  * #2532611 Added toFront and toBack methods to shapes.
+  * Ticket #2532611 Added toFront and toBack methods to shapes.
 
-  * #2532612 Added ability to animate a shapes stroke and fill attributes when incuding the anim-shape submodule. All shape attributes are animatable. 
+  * Ticket #2532612 Added ability to animate a shapes stroke and fill attributes when incuding the anim-shape submodule. All shape attributes are animatable. 
 
-  * #2532635 Added ability size the contents of a Graphic instance to fit into its parent container. 
+  * Ticket #2532635 Added ability size the contents of a Graphic instance to fit into its parent container. 
 
 
 IO Utility Change History
