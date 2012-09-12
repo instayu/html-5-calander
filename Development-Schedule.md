@@ -5,6 +5,5 @@ This page provides details on YUI's development schedule, including code freeze 
 -----
 
 * **September 18, 2012:** Stable release.
-* **???:** Code freeze for stable release.
 * **September 12, 2012:** Preview Release 2.
 * **September 7, 2012:** Code freeze for PR2.
