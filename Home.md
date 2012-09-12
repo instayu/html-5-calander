@@ -10,7 +10,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Next Release: 3.7.0 (Planned)
 
-* Planned release date: **Tuesday September 18, 2012**
+* **Tuesday September 18, 2012**: Planned release date
 
 ## Current Release: 3.6.0
 
