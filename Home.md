@@ -4,6 +4,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Active Development on YUI
 
+* [[Development Schedule]]
 * [[Ongoing Development Discussions]]
 * [[YUI 3.7.0 Change History Rollup]] (ongoing, currently reflects 3.7.0pr2)
 
