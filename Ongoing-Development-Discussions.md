@@ -27,7 +27,6 @@ Other Stuff
 
 * [[Attribute Wishlist]]
 * [[Panel Accessibility Improvements]]
-* [[CONTRIBUTING.md]]
 
 Past Design Proposals
 =====================
