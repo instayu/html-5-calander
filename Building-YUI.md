@@ -7,7 +7,9 @@
    * go to the directory you want built within YUI and just run `shifter`
 
 ## Tips
-* for help with Shifter just run `shifter -help`
+* For help with Shifter just run `shifter -help`
+* Make sure you are always running the latest version of Shifter `shifter --version` (it will let you know if you are out of date.)
+* Don't use the `--compressor` flag.
 
 ## References
 * [Shifter](http://yui.github.com/shifter) - `sudo npm -g i shifter`
