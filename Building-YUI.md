@@ -1,4 +1,4 @@
-(under construction)
+
 ## Steps
 * Read and understand the documentation on [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) - clone your copy of YUI to your development machine.
 * Read and understand the [Shifter](http://yui.github.com/shifter/) documentation. Most of what you need to know will be found here.
