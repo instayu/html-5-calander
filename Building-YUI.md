@@ -9,7 +9,7 @@
 ## Tips
 * For help with Shifter just run `shifter -help`
 * Make sure you are always running the latest version of Shifter `shifter --version` (it will let you know if you are out of date.)
-* Don't use the `--compressor` flag.
+* Don't use the `--compressor` flag (it forces the use of the old YUI Compressor)
 
 ## References
 * [Shifter](http://yui.github.com/shifter) - `sudo npm -g i shifter`
