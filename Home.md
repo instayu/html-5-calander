@@ -6,18 +6,19 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 * [[Development Schedule]]
 * [[Ongoing Development Discussions]]
-* [[YUI 3.7.0 Change History Rollup]] (ongoing, currently reflects 3.7.0pr2)
 
-## Next Release: 3.7.0 (Planned)
+## Next Release: TBD
 
-* **Tuesday September 18, 2012**: Planned release date
+YUI 3.7.1 was just released
 
-## Current Release: 3.6.0
+## Current Release: 3.7.1
 
-* [[YUI 3.6.0 Change History Rollup]]
+* YUI 3.7.1 was simply a rebuild of 3.7.0 to fix encoding issues.
+* [[YUI 3.7.0 Change History Rollup]]
 
 ## Past Releases:
 
+* [[YUI 3.6.0 Change History Rollup]]
 * [[YUI 3.5.1 Change History Rollup]]
 
 ## Future
