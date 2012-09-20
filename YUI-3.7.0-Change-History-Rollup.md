@@ -1,5 +1,3 @@
-The changes included in the YUI 3.7.0pr1 are listed below, per component. Components not listed were not changed in 3.7.0pr1 or 3.7.0pr2.
-
 App Framework Change History
 ----------------------------
 
