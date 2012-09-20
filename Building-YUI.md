@@ -1,6 +1,7 @@
 (under construction)
 ## Steps
 * Read and understand the documentation on [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) - clone your copy of YUI to your development machine.
+* Install [node.js](http://nodejs.org/#download)
 * install [Shifter](http://yui.github.com/shifter/): `sudo npm -g i shifter`
 * go to the directory you want built within YUI and just run `shifter`
 
