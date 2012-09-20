@@ -15,4 +15,4 @@
 * [Yogi](http://yui.github.com/yogi) - Command Line Helper for YU - `sudo npm -g i yogi`
 * [Grover](http://github.com/davglass/grover) - YUITest wrapper for PhantomJS - `sudo npm -g i grover`
 * [UglifyJS](https://github.com/mishoo/UglifyJS) - used to compress js
-* [Istanbul](https://github.com/yahoo/istanbul) - code coverage
+* [Istanbul](https://github.com/yahoo/istanbul) - code coverage tool
