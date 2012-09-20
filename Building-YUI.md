@@ -5,7 +5,7 @@
    * install [Shifter](http://yui.github.com/shifter/): `sudo npm -g i shifter`
    * go to the directory you want built within YUI and just run `shifter`
       * For example `cd yui3/src/anim & shifter`
-      * output goes to ../../build
+      * output goes to `../../build`
 
 ## Tips
 * For help with Shifter just run `shifter -help`
