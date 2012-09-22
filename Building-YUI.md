@@ -8,14 +8,14 @@
       * output goes to `../../build`
 
 ## Tips
-* For help with Shifter just run `shifter -help`
+* For help with Shifter just run `shifter --help`
 * Make sure you are always running the latest version of Shifter `shifter --version` (it will let you know if you are out of date.)
 * Don't use the `--compressor` flag (it forces the use of the old YUI Compressor)
 
 ## References
 * [Shifter](http://yui.github.com/shifter) - Build YUI and Gallery - `sudo npm -g i shifter`
 * [Yogi](http://yui.github.com/yogi) - (**Y**UI **o**r **G**allery **I**nterface)  Command Line Helper for YU - `sudo npm -g i yogi`
-* [Grover](http://github.com/davglass/grover) - YUITest wrapper for PhantomJS - `sudo npm -g i grover`
+* [Grover](http://github.com/davglass/grover) - YUITest wrapper for PhantomJS - `sudo npm -g i grover` (Make sure you have [phantomjs](http://phantomjs.org/) installed)
 * [UglifyJS](https://github.com/mishoo/UglifyJS) - Used to compress js
 * [Istanbul](https://github.com/yahoo/istanbul) - Code coverage tool
 * [GearJS](https://github.com/yahoo/gear) - Build System for Node.js and the Browser
