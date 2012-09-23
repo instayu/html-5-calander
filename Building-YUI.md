@@ -14,7 +14,7 @@
 
 ## References
 * [Shifter](http://yui.github.com/shifter) - Build YUI and Gallery - `sudo npm -g i shifter`
-* [Yogi](http://yui.github.com/yogi) - (**Y**UI **o**r **G**allery **I**nterface)  Command Line Helper for YU - `sudo npm -g i yogi`
+* [Yogi](http://yui.github.com/yogi) - (**Y**UI **o**r **G**allery **I**nterface)  Command Line Helper for YUI - `sudo npm -g i yogi`
 * [Grover](http://github.com/davglass/grover) - YUITest wrapper for PhantomJS - `sudo npm -g i grover` (Make sure you have [phantomjs](http://phantomjs.org/) installed)
 * [UglifyJS](https://github.com/mishoo/UglifyJS) - Used to compress js
 * [Istanbul](https://github.com/yahoo/istanbul) - Code coverage tool
