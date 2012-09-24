@@ -62,6 +62,8 @@ Every automated test in the project can be submitted. This will take a while.
 `yeti src/**/tests/unit/*.html`
 
 
+(source for this document: http://reidburke.com/2012/09/11/yeti-yui/)
+
 
 
 
