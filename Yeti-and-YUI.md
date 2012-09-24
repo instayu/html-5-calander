@@ -25,6 +25,7 @@ Using Localtunnel, you can easily share a Yeti Hub with browsers outside your fi
 
 `gem install localtunnel`
 `localtunnel 9000`
+
 Use the URL you get from localtunnel to connect more browsers.
 
 ## Run your tests
