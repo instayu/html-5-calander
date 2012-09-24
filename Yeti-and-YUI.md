@@ -15,3 +15,11 @@ Open a new Terminal tab, cd to your YUI source, then start the Yeti server.
 yeti -s
 Yeti Hub started. LAN: http://10.1.1.10:9000
                   Local: http://localhost:9000`
+
+Now you’re set. Navigate your local browsers to the local link and your browsers elsewhere on your LAN to the LAN link.
+
+It’s important that you run this from the `yui3` directory and not inside the `src` or `build` directories. That’s because Yeti’s server will only serve files in the current directory, so if you started it inside `src` your tests wouldn’t be able to load `../build` files like the YUI seed.
+
+
+
+
