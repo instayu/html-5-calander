@@ -9,10 +9,11 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Next Release: TBD
 
-YUI 3.7.1 was just released
+YUI 3.7.2 was just released.
 
-## Current Release: 3.7.1
+## Current Release: 3.7.2
 
+* YUI 3.7.2 TODO
 * YUI 3.7.1 was simply a rebuild of 3.7.0 to fix encoding issues.
 * [[YUI 3.7.0 Change History Rollup]]
 
