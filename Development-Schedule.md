@@ -9,7 +9,7 @@ Sprint 2 (3.7.x)
 * **October 12, 2012:** Stable Release Code Freeze.
 * **October 16, 2012:** Stable Release.
 
-3.7.0
+Sprint 1 (3.7.0)
 -----
 
 * **September 7, 2012:** Preview Release Code Freeze.
