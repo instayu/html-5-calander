@@ -6,12 +6,15 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 * [[Development Schedule]]
 * [[Ongoing Development Discussions]]
+* [3.CURRENT.NEXT Tickets](http://yuilibrary.com/projects/yui3/report/138)
+* [3.NEXT Tickets](http://yuilibrary.com/projects/yui3/report/139)
 
 ## Next Release
 
 The focus for the next release is on adding IE 10 to [YUI's target environments](http://yuilibrary.com/yui/environments/). YUI's unit tests already fare really well in IE 10's standard desktop mode, but in Windows 8 there are multiple runtime environments (generally more restrictive) in which we want to make sure YUI is supported.
 
-Scheduled stable release date: **[[October 16, 2012|Development Schedule]].**
+* Scheduled stable release date: **[[October 16, 2012|Development Schedule]].**
+* [Open Tickets for Sprint](http://yuilibrary.com/projects/yui3/report/138)
 
 ### Windows 8 JavaScript Runtimes
 
