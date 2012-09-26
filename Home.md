@@ -9,7 +9,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Next Release: 3.7.3
 
-The focus for the 3.7.3 is adding IE 10 to [YUI's target environments](http://yuilibrary.com/yui/environments/). YUI's unit already fair really well in IE 10's standard desktop mode, but in Windows 8 there are multiple runtime environments (generally more restrictive) which we want to make sure YUI is supported in.
+The focus for the 3.7.3 is adding IE 10 to [YUI's target environments](http://yuilibrary.com/yui/environments/). YUI's unit tests already fare really well in IE 10's standard desktop mode, but in Windows 8 there are multiple runtime environments (generally more restrictive) in which we want to make sure YUI is supported.
 
 Scheduled stable release date: **[[October 16, 2012|Development Schedule]].**
 
