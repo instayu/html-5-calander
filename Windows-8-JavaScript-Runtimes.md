@@ -1,3 +1,5 @@
+The following are the different JavaScript runtime environments that are present in Window 8.
+
 ## **Desktop:** IE 10 "Desktop" Mode
 * UA: `"Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; .NET4.0E; .NET4.0C)"`
 * IE 10 Browser that is launchable from Win8's "Desktop" Mode, which is the non-default Win8 GUI.
