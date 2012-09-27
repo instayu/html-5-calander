@@ -1,6 +1,6 @@
 This page provides details on YUI's development schedule, including code freeze dates and target dates for preview and stable releases. These dates are subject to change.
 
-Sprint 3(3.x)
+Sprint 3 (3.x)
 ----------------
 * **October 16, 2012:** Sprint Begins.
 * **November 9, 2012:** Feature Complete.
