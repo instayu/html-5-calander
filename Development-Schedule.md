@@ -4,6 +4,7 @@ Sprint 3 (3.x)
 ----------------
 * **October 16, 2012:** Sprint Begins.
 * **November 9, 2012:** Feature Complete.
+* **November 14-15, 2012:** YUIConf 2012
 * **November 30, 2012:** Stable Release Code Freeze. 
 * **December 4, 2012:** Stable Release.
 
