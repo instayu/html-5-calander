@@ -19,7 +19,7 @@ The focus for the next release is on adding **IE 10** to [YUI's target environme
 
 ## Current Release: 3.7.2
 
-* YUI 3.7.2 TODO
+* [[YUI 3.7.2 Change History Rollup]]
 * YUI 3.7.1 was simply a rebuild of 3.7.0 to fix encoding issues.
 * [[YUI 3.7.0 Change History Rollup]]
 
