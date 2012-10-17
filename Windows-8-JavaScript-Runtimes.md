@@ -1,4 +1,4 @@
-The following are the four different IE 10 runtime environments that are present in Window 8.
+The following are the four different IE 10 runtime environments that are present in Windows 8.
 
 ## IE Start Screen Mode (Formerly known as Metro)
 
