@@ -18,7 +18,7 @@ The runtime environment of the Internet Explorer app which is present in the Win
 
 WebViews are useful for building hybrid apps that, for example, combine a native C# Windows app with web-based content rendering.
 
-While testing YUI in the IE 10 WebView runtime, we noticed the follow restrictions:
+While testing YUI in the IE 10 WebView runtime, we noticed the following restrictions:
 
 * Locked down compared to Internet Explorer
 * No JavaScript-to-device APIs (e.g., camera, clipboard, geolocation, etc.)
@@ -28,7 +28,7 @@ Microsoft describes the [WebView restrictions](http://msdn.microsoft.com/en-us/l
 
 ## Native Windows Runtime (Windows Store apps)
 
-The native Windows Runtime allows developers to create Windows 8 apps using JavaScript and other HTML5 technologies, _and these apps are distributed through the Windows Store.
+The native Windows Runtime allows developers to create Windows 8 apps using JavaScript and other HTML5 technologies, and these apps are distributed through the Windows Store.
 
 The native Windows Runtime is both a restricted IE 10 runtime, and is extended via the native [`Windows`](http://msdn.microsoft.com/en-us/library/windows/apps/br211377.aspx) and [`WinJS`](http://msdn.microsoft.com/en-us/library/windows/apps/br229773.aspx) APIs. While testing YUI in the native Windows Runtime, we noticed the following differences:
 
