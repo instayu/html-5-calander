@@ -6,7 +6,7 @@ The runtime environment of the Internet Explorer app which is present in the Win
 
 * UA: `"Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; .NET4.0E; .NET4.0C)"`
 * More restrictive than IE Desktop.
-* No support for plugins (i.e., no ActiveX, Flash, Silverlight, etc.)
+* Limited and restricted support for plugins (i.e., no ActiveX, Flash, Silverlight, etc.)
 
 ## IE Desktop Mode
 
