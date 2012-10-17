@@ -74,7 +74,7 @@ Get Utility Change History
 
 * Fixed Get issues, highlighted by IE10. 
 
-  1) IE10 seems to interrupt JS execution, in the case of a 304'ing script to invoke
+  1. IE10 seems to interrupt JS execution, in the case of a 304'ing script to invoke
   the onLoad handler. If this happened inside the transaction execute loop, the transaction
   would terminate early (call onSuccess before all scripts were done), because the _waiting
   count would only reflect the number of scripts added to the DOM, when the loop was
@@ -87,13 +87,13 @@ Get Utility Change History
 
   http://connect.microsoft.com/IE/feedback/details/763871/dynamically-loaded-scripts-with-304s-responses-interrupt-the-currently-executing-js-thread-onload
 
-  2) transaction._finish() would move on to the next transaction, before the current 
+  2. transaction._finish() would move on to the next transaction, before the current 
   transaction's onSuccess/Finish/End listeners were invoked, since the logic to move to 
   the next transaction was invoked before the `on` listeners were invoked. This meant that
   for all browsers, when issuing a CSS transaction followed by a JS transaction, the CSS
   success callback wouldn't be invoked until the JS transaction was initiated.
 
-  3) Added user-agent to feature test for async support, because IE10 wasn't returning true for it.
+  3. Added user-agent to feature test for async support, because IE10 wasn't returning true for it.
   If IE10 ends up fixing the issue below by GA, we'll pull out the explicit ua test.
 
   https://connect.microsoft.com/IE/feedback/details/763477/ie10-doesnt-support-the-common-feature-test-for-async-support
