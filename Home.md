@@ -28,5 +28,6 @@ The focus for this release was on adding **IE 10** to [YUI's target environments
 
 ## Future
 
+* [[Performance]]
 * [[DataTable Roadmap]]
 * [[Attribute Wishlist]]
