@@ -1,14 +1,17 @@
-* Code the use case you want to test pointing to `raw` build files.
+* Code the use case you want to profile pointing to `raw` build files.
 * Run the code through Chrome profiler, which gives you:
    * stack traces without anonymous functions
    * memory
    * CPU
    * CSS
    * best initial tool to identify bottlenecks
-* Run the code through Firefox profiler, which gives you call counts
-* Define the hypothesis and write [BenchmarkJS](http://benchmarkjs.com/.) tests.
-* For each hypothesis, try to define a range of tests that address micro and macro level use cases.
-* Check tests into `src/[module]/tests/perf`.
-* Open a bug in `3.x` assigned to `Sprint 03` for each bottleneck you identify.
+* Run the code through Firefox profiler, which additionally gives you function call counts.
+* Once you've identified bottlenecks you want to address:
+   * define hypotheses on how to eliminate those bottlenecks
+   * avoid making any assumptions
+   * write a range of tests that address micro and macro level use cases for the function(s) in question
+   * benchmark potential fixes against multiple target environments
 * Focus on algorithmic changes more than micro-optimizations.
+* Be very data driven.
+
 
