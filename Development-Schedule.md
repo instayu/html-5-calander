@@ -2,9 +2,10 @@ This page provides details on YUI's development schedule, including code freeze 
 
 YUI Project Calendar links:
 --------------------------- 
+* Preview as [HTML](https://www.google.com/calendar/embed?src=fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com&ctz=America/Los_Angeles).
 * [XML](https://www.google.com/calendar/feeds/fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com/public/basic)
 * [iCAL](https://www.google.com/calendar/ical/fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com/public/basic.ics)
-* [HTML](https://www.google.com/calendar/embed?src=fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com&ctz=America/Los_Angeles)
+
 
 Sprint 3 (3.x) *Current*
 ----------------------
