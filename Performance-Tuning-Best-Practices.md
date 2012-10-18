@@ -13,5 +13,6 @@
    * benchmark potential fixes against multiple target environments
 * Focus on algorithmic changes more than micro-optimizations.
 * Be very data driven.
+* Tests get checked into `src/[module]/tests/perf`.
 
 
