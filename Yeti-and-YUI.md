@@ -11,10 +11,14 @@ Make sure you have a recent Node.js then grab the latest Yeti:
 ## Daily setup
 Open a new Terminal tab, cd to your YUI source, then start the Yeti server.
 
-`cd path/to/yui3
-yeti -s
-Yeti Hub started. LAN: http://10.1.1.10:9000
-                  Local: http://localhost:9000`
+`cd path/to/yui3`
+
+`yeti -s`
+
+`Yeti Hub started. LAN: http://10.1.1.10:9000`
+
+`                  Local: http://localhost:9000`
+
 
 Now you’re set. Navigate your local browsers to the local link and your browsers elsewhere on your LAN to the LAN link.
 
