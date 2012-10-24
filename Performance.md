@@ -1,10 +1,10 @@
 ## Comparing Performance across YUI Versions
 
-We're learning towards using BenchmarkJS to run our performance tests in YUI. One of the valuable data-points to capture is the performance of a component across different YUI versions. We'll be able to capture this once components have their performance tests defined. 
+We're learning towards using [BenchmarkJS](http://benchmarkjs.com/) to run our performance tests in YUI. One of the valuable data-points to capture is the performance of a component across different YUI versions. We'll be able to capture this once components have their performance tests defined. 
 
-The [yui-benchmark](https://github.com/tilomitra/yui-benchmark) repo has a simple example that uses BenchmarkJS along with Ryan Grove's ([@rgrove](http://twitter.com/rgrove)) `multi` YUI module to compare performance of `event-custom` across the latest YUI and YUI 3.5.0.
+The [yui-benchmark](https://github.com/tilomitra/yui-benchmark) repo has a simple example that uses BenchmarkJS along with Ryan Grove's ([@rgrove](https://github.com/rgrove)) `multi` YUI module to compare performance of `event-custom` across the latest YUI and YUI 3.5.0.
 
-Check out the [yui-benchmark](https://github.com/tilomitra/yui-benchmark) repo.
+Check out the [yui-benchmark](https://github.com/tilomitra/yui-benchmark) repo, and refer to our [[Performance Tuning Best Practices]].
  
 The test results using the `multi` module were compared (running sequentially) to running these tests in separate windows (no cache) and the results were very similar. This implies that this method of comparison is pretty accurate.
  
