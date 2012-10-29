@@ -34,7 +34,9 @@ Sign and submit a [Contributor License Agreement (CLA)](http://yuilibrary.com/co
    * Clone this fork down to your local PC
    * For a specific task, create a branch on this clone and check your changes into this branch.
    * Push those changes back to your "origin" (back up to github)
+
 **Build YUI**
    * See [Building YUI](https://github.com/yui/yui3/wiki/Building-YUI)
+
 **Pull Request** 
    * issue a pull request from your special branch via github to the yui/yui3 repo. 
