@@ -3,7 +3,7 @@ Contributing to YUI
 
 The YUI Project is a two-way open-source project managed by the YUI engineering team at Yahoo!.
 
-Getting Started
+Getting Started (see also [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) )
 ---
 **Join YUILibrary.com**
 
@@ -28,3 +28,12 @@ Sign and submit a [Contributor License Agreement (CLA)](http://yuilibrary.com/co
 
   * Have your Gallery modules hosted on the Yahoo! CDN.
   * Contribute bug fixes and enhancements to the core library.
+
+**Fork Repo**
+   * Visit https://github.com/yui/yui3 and click the fork button
+   * Clone this fork down to your local PC
+   * For a specific task, create a branch on this clone and check your changes into this branch.
+   * Push those changes back to your "origin" (back up to github)
+
+**Pull Request** 
+   * issue a pull request from your special branch via github to the yui/yui3 repo. 
