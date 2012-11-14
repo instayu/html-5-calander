@@ -15,7 +15,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 The focus for this release was on adding **IE 10** to [YUI's target environments](http://yuilibrary.com/yui/environments/). There are four [[JavaScript runtime environments|Windows 8 JavaScript Runtimes]] in Windows 8, and YUI work excellently on all of them. 
 
 * [[YUI 3.7.3 Change History Rollup]]
-* [Release announcement](http://www.yuiblog.com/blog/2012/10/16/yui-3-7-3-windows-8-apps-and-ie-10/)
+* [Release announcement](http://www.yuiblog.com/blog/2012/10/17/yui-3-7-3-windows-8-apps-and-ie-10/)
 * [[Windows 8 JavaScript Runtimes]] 
 * [Tickets for Sprint](http://yuilibrary.com/projects/yui3/report/138)
 
