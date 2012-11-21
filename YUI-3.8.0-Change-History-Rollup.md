@@ -1,3 +1,10 @@
+## App Framework Change History
+
+### Router
+
+* Decode URL-encoded path matches for Router's `req.params`. [Ticket #2532941]
+
+
 ## Attribute Change History
 
 * [!] The `AttributeEvents` class extension and the `attribute-events` module
@@ -40,6 +47,13 @@
 
 * 2532824 - Performance tweaks
 * Pull Req: 309 - Fixed Safari scrolling issue
+
+
+## Pjax Change History
+
+* Fix issue where Pjax would throw an error because of calling methods on `null`
+  nodes when an IO request was aborted (which happens to pending requests when
+  a new request comes in.)
 
 
 ## ScrollView Change History
