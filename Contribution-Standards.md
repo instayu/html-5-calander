@@ -17,7 +17,7 @@ The goal of these requirements is to ensure quality, API consistency, code reusa
    * Complete API Docs and inline code comments
    * Unit tests with 80% branch coverage
    * User Guide (Components only)
-   * Functional examples, written up in Selleck format and with test automation
+   * Functional examples, written up in Selleck format and with test automation (https://github.com/yui/yui3/wiki/Selleck-Example-Tests)
    * Proper commit logs
 
 The YUI team has created a number of Node.js-based NPM modules to make meeting the above requirements much easier:
