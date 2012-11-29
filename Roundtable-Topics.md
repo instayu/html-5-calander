@@ -1,3 +1,4 @@
+* Demos
 * Perf benchmarking status
 * Final review of Contributor Model: https://github.com/yui/yui3/wiki/Contributor-Model
 * Final review of Contribution Standards: https://github.com/yui/yui3/wiki/Contribution-Standards
