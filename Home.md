@@ -4,17 +4,19 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Active Development on YUI
 
-* **YUI 3.8.0pr2:**
-  * [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.8.0pr2/build/yui/yui-min.js)
-  * [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.8.0pr2.zip)
-  * [npm module](https://npmjs.org/package/yui)
-  * [Latest docs on Staging site](http://stage.yuilibrary.com/)
-  * [[Change History Rollup|YUI 3.8.0 Change History Rollup]]
 * [[Development Schedule]]
 * [[Roundtable Topics]]
 * [[Ongoing Development Discussions]]
 * [`3.CURRENT.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/138)
 * [`3.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/139)
+
+### Latest Preview Release: 3.8.0pr2
+
+* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.8.0pr2/build/yui/yui-min.js)
+* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.8.0pr2.zip)
+* [npm module](https://npmjs.org/package/yui)
+* [Latest docs on Staging site](http://stage.yuilibrary.com/)
+* [[Change History Rollup|YUI 3.8.0 Change History Rollup]]
 
 ## Current Release: 3.7.3
 
