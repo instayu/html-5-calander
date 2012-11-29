@@ -11,6 +11,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
   * [Latest docs on Staging site](http://stage.yuilibrary.com/)
   * [[Change History Rollup|YUI 3.8.0 Change History Rollup]]
 * [[Development Schedule]]
+* [[Roundtable Topics]]
 * [[Ongoing Development Discussions]]
 * [`3.CURRENT.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/138)
 * [`3.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/139)
