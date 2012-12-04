@@ -11,11 +11,11 @@ Users are community members who have a need for the project. Anyone can be a Use
 Users who continue to engage with the project and its community will often become more and more involved. Such Users may find themselves becoming Contributors, as described in the next section.
 
 ###2.2. Contributors
-Contributors are community members who contribute in concrete ways to the project, most often in the form of code and/or documentation. Anyone can become a Contributor, and contributions can take many forms. There is no expectation of commitment to the project, no specific skill requirements, and no selection process.
+Contributors are community members who contribute in concrete ways to the project, most often in the form of code and/or [documentation](http://yuilibrary.com/yui/docs/). Anyone can become a Contributor, and contributions can take many forms. There is no expectation of commitment to the project, no specific skill requirements, and no selection process.
 
-Contributors engage with the project through the YUILibrary Issue Tracker, YUILibrary Forum, and the Contributor Mailing List. They submit changes via pull requests which will be considered for inclusion in the project by existing Committers (see next section). The YUILibrary Forum or #yui IRC channel on Freenode are the most appropriate places to ask for help when making that first contribution.
+Contributors engage with the project through the [YUILibrary Issue Tracker](http://yuilibrary.com/projects/yui3/report/), [YUILibrary Forum](http://yuilibrary.com/forum/), and the Contributor Mailing List. They submit changes via [pull requests](https://github.com/yui/yui3/pulls) which will be considered for inclusion in the project by existing Committers (see next section). The [YUILibrary Forum](http://yuilibrary.com/forum/) or #yui IRC channel on Freenode are the most appropriate places to ask for help when making that first contribution.
 
-All YUI Contributors are required to sign the YUI Contributor License Agreement. Why? The CLA ensures that everyone who submits a work of authorship to the YUI project is contributing work that is their own or for which they can authoritatively speak. This protects the tens of thousands of developers who use YUI, all of whom rely on YUI's BSD license to appropriately cover their use of the YUI code & its other developer tools.
+All YUI Contributors are required to sign the [YUI Contributor License Agreement](http://yuilibrary.com/contribute/cla/). Why? The CLA ensures that everyone who submits a work of authorship to the YUI project is contributing work that is their own or for which they can authoritatively speak. This protects the tens of thousands of developers who use YUI, all of whom rely on YUI's [BSD license](https://github.com/yui/yui3/blob/master/LICENSE.md) to appropriately cover their use of the YUI code & its other developer tools.
 
 As Contributors gain experience and familiarity with the project, their profile within, and commitment to, the community will increase. At some stage, they may find themselves being nominated for committership by an existing Committer.
 
@@ -24,7 +24,7 @@ Committers are community members who have shown that they are committed to the c
 
 While committership indicates a valued member of the community who has demonstrated a healthy respect for the project's aims and objectives, their work continues to be reviewed by Reviewers (see below) before acceptance in an official release.
 
-To become a Committer, one must have shown a willingness and ability to participate in the project as a team player. Typically, a potential Committer will need to show that they have an understanding of and alignment with the project, its objectives, and its strategy. They will also have provided valuable contributions to the project over a period of time and, specifically, a minimum of 10 qualifying pull requests. What's a qualifying pull request? One that carries significant technical weight and requires little effort to accept because it’s well documented and tested.
+To become a Committer, one must have shown a willingness and ability to participate in the project as a team player. Typically, a potential Committer will need to show that they have an understanding of and alignment with the project, its objectives, and its strategy. They will also have provided valuable contributions to the project over a period of time and, specifically, a minimum of *10* qualifying pull requests. What's a qualifying pull request? One that carries significant technical weight and requires little effort to accept because it’s well documented and tested.
 
 New Committers can be nominated by any existing Committer. Once they have been nominated, there will be a vote by the Reviewers (see below). Committer voting is one of the few activities that takes place on the project's private management list. Once the vote has been held, the aggregated voting results are published on the public mailing list. The nominee is entitled to request an explanation of any 'no' votes against them, regardless of the outcome of the vote. This explanation will be provided by the Reviewers (see below) and will be anonymous and constructive in nature.
 
@@ -35,20 +35,20 @@ A Committer who shows an above-average level of contribution to the project, par
 ### 2.4. Reviewers
 Reviewers are individuals identified as "project admins" for the project on GitHub. Reviewers have additional responsibilities over and above those of a Committer. These responsibilities ensure the smooth running of the project. Reviewers are expected to review code contributions, approve changes to this document, and manage the copyrights within the project outputs.
 
-Reviewers' contributions can be reviewed by other Reviewers, but this is not explicitly required. Reviewers do not have significant authority over other members of the community, although it is the Reviewers that vote on new Committers. They also make decisions when community consensus cannot be reached. In addition, the Reviewers have access to the project's private Reviewers Mailing List and its archives. This list is used for sensitive issues, such as votes for new Committers and legal matters that cannot be discussed in public. It is never used for project management, planning, or discussion of technical matters.
+Reviewers' contributions can be reviewed by other Reviewers, but this is not explicitly required. Reviewers do not have significant authority over other members of the community, although it is the Reviewers that vote on new Committers. They also make decisions when community consensus cannot be reached. In addition, the Reviewers have access to the project's private Reviewers' Mailing List and its archives. This list is used for sensitive issues, such as votes for new Committers and legal matters that cannot be discussed in public. It is never used for project management, planning, or discussion of technical matters.
 
-A Committer is invited to become a Reviewer by existing Reviewers. An existing Committer may considered for Reviewer status only after they have submitted 50 qualifying pull requests of technical significance that have been accepted without significant rework into the project. A nomination will result in discussion and then a vote by the existing Reviewers.
+A Committer is invited to become a Reviewer by existing Reviewers. An existing Committer may considered for Reviewer status only after they have submitted *50* qualifying pull requests of technical significance that have been accepted without significant rework into the project. A nomination will result in discussion and then a vote by the existing Reviewers.
 
 ## 3. Support
-All participants in the community are encouraged to provide support for new Users as a way of growing the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A User requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels are ideal.
+All participants in the community are encouraged to provide support for new Users as a way of growing the community. Those seeking support should recognize that all support activity within the project is voluntary and is therefore provided as and when time allows. A User requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels are ideal.
 
 ## 4. Contribution process
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a Contributor might be active on the YUILibrary Forum and Issue Tracker, or might supply patches via pull requests. The YUILibrary Forum is the most appropriate place for a Contributor to ask for help when making their first contribution.
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a Contributor might be active on the [YUILibrary Forum](http://yuilibrary.com/forum/) and [Issue Tracker](http://yuilibrary.com/projects/yui3/report/), or might supply patches via pull requests. The [YUILibrary Forum](http://yuilibrary.com/forum/) is the most appropriate place for a Contributor to ask for help when making their first contribution.
 
-Contributors should review YUI’s Contribution Standards and get familiar with the project’s Developer Workflow.
+Contributors should review YUI’s Contribution Standards and get familiar with the project’s Developer Workflow. See [Contribute to YUI](http://yuilibrary.com/contribute/) and [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) for detailed information.
 
 ## 5. Decision making process
-Technical decisions about the project are made through discussion with voting members of the community, from the newest Contributor to the most experienced Reviewer. All non-sensitive discussion takes place on GitHub or the Contributor Mailing List. Occasionally, sensitive discussion occurs on the private Reviewer’s Mailing List.
+Technical decisions about the project are made through discussion with voting members of the community, from the newest Contributor to the most experienced Reviewer. All non-sensitive discussion takes place on GitHub or the Contributor Mailing List. Occasionally, sensitive discussion occurs on the private Reviewers' Mailing List.
 
 In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote.
 
@@ -62,7 +62,7 @@ Decision making typically involves the following steps:
 
 Any voting community member (Contributor, Committer, or Reviewer) can make a technical proposal for consideration by the community. In order to initiate a discussion about a new idea, they should submit a pull request on GitHub or post to the Contributor Mailing List. This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution. Since most people in the project community have a shared vision, there is often little need for discussion in order to reach consensus.
 
-In general, as long as nobody explicitly opposes a proposal or patch, it is recognised as having the support of the community. This is called lazy consensus -- that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
+In general, as long as nobody explicitly opposes a proposal or patch, it is recognized as having the support of the community. This is called lazy consensus -- that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
 Lazy consensus is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position, and others need not spend time reading such mails.
 
 For lazy consensus to be effective, it is necessary to allow at least 72 hours (excluding weekends and holidays) before assuming that there are no objections to the proposal. This requirement ensures that everyone is given enough time to read, digest, and respond to the proposal. This time period is chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments.
@@ -76,8 +76,8 @@ All Contributors, Committers, and Reviewers have a vote. The project encourages 
 
 If a formal vote on a proposal is called (signaled simply by sending an email to the Contributor Mailing List with “[VOTE]” in the subject line), all participants may express an opinion and vote. They do this by replying to the original “[VOTE]” email:
 
-    +1: meaning “yes”, “agree”: the voter may also be willing to help bring about the proposed action,
-    -1: meaning “no”, “disagree”: opposes the action’s going forward. The voter should propose an alternative action to address the issue (or a justification for not addressing the issue)
+   * +1: meaning “yes”, “agree”: the voter may also be willing to help bring about the proposed action,
+   * -1: meaning “no”, “disagree”: opposes the action’s going forward. The voter should propose an alternative action to address the issue (or a justification for not addressing the issue)
 
 To abstain from the vote, participants simply do not respond to the email.
 
@@ -174,10 +174,10 @@ Every effort is made to allow the majority of decisions to be taken through disc
 </table>	
 
 ## 6. Conclusion
-This project is your project. The point of this document is to grow the project by enabling, facilitating, and securing contributions in a manner that satisfies everyone. Let us know through the YUILibrary Forum if you have any comments!
+_This project is your project._ The point of this document is to grow the project by enabling, facilitating, and securing contributions in a manner that satisfies everyone. Let us know through the [YUILibrary Forum](http://yuilibrary.com/forum/) if you have any comments!
 
 ***
 
-This work derivative of Meritocratic Governance Model by Ross Gardler, Gabriel Hanganu at University of Oxford.
+This work derivative of [Meritocratic Governance Model](http://www.oss-watch.ac.uk/resources/meritocraticGovernanceModel) by Ross Gardler, Gabriel Hanganu at University of Oxford.
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 2.0 UK: England & Wales License.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 UK: England & Wales License](http://creativecommons.org/licenses/by-sa/2.0/uk/).
