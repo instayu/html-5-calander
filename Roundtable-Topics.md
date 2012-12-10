@@ -1,4 +1,5 @@
-# Upcoming
+
+## Upcoming
 * Demos
 * Perf benchmarking status
 * http://yuilibrary.com/projects/yui3/ticket/2532677 (Delegated click event attached to the View container with button class name is fired when it is disabled in IE)
@@ -6,7 +7,7 @@
 * Widget Popup - https://github.com/apipkin/yui3/wiki/Widget-Popup
 * phonegap and native apps - Marc schipperheyn
 
-# Archive Video
+## Archive Video
 * **December 6, 2012 - http://www.youtube.com/watch?v=rKrzggbBpfY**
     * Pull request for array-extras (https://github.com/yui/yui3/pull/299)
     * Y.Soon (https://github.com/yui/yui3/pull/304)
