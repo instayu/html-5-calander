@@ -32,6 +32,9 @@
   allows BaseCore subclasses to mix-in BaseObservable at runtime, bringing their
   functionality up to that of `Y.Base`.
 
+## Color Change History
+
+* #2532955 Addressed issue in which click events were not firing on elements outside of chart in ios.
 
 ## Color Change History
 
