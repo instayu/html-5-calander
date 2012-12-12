@@ -6,6 +6,7 @@
 * Lint status
 * [Widget Popup](https://github.com/apipkin/yui3/wiki/Widget-Popup)
 * phonegap and native apps - Marc Schipperheyn
+* [YUI Configurator - broken dependencies](https://yuilibrary.com/projects/yui3/ticket/2532999)
 
 ## Archive Video
 
