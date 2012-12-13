@@ -2,11 +2,11 @@
 
 * Demos
 * Perf benchmarking status
-* [TIcket #2532677](http://yuilibrary.com/projects/yui3/ticket/2532677) (Delegated click event attached to the View container with button class name is fired when it is disabled in IE)
+* [Ticket #2532677](http://yuilibrary.com/projects/yui3/ticket/2532677) (Delegated click event attached to the View container with button class name is fired when it is disabled in IE)
 * Lint status
 * Widget Popup
 * phonegap and native apps - Marc Schipperheyn
-* [YUI Configurator - broken dependencies](https://yuilibrary.com/projects/yui3/ticket/2532999)
+* [Ticket #2532999](https://yuilibrary.com/projects/yui3/ticket/2532999)(YUI Configurator - broken dependencies)
 
 ## Archive Video
 
