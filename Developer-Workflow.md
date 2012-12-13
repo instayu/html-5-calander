@@ -9,7 +9,7 @@ This tutorial assumes you already have Git installed and working. If you don't, 
 YUI's development happens on five main branches. The following describes what
 each of these code branches represents:
 
-  * `live-docs`: Represents the latest release of YUI, plus any
+  * `live-docs`: Represents the latest GA release of YUI, plus any
     documentation-only updates. Any tweaks or additions to the docs for the
     latest release happen on this branch, and they are reflected on the website.
 
