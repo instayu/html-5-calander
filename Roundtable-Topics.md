@@ -7,7 +7,7 @@
 * phonegap and native apps - Marc Schipperheyn
 * [Ticket #2532999](http://yuilibrary.com/projects/yui3/ticket/2532999) (YUI Configurator - broken dependencies)
 
-## Archive Video
+## Archive
 
 ### December 6, 2012
 * [Video recording](http://www.youtube.com/watch?v=rKrzggbBpfY)
