@@ -4,7 +4,6 @@
 * Perf benchmarking status
 * [Ticket #2532677](http://yuilibrary.com/projects/yui3/ticket/2532677) (Delegated click event attached to the View container with button class name is fired when it is disabled in IE)
 * Lint status
-* Widget Popup
 * phonegap and native apps - Marc Schipperheyn
 * [Ticket #2532999](http://yuilibrary.com/projects/yui3/ticket/2532999) (YUI Configurator - broken dependencies)
 
@@ -17,6 +16,7 @@
 * [YUI Contributor Mailing list](http://www.yuiblog.com/blog/2012/12/05/announcing-the-new-yui-contributor-mailing-list/)
 * Datatable ownership
 * Preview demo from Dav
+* [Widget Popup](https://github.com/apipkin/yui3/wiki/Popup-Plugin)
 
 ### November 29, 2012
 * [Video Recording](http://www.youtube.com/watch?v=4NjP_ndoO5Q)
