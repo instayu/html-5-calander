@@ -6,7 +6,7 @@
 * Lint status
 * Widget Popup
 * phonegap and native apps - Marc Schipperheyn
-* [Ticket #2532999](https://yuilibrary.com/projects/yui3/ticket/2532999)(YUI Configurator - broken dependencies)
+* [Ticket #2532999](https://yuilibrary.com/projects/yui3/ticket/2532999) (YUI Configurator - broken dependencies)
 
 ## Archive Video
 
