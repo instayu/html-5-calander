@@ -5,7 +5,6 @@
 * [Ticket #2532677](http://yuilibrary.com/projects/yui3/ticket/2532677) (Delegated click event attached to the View container with button class name is fired when it is disabled in IE)
 * Lint status
 * phonegap and native apps - Marc Schipperheyn
-* [Ticket #2532999](http://yuilibrary.com/projects/yui3/ticket/2532999) (YUI Configurator - broken dependencies)
 
 ## Archive
 
