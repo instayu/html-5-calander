@@ -8,6 +8,7 @@
 
 ## Archive
 
+(YouTube Playlist: http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all )
 ### December 6, 2012
 * [Video recording](http://www.youtube.com/watch?v=rKrzggbBpfY)
 * [Pull request for array-extras](https://github.com/yui/yui3/pull/299)
