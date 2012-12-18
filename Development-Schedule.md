@@ -16,7 +16,15 @@ Sprint 3 (3.x) *Current*
 * **November 30, 2012:** Stable Release Code Freeze. 
 * **December 11, 2012:** Stable Release.
 
-Sprint 2 (3.7.3)
+Sprint 4 *Current*
+----------------------
+
+* **December 19, 2012:** Sprint Begins.
+* **January 11, 2012:** Feature Complete Code Freeze.
+* **January 18, 2012:** Stable Release Code Freeze. 
+* **January 22, 2012:** Stable Release.
+
+Sprint 2 (3.8.0)
 ----------------
 
 * **September 25, 2012:** Sprint Begins.
