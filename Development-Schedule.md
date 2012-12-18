@@ -6,9 +6,16 @@ YUI Project Calendar links:
 * [XML](https://www.google.com/calendar/feeds/fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com/public/basic)
 * [iCAL](https://www.google.com/calendar/ical/fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com/public/basic.ics)
 
+Sprint 4 *Current*
+------------------
 
-Sprint 3 (3.x) *Current*
-----------------------
+* **December 19, 2012:** Sprint Begins.
+* **January 11, 2012:** Feature Complete Code Freeze.
+* **January 18, 2012:** Stable Release Code Freeze. 
+* **January 22, 2012:** Stable Release.
+
+Sprint 3 (3.8.0)
+----------------
 
 * **October 16, 2012:** Sprint Begins.
 * **November 9, 2012:** Feature Complete Code Freeze.
@@ -16,15 +23,7 @@ Sprint 3 (3.x) *Current*
 * **November 30, 2012:** Stable Release Code Freeze. 
 * **December 11, 2012:** Stable Release.
 
-Sprint 4 *Current*
-----------------------
-
-* **December 19, 2012:** Sprint Begins.
-* **January 11, 2012:** Feature Complete Code Freeze.
-* **January 18, 2012:** Stable Release Code Freeze. 
-* **January 22, 2012:** Stable Release.
-
-Sprint 2 (3.8.0)
+Sprint 2 (3.7.3)
 ----------------
 
 * **September 25, 2012:** Sprint Begins.
