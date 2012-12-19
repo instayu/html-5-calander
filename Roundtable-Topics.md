@@ -6,6 +6,11 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 * Demos
 * phonegap and native apps - Marc Schipperheyn (http://yuilibrary.com/projects/yui3/ticket/2532969)
 * mjata.js JSON schema utils - Lingyan Zhu (http://www.yuiblog.com/blog/2012/12/17/yuiconf-2012-talk-mjata-js-bring-data-models-to-life-by-lingyan-zhu/comment-page-1/#comment-660160)
+* pull requests 
+    * https://github.com/yui/yui3/pull/139 
+    * https://github.com/yui/yui3/pull/48 
+    * https://github.com/yui/yui3/pull/320
+
 
 ## Archive
 
