@@ -6,6 +6,7 @@ YUI Project Calendar links:
 * [XML](https://www.google.com/calendar/feeds/fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com/public/basic)
 * [iCAL](https://www.google.com/calendar/ical/fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com/public/basic.ics)
 
+<a id="next-release"></a>
 Sprint 4 *Current*
 ------------------
 
