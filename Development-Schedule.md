@@ -11,9 +11,9 @@ Sprint 4 *Current*
 ------------------
 
 * **December 19, 2012:** Sprint Begins.
-* **January 11, 2012:** Feature Complete Code Freeze.
-* **January 18, 2012:** Stable Release Code Freeze. 
-* **January 22, 2012:** Stable Release.
+* **January 11, 2013:** Feature Complete Code Freeze.
+* **January 18, 2013:** Stable Release Code Freeze. 
+* **January 22, 2013:** Stable Release.
 
 Sprint 3 (3.8.0)
 ----------------
