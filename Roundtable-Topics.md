@@ -5,6 +5,8 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 * Demos
 * phonegap and native apps - Marc Schipperheyn (http://yuilibrary.com/projects/yui3/ticket/2532969)
+* [Jenny] http://yuilibrary.com/projects/yui3/ticket/2532671 - JSONP - Add option to jsonp for async
+* [Jenny] http://yuilibrary.com/projects/yui3/ticket/2532813 - Substitute - Y.substitute(recursive=true) doesn't work when template gets longer
 
 
 
