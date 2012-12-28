@@ -28,6 +28,14 @@ The YUI team has created a number of Node.js-based NPM modules to make meeting t
    * [selleck](http://yui.github.com/selleck/): for live-previewing the user guide and functional examples.
    * [yogi](http://yui.github.com/yogi): helper tool wrapping up the functionality from the above tools.
 
+## Feature Complete
+
+Coming soon.
+
+## Code Freeze
+
+Coming soon.
+
 ## License Updates
 
 Any submission that uses open source code from another project must be explicitly called out and is subject to review.
