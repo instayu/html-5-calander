@@ -28,6 +28,12 @@ The YUI team has created a number of Node.js-based NPM modules to make meeting t
    * [selleck](http://yui.github.com/selleck/): for live-previewing the user guide and functional examples.
    * [yogi](http://yui.github.com/yogi): helper tool wrapping up the functionality from the above tools.
 
+## A Note About Lint
+
+Please read: https://github.com/yui/yui-lint/blob/master/README.md
+
+We reserve the right to one day fail builds on lint errors.
+
 ## Feature Complete
 
 Coming soon.
