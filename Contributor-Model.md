@@ -13,20 +13,20 @@ Users who continue to engage with the project and its community will often becom
 ###2.2. Contributors
 Contributors are community members who contribute in concrete ways to the project, most often in the form of code and/or [documentation](http://yuilibrary.com/yui/docs/). Anyone can become a Contributor, and contributions can take many forms. There is no expectation of commitment to the project, no specific skill requirements, and no selection process.
 
-Contributors engage with the project through the [YUILibrary Issue Tracker](http://yuilibrary.com/projects/yui3/report/), [YUILibrary Forum](http://yuilibrary.com/forum/), and the Contributor Mailing List. They submit changes via [pull requests](https://github.com/yui/yui3/pulls) which will be considered for inclusion in the project by existing Committers (see next section). The [YUILibrary Forum](http://yuilibrary.com/forum/) or #yui IRC channel on Freenode are the most appropriate places to ask for help when making that first contribution.
+Contributors engage with the project through the [YUILibrary Issue Tracker](http://yuilibrary.com/projects/yui3/report/), [YUILibrary Forum](http://yuilibrary.com/forum/), and the [Contributor Mailing List](https://groups.google.com/forum/?fromgroups#!forum/yui-contrib). They submit changes via [pull requests](https://github.com/yui/yui3/pulls) which will be considered for inclusion in the project by existing Committers (see next section). The [YUILibrary Forum](http://yuilibrary.com/forum/) or #yui IRC channel on Freenode are the most appropriate places to ask for help when making that first contribution.
 
 All YUI Contributors are required to sign the [YUI Contributor License Agreement](http://yuilibrary.com/contribute/cla/). Why? The CLA ensures that everyone who submits a work of authorship to the YUI project is contributing work that is their own or for which they can authoritatively speak. This protects the tens of thousands of developers who use YUI, all of whom rely on YUI's [BSD license](https://github.com/yui/yui3/blob/master/LICENSE.md) to appropriately cover their use of the YUI code & its other developer tools.
 
 As Contributors gain experience and familiarity with the project, their profile within, and commitment to, the community will increase. At some stage, they may find themselves being nominated for committership by an existing Committer.
 
 ### 2.3. Committers
-Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community.
+Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Committers are given push access to the project's GitHub repo and must abide by the project's [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards), including milestones such as feature complete and code freeze.
 
 While committership indicates a valued member of the community who has demonstrated a healthy respect for the project's aims and objectives, their work continues to be reviewed by Reviewers (see below) before acceptance in an official release.
 
 To become a Committer, one must have shown a willingness and ability to participate in the project as a team player. Typically, a potential Committer will need to show that they have an understanding of and alignment with the project, its objectives, and its strategy. They will also have provided valuable contributions to the project over a period of time and, specifically, a minimum of *10* qualifying pull requests. What's a qualifying pull request? One that carries significant technical weight and requires little effort to accept because it’s well documented and tested.
 
-New Committers can be nominated by any existing Committer. Once they have been nominated, there will be a vote by the Reviewers (see below). Committer voting is one of the few activities that takes place on the project's private management list. Once the vote has been held, the aggregated voting results are published on the public mailing list. The nominee is entitled to request an explanation of any 'no' votes against them, regardless of the outcome of the vote. This explanation will be provided by the Reviewers (see below) and will be anonymous and constructive in nature.
+New Committers can be nominated by any existing Committer. Once they have been nominated, there will be a vote by the Reviewers (see below). Committer voting is one of the few activities that takes place on the project's private management list. Once the vote has been held, the aggregated voting results are published on the Contributor Mailing List. The nominee is entitled to request an explanation of any 'no' votes against them, regardless of the outcome of the vote. This explanation will be provided by the Reviewers (see below) and will be anonymous and constructive in nature.
 
 It is important to recognize that committership is a privilege, not a right. That privilege must be earned and once earned it can be removed by the Reviewers (see next section) in extreme circumstances. However, under normal circumstances committership exists for as long as the Committer wishes to continue engaging with the project.
 
@@ -45,10 +45,12 @@ All participants in the community are encouraged to provide support for new User
 ## 4. Contribution process
 Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a Contributor might be active on the [YUILibrary Forum](http://yuilibrary.com/forum/) and [Issue Tracker](http://yuilibrary.com/projects/yui3/report/), or might supply patches via pull requests. The [YUILibrary Forum](http://yuilibrary.com/forum/) is the most appropriate place for a Contributor to ask for help when making their first contribution.
 
-Contributors should review YUI’s Contribution Standards and get familiar with the project’s Developer Workflow. See [Contribute to YUI](http://yuilibrary.com/contribute/) and [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) for detailed information.
+Contributors should review YUI’s [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards) and get familiar with the project’s [Developer Workflow](https://github.com/yui/yui3/wiki/Developer-Workflow). See [Contribute to YUI](http://yuilibrary.com/contribute/) and [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) for detailed information.
+
+We expect our community to self-regulating in a friendly, cooperative, and collaborative manner. We are all here to learn from one another, and disrespectful conduct is unnecessary and unacceptable.
 
 ## 5. Decision making process
-Technical decisions about the project are made through discussion with voting members of the community, from the newest Contributor to the most experienced Reviewer. All non-sensitive discussion takes place on GitHub or the Contributor Mailing List. Occasionally, sensitive discussion occurs on the private Reviewers' Mailing List.
+Technical discussions are conducted on GitHub, the bug tracker, and the Contributor Mailing List. The Forum should mainly be used for technical support. Occasionally, sensitive discussions may occur on the private Reviewers' Mailing List.
 
 In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote.
 
