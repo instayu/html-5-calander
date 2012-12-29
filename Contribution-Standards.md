@@ -12,14 +12,14 @@ Please review YUI’s [Developer Workflow](https://github.com/yui/yui3/wiki/Deve
 
 ## Minimum Requirements
 
-The goal of these requirements is to ensure quality, API consistency, code reusability, and maintainability of the contribution. All contributions should satisfy:
+The goal of these requirements is to ensure quality, API consistency, code reusability, and maintainability of the contribution. All contributions must satisfy:
 
    * Complete API Docs and inline code comments
-   * Unit tests with 80% branch coverage
+   * Unit tests with 80% line coverage
    * User Guide (Components only)
    * Functional examples, written up in Selleck format and with test automation (https://github.com/yui/yui3/wiki/Selleck-Example-Tests)
    * Proper commit logs
-   * Update to HISTORY.md
+   * Proper updates to HISTORY.md
 
 The YUI team has created a number of Node.js-based NPM modules to make meeting the above requirements much easier:
 
@@ -27,6 +27,29 @@ The YUI team has created a number of Node.js-based NPM modules to make meeting t
    * [yuidocjs](http://yui.github.com/yuidoc/): for live-previewing the API docs.
    * [selleck](http://yui.github.com/selleck/): for live-previewing the user guide and functional examples.
    * [yogi](http://yui.github.com/yogi): helper tool wrapping up the functionality from the above tools.
+
+## Further Recommendations
+
+We recommend the following process for contributing great code to YUI:
+
+### Get feedback early and often 
+
+* An **API review** validates your initial approach
+* A **design review** validates your high-level architecture
+* A **code review** validates your implementation details
+* A **Preview Release** gets you community feedback of working code in real-world situations
+
+### Documentation is just as important as code
+
+* API docs
+* Examples
+* User guides
+
+### Automate your tests
+
+* Unit
+* Functional
+* Performance
 
 ## A Note About Lint
 
