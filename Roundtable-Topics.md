@@ -4,10 +4,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-* [Jenny] http://yuilibrary.com/projects/yui3/ticket/2532671 - JSONP - Add option to jsonp for async
-* [Jenny] http://yuilibrary.com/projects/yui3/ticket/2532813 - Substitute - Y.substitute(recursive=true) doesn't work when template gets longer
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
-    * [Clarence] https://github.com/yui/yui3/pull/385 (update of pr 190)  
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
 
 
@@ -15,6 +12,25 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Archive
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
+
+### January 3, 2013
+* [Video recording](http://www.youtube.com/watch?v=hRv8nwA62k0)
+* Tilo Demos
+    * http://tilomitra.github.com/csstables/
+    * http://tilomitra.github.com/cssforms/
+* [Jenny] http://yuilibrary.com/projects/yui3/ticket/2532671 - JSONP - Add option to jsonp for async
+* [Jenny] http://yuilibrary.com/projects/yui3/ticket/2532813 - Substitute - Y.substitute(recursive=true) doesn't work when template gets longer
+* Tripp charts refactor
+    * https://github.com/yui/yui3/pull/373
+* Stale pull requests
+    * https://github.com/yui/yui3/pull/190
+    * https://github.com/yui/yui3/pull/243
+    * https://github.com/yui/yui3/pull/383
+    * https://github.com/yui/yui3/pull/299
+    * https://github.com/yui/yui3/pull/348
+    * https://github.com/yui/yui3/pull/276
+    * https://github.com/yui/yui3/pull/304
+
 
 ### December 20, 2012
 * [Video recording](http://www.youtube.com/watch?v=Ox-6v2d8lh0)
