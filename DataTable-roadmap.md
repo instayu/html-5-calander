@@ -25,47 +25,50 @@ Ongoing
 3.9.0
 -----
 * Pagination 
-* Progressive enhancement 
-* Show/hide columns 
 
 3.10.0
+-----
+* Show/hide columns 
+* Progressive enhancement 
+
+3.11.0
 ------
 * Inline cell editing (text input only)
 * Popup cell editing
 * Inline cell editing (alternate inputs - select, radio, ???)
 
-3.11.0
+3.12.0
 ------
 * Popup row editing
 * Data types with auto-default formatter/parsers/editors(?) ('currency', 'date', etc)
 * cellClick etc events - Based on mosen's work
 
-3.12.0
+3.13.0
 ------
 * Keyboard navigation of cells and rows
 * Cell, row, column highlight
 * Cell, row, column(?) selection
 * Complex selection (ctrl+/alt+/meta+)
 
-3.13.0
+3.14.0
 -----
 * Expandable rows (child rows map to current columns)
 * Expandable rows (expanded area is not bound to table format)
 * Drag Reorder rows
 
-3.14.0
+3.15.0
 ------
 * tfoot API
 * tfoot summary options
 * Checkbox select column
 
-3.15.0
+3.16.0
 -----
 * Drag reorder columns
 * Drag resizable column widths
 * Freeze columns
 
-3.16.0
+3.17.0
 ------
 * Infinite Scroll
 
