@@ -11,13 +11,15 @@ git pull upstream dev-3.x
 git checkout -b foo-123456
 ```
 
-do code stuff (should always be pushing to origin)
+Do code stuff (should always be pushing to origin) 
 
 _If you have travis connected, this will show you build failures_
 
 * do tests 
 * do builds
 * do commits as you go on all files but builds
+* documentation
+ (see [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards))
 
 Everyday
 --------
