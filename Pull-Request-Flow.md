@@ -18,7 +18,7 @@ _If you have travis connected, this will show you build failures_
 
 * Do tests. `yogi test`
 * Do builds. `yogi build`
-* do commits as you go on all files **except builds** you will commit build files later in the process
+* Do commits as you go on all files **except builds**.  You will commit build files later in the process.
 * documentation
 
 
