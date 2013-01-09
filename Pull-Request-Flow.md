@@ -95,6 +95,8 @@ git merge foo-123456
 git commit -m 'Merge in fix for #123456 by [anonymous]'
 git push upstream dev-3.x
 ```
+If your push clears CI, your changes will show up in the GitHub repo and the referenced pull request will automatically be closed.
+
 
 Additional Info
 ---------------
@@ -109,4 +111,3 @@ yogi pulls
 yogi pulls 399 --show-merge
 ```
 
-If your push clears CI, your changes will show up in the repo and the referenced pull request will automatically be closed.
