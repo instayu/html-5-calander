@@ -1,6 +1,6 @@
 Introduction
 ------------
-Getting code into src is a process that can lead to confusion, especially if it is your first time working with Git and Branch Driven Development. Here is a quick list of git commands that you may use in the life cycle of your pull request. Assume that you are creating some code that you want to go into the next release - which right now would be `3.x`. You do not ever check in directly to `3.x` or `master`. Instead you issue pull requests against `dev-3.x` or `dev-master`. The code below assumes `dev-3.x` for this example.
+Getting code into src is a process that can lead to confusion, especially if it is your first time working with Git and Branch Driven Development. Here is a quick list of git commands that you may use in the life cycle of your pull request. Assume that you are creating some code that you want to go into the next release - which right now would be `3.x`. You do not ever check in directly to `3.x` or `master`. Instead you issue pull requests against `dev-3.x` or `dev-master`. The code below assumes `dev-3.x` for this example. `foo-123456` is the development branch that you will issue the pull request from. It has all your new and changed code (name it something meaningful).
 
 Bug Branch Creation
 -------------------
