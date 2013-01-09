@@ -36,7 +36,7 @@ git checkout foo-123456
 git merge dev-3.x
 ```
 
-(Fix any merge issues to make sure I'm clean)
+(Fix any merge issues to make sure your build is clean.)
 
 When you are ready for a Pull Request
 -------------------------------------
