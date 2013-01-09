@@ -65,6 +65,7 @@ git merge foo-123456
 ```
 
 Build and add commit build files.
+
 Edit HISTORY.md (usually with something like @VERSION@ + your change information).
 
 Push up to dev-3.x
