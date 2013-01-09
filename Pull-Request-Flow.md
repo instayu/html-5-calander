@@ -61,8 +61,29 @@ git pull upstream dev-3.x
 git merge foo-123456
 ```
 
-build and add commit build files
+Build and add commit build files.
+Edit HISTORY.md (usually with something like @VERSION@ + your change information).
 
-push up to dev-3.x
+Push up to dev-3.x
+
+`git push upstream dev-3.x`
+
+Or, if you use a local dev-3.x branch:
+
+`git checkout dev-3.x`
+
+`git pull upstream dev-3.x`
+
+`git checkout dt-123456`
+
+`git merge dev-3.x`
+
+`git commit -m 'Merge in dev-3.x'`
+
+`git checkout dev-3.x`
+
+`git merge dt-123456`
+
+`git commit -m 'Merge in fix for 123456'`
 
 `git push upstream dev-3.x`
