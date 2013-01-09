@@ -46,7 +46,7 @@ git merge dev-3.x
 git push origin foo-123456
 ```
 
-issue pr through github's ui against dev-3.x
+Issue pr through github's ui against dev-3.x
 -------------------------------------------
 
 Be sure you have unit tests (see minimum requirements under [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards))
