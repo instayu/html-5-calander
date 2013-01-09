@@ -7,6 +7,11 @@ Get [`yogi`](https://github.com/yui/yogi)
 
 `npm -g install yogi`
 
+Set up GitHub
+-------------
+
+(See [How to Set Up your Git Environment](http://yuilibrary.com/yui/docs/tutorials/git/) )
+
 Bug Branch Creation
 -------------------
 
