@@ -49,9 +49,9 @@ git push origin foo-123456
 issue pr through github's ui against dev-3.x
 -------------------------------------------
 
-be sure you have unit tests
-
-when the pr is approved
+Be sure you have unit tests (see minimum requirements under [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards))
+ 
+When the pr is approved
 -----------------------
 
 
