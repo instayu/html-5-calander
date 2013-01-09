@@ -39,10 +39,14 @@ git merge dev-3.x
 git push origin foo-123456
 ```
 
-issue pr through github's ui agains dev-3.x
+issue pr through github's ui against dev-3.x
 -------------------------------------------
 
+be sure you have unit tests
+
 when the pr is approved
+-----------------------
+
 
 ```
 git checkout dev-3.x
