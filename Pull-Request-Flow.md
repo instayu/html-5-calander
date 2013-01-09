@@ -108,3 +108,5 @@ yogi pulls
 //Show how you can merge this in.. (doesn't do anything but print, not dangerous)
 yogi pulls 399 --show-merge
 ```
+
+If your push clears CI, your changes will show up in the repo and the referenced pull request will automatically be closed.
