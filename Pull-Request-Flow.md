@@ -24,12 +24,12 @@ git checkout -b foo-123456
 Do code stuff. You should always be pushing to origin.
 (see [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards)) 
 
-_If you have travis connected, this will show you build failures_
+_If you have travis connected, this will show you build failures._
 
 * Do tests. `yogi test`
 * Do builds. `yogi build`
 * Do commits as you go on all files **except builds**.  You will commit build files later in the process.
-* Write documentation (depending on how big your changes are)
+* Write documentation (depending on how big your changes are).
    * API Docs
    * Examples
    * User Guides
@@ -47,7 +47,7 @@ git checkout foo-123456
 git merge dev-3.x
 ```
 
-(Fix any merge issues to make sure your build is clean.)
+Fix any merge issues to make sure your build is clean.
 
 When you are ready for a Pull Request
 -------------------------------------
@@ -60,7 +60,7 @@ git push origin foo-123456
 Issue pull request through GitHub's ui against dev-3.x
 -------------------------------------------
 
-Be sure you have unit tests (see minimum requirements under [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards))
+Be sure you have unit tests (see minimum requirements under [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards)).
 
 Be sure to switch to the 'dev-3.x' branch on the GitHub site when setting up the pull request.
  
