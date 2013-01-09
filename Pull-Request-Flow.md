@@ -19,7 +19,8 @@ _If you have travis connected, this will show you build failures_
 * do builds
 * do commits as you go on all files but builds
 * documentation
- (see [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards))
+
+(see [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards))
 
 Everyday
 --------
