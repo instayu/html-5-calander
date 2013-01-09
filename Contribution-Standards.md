@@ -72,6 +72,8 @@ The time between the `Feature Complete` milestone and the `Code Freeze` mileston
 
 ### Preview Releases
 
+Coming soon.
+
 ## License Updates
 
 Any submission that uses open source code from another project must be explicitly called out and is subject to review.
