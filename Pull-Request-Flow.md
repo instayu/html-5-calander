@@ -90,3 +90,16 @@ git merge foo-123456
 git commit -m 'Merge in fix for #123456 by [anonymous]'
 git push upstream dev-3.x
 ```
+
+Additional Info
+---------------
+View pull request info from Yogi:
+```
+cd yui3/
+
+//Show all open pull requests
+yogi pulls 
+
+//Show how you can merge this in.. (doesn't do anything but print, not dangerous)
+yogi pulls 399 --show-merge
+```
