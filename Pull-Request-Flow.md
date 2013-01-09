@@ -54,6 +54,7 @@ Be sure you have unit tests (see minimum requirements under [Contribution Standa
 When the pr is approved
 -----------------------
 
+(You must be a commiter or reviewer in order to actually pull in code. See the [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model))
 
 ```
 git checkout dev-3.x
