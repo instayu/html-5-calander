@@ -59,11 +59,13 @@ We reserve the right to one day fail builds on lint errors.
 
 ## Feature Complete
 
-Coming soon.
+All big ticket items should be merged in by Feature Complete. This is in order to ensure enough time for testing and community feedback before release. Big ticket items include new features, new APIs, large code changes, deprecations, and upstream changes that may impact other code.
 
 ## Code Freeze
 
-Coming soon.
+No code changes of any kind are permitted after code freeze without explicit discussion and approval. This is to prevent churn that delays releases. Please make sure all bug fixes, test updates, documentation, and HISTORY.md updates happen before code freeze.
+
+The time between the `Feature Complete` milestone and the `Code Freeze` milestone is meant for late-breaking bug fixes of a smaller nature that come out of community feedback and testing.
 
 ## License Updates
 
