@@ -19,10 +19,11 @@ _If you have travis connected, this will show you build failures_
 * Do tests. `yogi test`
 * Do builds. `yogi build`
 * Do commits as you go on all files **except builds**.  You will commit build files later in the process.
-* Documentation (depending on how big your changes are)
+* Write documentation (depending on how big your changes are)
    * API Docs
    * Examples
    * User Guides
+   * Code comments
 
 
 
