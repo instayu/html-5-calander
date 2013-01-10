@@ -1,5 +1,3 @@
-Why YUI on the server?
-
 Big use-case: interactive Web apps
    * progressive enhancement
    * poor network connection
