@@ -8,6 +8,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
    * https://github.com/yui/yui3/pull/370
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
+* [Split widget-position-*, widget-autohide, widget-modality into base and widget extensions to provide for extensibility](http://yuilibrary.com/projects/yui3/ticket/2533054)
 * `Y.Promise` update - Luke/Juan
    * [Original pull request](https://github.com/yui/yui3/pull/241)
    * [Juan Dopazo's current proposal](https://github.com/juandopazo/yui3/pull/4) - _favored_
