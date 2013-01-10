@@ -1,4 +1,3 @@
-
 # Why Use YUI on the Server?
 
 Big use-case: interactive Web apps
@@ -13,4 +12,12 @@ Big use-case: interactive Web apps
    * cross-property code reuse; module reuse
       * one copy of mail inbox
       * code portability: client/server switch at runtime
+
+
+## See Also
+
+   * [YUI on Node.js](http://yuilibrary.com/yui/docs/yui/nodejs.html)
+   * 
+
+
 
