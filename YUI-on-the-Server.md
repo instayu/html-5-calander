@@ -1,3 +1,6 @@
+
+# Why Use YUI on the Server?
+
 Big use-case: interactive Web apps
    * progressive enhancement
    * poor network connection
