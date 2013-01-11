@@ -1,5 +1,3 @@
-## Why Use YUI on the Server?
-
 [YUI runs on the server today, thanks to Node.js](http://yuilibrary.com/yui/docs/yui/nodejs.html). But why do this? Looking beyond the cool factor, here are some reasons to use YUI on the server.
 
 **Progressive Enhancement: Performance.** YUI modules are rendered server-side first. A first full rendering pass is done server-side, using the same code as used for client-side rendering. The fully rendered page is sent to the client, and progressively enhanced after it is received and shown to the user.
