@@ -1,10 +1,10 @@
 [YUI runs on the server today, thanks to Node.js](http://yuilibrary.com/yui/docs/yui/nodejs.html). But why do this? Looking beyond the cool factor, here are some reasons to use YUI on the server.
 
-**Progressive Enhancement: Performance.** YUI modules are rendered server-side first. A first full rendering pass is done server-side, using the same code as used for client-side rendering. The fully rendered page is sent to the client, and progressively enhanced after it is received and shown to the user.
+**Progressive Enhancement/Performance.** YUI modules are rendered server-side first. A first full rendering pass is done server-side, using the same code as used for client-side rendering. The fully rendered page is sent to the client, and progressively enhanced after it is received and shown to the user.
 
-**Progressive Enhancement: Poor Connectivity (mobile networks).** When the network pipe is so thin (or unreliable) as to make every bit count, let's do as much work as possible server-side, and hand the client the finished work -- rather than having the client get a bunch of assets, and execute them.
+**Poor Connectivity (mobile networks).** When the network pipe is so thin (or unreliable) as to make every bit count, let's do as much work as possible server-side, and hand the client the finished work -- rather than having the client get a bunch of assets, and execute them.
 
-**Progressive Enhancement: No JS on client/SEO.** When the client is a bot, or somehow disabled (feature phones), page rendering is done entirely on the server, with no help from the client. Yet the exact same code is executed for those pages as for high-end browsers (which would rendered on the client).
+**No JS on client/SEO.** When the client is a bot, or somehow disabled (feature phones), page rendering is done entirely on the server, with no help from the client. Yet the exact same code is executed for those pages as for high-end browsers (which would rendered on the client).
 
 **Form Validation.** Form data needs to be validated client-side for quick feedback, and again server-side for safety. When using YUI on the server, the widgets execute the same validation code in either place.
 
