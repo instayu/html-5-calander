@@ -19,6 +19,10 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
 
+### January 10, 2013
+* [Video recording (cut off mid-way)](http://www.youtube.com/watch?v=pOJHhq-5QXE)
+* [Meeting Notes](https://gist.github.com/4515169)
+
 ### January 3, 2013
 * [Video recording](http://www.youtube.com/watch?v=hRv8nwA62k0)
 * Tilo Demos
