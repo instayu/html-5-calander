@@ -4,14 +4,11 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-* The @since yuidoc tag and better ways to use it system-wide.
+
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
    * https://github.com/yui/yui3/pull/370
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
-* [Jeff] [Split widget-position-*, widget-autohide, widget-modality into base and widget extensions to provide for extensibility](http://yuilibrary.com/projects/yui3/ticket/2533054)
-* `Y.Promise` update - Luke/Juan
-   * [Original pull request](https://github.com/yui/yui3/pull/241)
-   * [Juan Dopazo's current proposal](https://github.com/juandopazo/yui3/pull/4) - _favored_
+
 
 
 
@@ -22,6 +19,11 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ### January 10, 2013
 * [Video recording (cut off mid-way)](http://www.youtube.com/watch?v=pOJHhq-5QXE)
 * [Meeting Notes](https://gist.github.com/4515169)
+    * The @since yuidoc tag and better ways to use it system-wide.
+    * [Jeff] [Split widget-position-*, widget-autohide, widget-modality into base and widget extensions to provide for extensibility](http://yuilibrary.com/projects/yui3/ticket/2533054)
+    * `Y.Promise` update - Luke/Juan
+       * [Original pull request](https://github.com/yui/yui3/pull/241)
+       * [Juan Dopazo's current proposal](https://github.com/juandopazo/yui3/pull/4) - _favored_
 
 ### January 3, 2013
 * [Video recording](http://www.youtube.com/watch?v=hRv8nwA62k0)
