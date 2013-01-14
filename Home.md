@@ -17,8 +17,8 @@ This release we added two new components: [`Y.Color`](http://yuilibrary.com/yui/
 * [Release announcement](http://www.yuiblog.com/blog/2012/12/12/yui-3-8-0-y-color-templates-and-more/)
 * [[YUI 3.8.0 Change History Rollup]]
 * [Tickets addressed](https://yuilibrary.com/projects/yui3/report/145)
-* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.8.0pr2/build/yui/yui-min.js)
-* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.8.0pr2.zip)
+* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.8.0/build/yui/yui-min.js)
+* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.8.0.zip)
 * [npm module](https://npmjs.org/package/yui)
 
 ## Past Releases
