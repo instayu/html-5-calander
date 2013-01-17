@@ -8,6 +8,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
   * [YUI3 Normalize module on tilomitra/yui3](https://github.com/tilomitra/yui3/tree/normalize/src/normalize)
   * [Normalize.css braindump](https://github.com/tilomitra/yui3/wiki/Normalize.css-discussion)
 * Begin discussion on dropping older browsers like jQuery & Dojo.
+* [Jenny] If code freeze is Friday, does that mean all PRs need to be submitted 72 hours prior?
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
    * [~~#370~~](https://github.com/yui/yui3/pull/370) (Dav closed it by merging it in)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
