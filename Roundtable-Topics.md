@@ -4,8 +4,9 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-* [Tilo] Discussion on normalize.css
-  * [Link to YUI3 Normalize module](https://github.com/tilomitra/yui3/tree/normalize/src/normalize)
+* [Tilo] normalize.css discussion
+  * [YUI3 Normalize module on tilomitra/yui3](https://github.com/tilomitra/yui3/tree/normalize/src/normalize)
+  * [Normalize.css braindump](https://github.com/tilomitra/yui3/wiki/Normalize.css-discussion)
 * Begin discussion on dropping older browsers like jQuery & Dojo.
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
    * [~~#370~~](https://github.com/yui/yui3/pull/370) (Dav closed it by merging it in)
