@@ -59,6 +59,10 @@ We reserve the right to one day fail builds on lint errors.
 
 ## Important Milestones
 
+### Pull Request Milestones
+
+Per our [Contributor Model]{https://github.com/yui/yui3/wiki/Contributor-Model}, pull requests require a 72-hour window for feedback. Please submit your pull request with enough time for this window, if you are trying to meet one of the milestones described below.
+
 ### Feature Complete
 
 All big ticket items should be merged in by Feature Complete. This is in order to ensure enough time for testing and community feedback before release. Big ticket items include new features, new APIs, large code changes, deprecations, and upstream changes that may impact other code.
