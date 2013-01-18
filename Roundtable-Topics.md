@@ -4,11 +4,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-* [Tilo] normalize.css discussion
-  * [YUI3 Normalize module on tilomitra/yui3](https://github.com/tilomitra/yui3/tree/normalize/src/normalize)
-  * [Normalize.css braindump](https://github.com/tilomitra/yui3/wiki/Normalize.css-discussion)
-* Begin discussion on dropping older browsers like jQuery & Dojo.
-* [Jenny] If code freeze is Friday, does that mean all PRs need to be submitted 72 hours prior?
+
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
    * [~~#370~~](https://github.com/yui/yui3/pull/370) (Dav closed it by merging it in)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
@@ -19,6 +15,16 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Archive
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
+
+### January 17, 2013
+* [Video recording](http://www.youtube.com/watch?v=Ow1j5UMqTWc&feature=g-crec-u)
+* Agenda items
+    * [Tilo] normalize.css discussion
+    * [YUI3 Normalize module on tilomitra/yui3 (https://github.com/tilomitra/yui3/tree/normalize/src/normalize)
+    * [Normalize.css braindump](https://github.com/tilomitra/yui3/wiki/Normalize.css-discussion)
+    * Begin discussion on dropping older browsers like jQuery & Dojo.
+    * [Jenny] If code freeze is Friday, does that mean all PRs need to be submitted 72 hours prior?
+
 
 ### January 10, 2013
 * [Video recording (cut off mid-way)](http://www.youtube.com/watch?v=pOJHhq-5QXE)
