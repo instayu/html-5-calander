@@ -5,11 +5,13 @@ This is a meritocratic, consensus-based community project. Anyone with an intere
 
 ## 2. Roles and responsibilities
 
+<a id="users"></a>
 ### 2.1. Users
 Users are community members who have a need for the project. Anyone can be a User; there are no special requirements. Common User contributions include evangelizing the project (e.g., display a link on a website and raise awareness through word-of-mouth), informing developers of strengths and weaknesses from a new user perspective, or providing moral support (a "thank you" goes a long way).
 
 Users who continue to engage with the project and its community will often become more and more involved. Such Users may find themselves becoming Contributors, as described in the next section.
 
+<a id="contributors"></a>
 ###2.2. Contributors
 Contributors are community members who contribute in concrete ways to the project, most often in the form of code and/or [documentation](http://yuilibrary.com/yui/docs/). Anyone can become a Contributor, and contributions can take many forms. There is no expectation of commitment to the project, no specific skill requirements, and no selection process.
 
@@ -19,6 +21,7 @@ All YUI Contributors are required to sign the [YUI Contributor License Agreement
 
 As Contributors gain experience and familiarity with the project, their profile within, and commitment to, the community will increase. At some stage, they may find themselves being nominated for committership by an existing Committer.
 
+<a id="committer"></a>
 ### 2.3. Committers
 Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Committers are given push access to the project's GitHub repo and must abide by the project's [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards), including milestones such as feature complete and code freeze.
 
@@ -32,6 +35,7 @@ It is important to recognize that committership is a privilege, not a right. Tha
 
 A Committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a Reviewer, described below.
 
+<a id="reviewer"></a>
 ### 2.4. Reviewers
 Reviewers are individuals identified as "project admins" for the project on GitHub. Reviewers have additional responsibilities over and above those of a Committer. These responsibilities ensure the smooth running of the project. Reviewers are expected to review code contributions, approve changes to this document, and manage the copyrights within the project outputs.
 
