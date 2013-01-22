@@ -71,3 +71,10 @@
 
 * Remove hardcoded position:absolute because it shouldn't be necessary anymore [nhusher].
 
+## YUI Core Change History
+
+* Fixed issue with cssstamp element not being assigned if YUI is loaded twice on the page.
+
+## Node Change History
+
+* Fix show, hide and toggleView methods in transition module Deals with -http://yuilibrary.com/forum/viewtopic.php?p=36173 [Prajwalit Bhopale]
