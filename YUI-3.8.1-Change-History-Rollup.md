@@ -30,6 +30,10 @@
 * Stringified request data is now passed to custom transport layers.
   [Ticket #2532594] [Pull Request #383] [John Lindal]
 
+## Tabview Change History
+
+* PR #404 Avoids rewriting Tab label & panel content. Fixes #2530253.
+
 ## Template Change History
 
 * The number 0 (as opposed to the string "0") is no longer treated as an empty
@@ -40,6 +44,10 @@
 
 * Added the concept of default options to `Y.Template` via the following
   constructor signature: `Y.Template(engine, defaults)`.
+
+## Transition Change History
+
+* PR #398 Fix show, hide and toggleView methods in transition module [prajwalit]
 
 ## Uploader Utility (New) Change History
 
