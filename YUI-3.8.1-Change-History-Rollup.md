@@ -67,3 +67,7 @@
 
 * Update calendar navigator controls when minimum or maximum date changes [jafl].
 
+## Autocomplete Change History
+
+* Remove hardcoded position:absolute because it shouldn't be necessary anymore [nhusher].
+
