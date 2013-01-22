@@ -7,6 +7,11 @@
 * Attribute validators and setters now receive set's `options` argument. This is
   now a part of `AttributeCore`. [Ticket #2532810] [Satyam]
 
+## Button Change History
+
+* Documentation updates.	
+* Linting cleanup.
+
 ## Charts Change History
 
 * #2533048 Addressed issue in which styles.majorUnit.determinant was not honored when set to distance.
@@ -52,3 +57,13 @@
 ## Uploader Utility (New) Change History
 
  * Add dropped file infomation to uploader drop event
+
+## Scrollview Change History
+
+* Linting cleanup.
+* Improvements to ScrollView's unit tests. PR #361
+
+## Calendar Change History
+
+* Update calendar navigator controls when minimum or maximum date changes [jafl].
+
