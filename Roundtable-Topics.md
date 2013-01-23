@@ -18,7 +18,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ### January 17, 2013
 * [Video recording](http://www.youtube.com/watch?v=Ow1j5UMqTWc&feature=g-crec-u)
-* Agenda items
+* [Meeting Notes](https://gist.github.com/4614917)
     * [Tilo] normalize.css discussion
     * [YUI3 Normalize module on tilomitra/yui3 (https://github.com/tilomitra/yui3/tree/normalize/src/normalize)
     * [Normalize.css braindump](https://github.com/tilomitra/yui3/wiki/Normalize.css-discussion)
