@@ -5,8 +5,6 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 * Demos
 * Discussion (add topics here + your name)
-
-
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
 
