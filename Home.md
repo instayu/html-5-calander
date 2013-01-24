@@ -10,19 +10,17 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 * [`3.CURRENT.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/138)
 * [`3.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/139)
 
-## Current Release: 3.8.0
+## Current Release: 3.8.1
 
-This release we added two new components: [`Y.Color`](http://yuilibrary.com/yui/docs/color/) and [`Y.Template`](http://yuilibrary.com/yui/docs/template/). We also started refactoring Attribute and Base, this work will be on-going as we squeeze more performance out of these low-level components.
-
-* [Release announcement](http://www.yuiblog.com/blog/2012/12/12/yui-3-8-0-y-color-templates-and-more/)
-* [[YUI 3.8.0 Change History Rollup]]
-* [Tickets addressed](https://yuilibrary.com/projects/yui3/report/145)
-* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.8.0/build/yui/yui-min.js)
-* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.8.0.zip)
+* [Release announcement](http://www.yuiblog.com/blog/2013/01/23/yui-3-8-1-released/)
+* [[YUI 3.8.1 Change History Rollup]]
+* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.8.1/build/yui/yui-min.js)
+* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.8.1.zip)
 * [npm module](https://npmjs.org/package/yui)
 
 ## Past Releases
 
+* [[YUI 3.8.0 Change History Rollup]]
 * [[YUI 3.7.3 Change History Rollup]]
 * [[YUI 3.7.2 Change History Rollup]]
 * YUI 3.7.1 was simply a rebuild of 3.7.0 to fix encoding issues.
