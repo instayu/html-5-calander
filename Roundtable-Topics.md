@@ -5,7 +5,6 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 * Demos
 * Discussion
-  * node-menunav and list css [Tilo]
   * 3.9.0 [Jenny]
   * Compressor [Dav]
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
