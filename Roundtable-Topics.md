@@ -17,7 +17,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ### January 24, 2013
 * [Video recording](http://www.youtube.com/watch?v=Ssn2Jmr4qcc&feature=g-user-lsb)
-* Meeting Notes
+* [Meeting Notes](https://gist.github.com/4629568)
       * 3.9.0 [Jenny]
       * Compressor [Dav]
       * Stale pull requests
