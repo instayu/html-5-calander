@@ -4,9 +4,9 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-* Discussion
-  * 3.9.0 [Jenny]
-  * Compressor [Dav]
+* Discussion (add topics here + your name)
+
+
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
 
@@ -16,6 +16,14 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Archive
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
+
+### January 24, 2013
+* [Video recording](http://www.youtube.com/watch?v=Ssn2Jmr4qcc&feature=g-user-lsb)
+* Meeting Notes
+      * 3.9.0 [Jenny]
+      * Compressor [Dav]
+      * Stale pull requests
+      * Unassigned bugs
 
 ### January 17, 2013
 * [Video recording](http://www.youtube.com/watch?v=Ow1j5UMqTWc&feature=g-crec-u)
