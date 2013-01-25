@@ -78,6 +78,19 @@ The time between the `Feature Complete` milestone and the `Code Freeze` mileston
 
 Coming soon.
 
+### Release Process
+
+At the end of Code Freeze Friday (11:59 PM in Sunnyvale), all branches will be frozen so we can make the determination on whether to cut a release off `master` branch (a 3.CURRENT.NEXT release) or `3.x` branch (a 3.NEXT release).
+
+If `3.x` branch looks good, the 3.NEXT release will be cut the following Tuesday, and then all branches will be unfrozen.
+
+If `3.x` branch is not good, a 3.CURRENT.NEXT release will be cut the following Tuesday, and then only `master` and `dev-master` branches will be unfrozen. The `3.x` and `dev-3.x` branch will remain frozen and only accept commits that get it out of "not good" status. Merges from `dev-master` into `dev-3.x` are not allowed during this time.
+
+As soon as `3.x` branch turns good, a 3.NEXT PR release will be cut and then the `3.x` and `dev-3.x` branches will unfrozen. `dev-master` will be merged into `dev-3.x` as soon as it is unfrozen.
+
+Parallel development against `dev-master` and `dev-3.x` will continue until the end of the next sprint. At the end of Code Freeze Friday of the next sprint, once again all branches will be frozen and the release cycle starts again.
+
+Coming soon.
 ## License Updates
 
 Any submission that uses open source code from another project must be explicitly called out and is subject to review.
