@@ -90,7 +90,6 @@ As soon as `3.x` branch turns good, a 3.NEXT PR release will be cut and then the
 
 Parallel development against `dev-master` and `dev-3.x` will continue until the end of the next sprint. At the end of Code Freeze Friday of the next sprint, once again all branches will be frozen and the release cycle starts again.
 
-Coming soon.
 ## License Updates
 
 Any submission that uses open source code from another project must be explicitly called out and is subject to review.
