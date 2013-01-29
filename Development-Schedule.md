@@ -12,7 +12,7 @@ Sprint 5 *Current*
 * **January 28, 2013:** Sprint Begins.
 * **February 12, 2013:** Feature Complete Pull Request Deadline.
 * **February 15, 2013:** Feature Complete Code Freeze.
-* **February 19, 2013:** Stable Release Code Freeze Pull Request Deadline.
+* **February 19, 2013:** Stable Release Pull Request Deadline.
 * **February 22, 2013:** Stable Release Code Freeze.
 * **February 26, 2013:** Stable Release. 
 
