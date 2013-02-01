@@ -17,7 +17,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ### January 31, 2013
 * [Video recording](http://www.youtube.com/watch?v=P5uO_SpKByE)
-* [Meeting Notes]()
+* [Meeting Notes](https://gist.github.com/4687950)
     * [jenny/ryan/derek] Deprecating components (node-focusmanager, node-menunav, others?)
     * Dav feature testing
     * Stale pull requests.
