@@ -29,6 +29,13 @@ Sign and submit a [Contributor License Agreement (CLA)](http://yuilibrary.com/co
   * Have your Gallery modules hosted on the Yahoo! CDN.
   * Contribute bug fixes and enhancements to the core library.
 
+**Join YUI Contributor Mailing List**
+
+Join the [mailing list](https://groups.google.com/forum/?fromgroups=#!forum/yui-contrib) so you can:
+   * Discuss technical issues about your feature.
+   * Contribute to ongoing discussions around YUI features.
+   * Read about major pull requests and give feedback.
+
 **Fork Repo**
    * Visit https://github.com/yui/yui3 and click the fork button
    * Clone this fork down to your local PC
