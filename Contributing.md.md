@@ -10,7 +10,7 @@ Getting Started (see also [Contribute Code to YUI](http://yuilibrary.com/yui/doc
 Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mode=register) account so you can:
 
   * Create bugs and enhancement requests.
-  * Post on the forum.
+  * Post on the support forum.
   * Contribute modules to the Gallery.
   * Contribute documentation, examples or code to the core library.
 
@@ -37,14 +37,15 @@ Join the [mailing list](https://groups.google.com/forum/?fromgroups=#!forum/yui-
    * Read about major pull requests and give feedback.
 
 **Fork Repo**
-   * Visit https://github.com/yui/yui3 and click the fork button
-   * Clone this fork down to your local PC
+   * Visit https://github.com/yui/yui3 and click the fork button.
+   * Clone this fork down to your local PC.
    * For a specific task, create a branch on this clone and check your changes into this branch.
-   * Push those changes back to your "origin" (back up to github)
+   * Push those changes back to your "origin" (back up to github).
 
 **Build YUI**
-   * See [Building YUI](https://github.com/yui/yui3/wiki/Building-YUI)
+   * See [Building YUI](https://github.com/yui/yui3/wiki/Building-YUI).
 
 **Pull Request** 
-   * See [Pull Request Flow](https://github.com/yui/yui3/wiki/Pull-Request-Flow)
-   * issue a pull request from your special branch via github to the yui/yui3 repo. 
+   * See [Pull Request Flow](https://github.com/yui/yui3/wiki/Pull-Request-Flow).
+   * Issue a pull request from your special branch via github to the yui/yui3 repo.
+   * Make sure your pull request is against `dev-3.x` or `dev-master` **not** `3.x` or `master`.
