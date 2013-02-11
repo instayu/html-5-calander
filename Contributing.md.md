@@ -28,6 +28,7 @@ Sign and submit a [Contributor License Agreement (CLA)](http://yuilibrary.com/co
 
   * Have your Gallery modules hosted on the Yahoo! CDN.
   * Contribute bug fixes and enhancements to the core library.
+  * Make sure you check **"individual"** or **"company"** in the CLA form.
 
 **Join YUI Contributor Mailing List**
 
