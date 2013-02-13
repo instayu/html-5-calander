@@ -4,7 +4,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-  * Tilo/Jeff/Eric on YUI CSS
+  * (add demos here)
 * Discussion (add topics here + your name)
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
@@ -16,6 +16,13 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
 
+### February 7, 2013
+* [Video recording] (http://www.youtube.com/watch?v=uRRE5JIUPVs)
+* Agenda
+   * Demos: Tilo/Jeff/Eric on YUI CSS
+   * Stale pull requests
+   * Unassigned bugs review
+ 
 ### January 31, 2013
 * [Video recording](http://www.youtube.com/watch?v=P5uO_SpKByE)
 * [Meeting Notes](https://gist.github.com/4687950)
