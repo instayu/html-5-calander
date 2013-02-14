@@ -16,8 +16,15 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
 
+### February 14, 2013
+* [Video recording](http://www.youtube.com/watch?v=V3CpNlbl7rU)
+* Agenda
+    * Derek Benchmark demo
+    * Stale pull requests.
+    * Unassigned bugs review.
+
 ### February 7, 2013
-* [Video recording] (http://www.youtube.com/watch?v=uRRE5JIUPVs)
+* [Video recording](http://www.youtube.com/watch?v=uRRE5JIUPVs)
 * Agenda
    * Demos: Tilo/Jeff/Eric on YUI CSS
    * Stale pull requests
