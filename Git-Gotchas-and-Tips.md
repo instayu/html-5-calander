@@ -23,12 +23,15 @@ To specify which branch you would include another argument like:
 --> `topic-branch-three` branched from `master` instead of `topic-branch-one`
 
 ## Pushing
+(Only committers and reviewers can push code to YUI - see [YUI Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model)) 
 
 **Never** use "the big green button".
 
 When pushing manually, you *absolutely* have to make sure you know the exact set of commits which will be getting pushed. Otherwise you're not avoiding any issues.
 
 Diff your local branch with the remote branch you're about to push to. It's the cmd line equivalent of looking at the set of commits in the pull request UI.
+
+**Never** push to `master` or `3.x`. You have to push to `dev-master` or `dev-3.x`. 
 
 Git Tips
 ========
