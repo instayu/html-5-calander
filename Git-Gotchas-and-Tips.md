@@ -12,7 +12,9 @@ So for :
 
 `$ git checkout -b topic-branch-two`
 
-`topic-branch-two` would be created off of `topic-branch-one`, not `master`. To specify which branch you would include another argument like:
+--> `topic-branch-two` would be created off of `topic-branch-one`, not `master`. 
+
+To specify which branch you would include another argument like:
 
 `$ git checkout topic-branch-one`
 
