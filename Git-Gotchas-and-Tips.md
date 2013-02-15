@@ -24,6 +24,8 @@ To specify which branch you would include another argument like:
 
 ## Pushing
 
+*Never* use "the big green button".
+
 When pushing manually, you *absolutely* have to make sure you know the exact set of commits which will be getting pushed. Otherwise you're not avoiding any issues.
 
 Diff your local branch with the remote branch you're about to push to. It's the cmd line equivalent of looking at the set of commits in the pull request UI.
