@@ -9,9 +9,17 @@ Without an explicit <start point>, `git branch` and `git checkout -b` default to
 So for :
 
 `$ git checkout topic-branch-one`
+
 `$ git checkout -b topic-branch-two`
 
-topic-branch-two would be created off of topic-branch-one, not master.
+`topic-branch-two` would be created off of `topic-branch-one`, not `master`. To specify which branch you would include another argument like:
+
+`$ git checkout topic-branch-one`
+
+`$ git checkout -b topic-branch-three master`
+
+--> `topic-branch-three` branched from `master` instead of `topic-branch-one`
+
 
 
 Git Cheat Sheet
