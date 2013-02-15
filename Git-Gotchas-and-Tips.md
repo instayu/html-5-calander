@@ -45,3 +45,6 @@ Git Tips
 
     `git checkout -b foo` is the same as `git branch foo; git checkout foo;`
     `git checkout -b foo upstream/bar` is the same as `git branch foo upstream/bar; git checkout foo;`
+
+## Shell Script
+YUI Engineer Derek Gathright created a simple shell script to help YUI developers stay up-to-date with all the various branches in YUI. [yui-sync.sh ](https://gist.github.com/4660453)
