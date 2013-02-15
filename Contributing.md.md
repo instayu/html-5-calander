@@ -3,7 +3,7 @@ Contributing to YUI
 
 The YUI Project is a two-way open-source project managed by the YUI engineering team at Yahoo!.
 
-Getting Started (see also [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) )
+Getting Started (see also [Developer Workflow](https://github.com/yui/yui3/wiki/Developer-Workflow) ),
 ---
 **Join YUILibrary.com**
 
@@ -50,3 +50,6 @@ Join the [mailing list](https://groups.google.com/forum/?fromgroups=#!forum/yui-
    * See [Pull Request Flow](https://github.com/yui/yui3/wiki/Pull-Request-Flow).
    * Issue a pull request from your special branch via github to the yui/yui3 repo.
    * Make sure your pull request is against `dev-3.x` or `dev-master` **not** `3.x` or `master`.
+
+**Other Resources**
+   * [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) 
