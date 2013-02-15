@@ -5,7 +5,7 @@ Gotchas
 
 ## Branching 
 
-Without and explicit <start point>, `git branch` and `git checkout -b` default to HEAD - which is the branch you are currently on (not necessarily `master`).
+Without an explicit <start point>, `git branch` and `git checkout -b` default to HEAD - which is the branch you are currently on (not necessarily `master`).
 So for :
 
 `$ git checkout topic-branch-one`
