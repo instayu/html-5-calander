@@ -46,5 +46,8 @@ Git Tips
     `git checkout -b foo` is the same as `git branch foo; git checkout foo;`
     `git checkout -b foo upstream/bar` is the same as `git branch foo upstream/bar; git checkout foo;`
 
-## Shell Script
+## Shell Helpers
 YUI Engineer Derek Gathright created a simple shell script to help YUI developers stay up-to-date with all the various branches in YUI. [yui-sync.sh ](https://gist.github.com/4660453)
+
+You should include in your `.bash_profile` (or equiv) a script like [this one](http://www.railstips.org/blog/archives/2009/02/02/bedazzle-your-bash-prompt-with-git-info/) that displays the current git branch whenever you are inside a repo. 
+
