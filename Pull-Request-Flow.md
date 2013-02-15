@@ -67,7 +67,7 @@ Be sure to switch to the 'dev-3.x' branch on the GitHub site when setting up the
 When the pr is approved
 -----------------------
 
-( **You must be a commiter or reviewer in order to actually pull in code.** See the [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model))
+( **You must be a committer or reviewer in order to actually pull in code.** See the [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model))
 
 ```
 git checkout dev-3.x
