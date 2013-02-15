@@ -51,6 +51,6 @@ Git Tips
 
 * You should include in your `.bash_profile` (or equiv) a script like [this one](http://www.railstips.org/blog/archives/2009/02/02/bedazzle-your-bash-prompt-with-git-info/) that displays the current git branch whenever you are inside a repo. 
 
-## Cheat Sheets
-There are many versions of this on the web, here is one example.
-* [Git Cheat Sheet](http://serpensalbus.com/blog/technology/git-cheat-sheet/)
+## Cheat Sheets and Documentation
+* There are many versions of of cheat sheets on the web, here is one example[Git Cheat Sheet](http://serpensalbus.com/blog/technology/git-cheat-sheet/)
+* Getting a grasp on the fundamentals of git is essential to understanding why you may run into issues with branches or pull requests. [This online documentation](http://git-scm.com/documentation) is one of the best available to learn more about git. 
