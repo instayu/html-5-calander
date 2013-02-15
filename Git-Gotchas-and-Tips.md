@@ -44,6 +44,7 @@ Git Tips
 * And sugar on top of `git branch` + `git checkout`
 
     `git checkout -b foo` is the same as `git branch foo; git checkout foo;`
+
     `git checkout -b foo upstream/bar` is the same as `git branch foo upstream/bar; git checkout foo;`
 
 ## Shell Helpers
