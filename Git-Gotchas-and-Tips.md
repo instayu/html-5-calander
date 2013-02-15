@@ -35,13 +35,13 @@ Git Tips
 
 * Everything else is just different ways to specify <commit> (as with most things in git). 
 
-`git branch foo` starts `foo` from whichever commit you're on currently (aka HEAD - normally the tip of your checked out branch).
+    `git branch foo` starts `foo` from whichever commit you're on currently (aka HEAD - normally the tip of your checked out branch).
 
-`git branch foo upstream/bar` starts `foo` from the commit referenced by upstream/bar, which is the tip of the `bar` branch, on the remote called 'upstream'.
+    `git branch foo upstream/bar` starts `foo` from the commit referenced by upstream/bar, which is the tip of the `bar` branch, on the remote called 'upstream'.
 
-`git branch foo bar` starts `foo` from the commit referenced by `bar`, which is the tip of your local `bar` branch (which may or may not be different from the upstream/bar commit. In fact your bar may have nothing to do with upstream/bar)
+    `git branch foo bar` starts `foo` from the commit referenced by `bar`, which is the tip of your local `bar` branch (which may or may not be different from the upstream/bar commit. In fact your bar may have nothing to do with upstream/bar)
 
 * And sugar on top of `git branch` + `git checkout`
 
-`git checkout -b foo` is the same as `git branch foo; git checkout foo;`
-`git checkout -b foo upstream/bar` is the same as `git branch foo upstream/bar; git checkout foo;`
+    `git checkout -b foo` is the same as `git branch foo; git checkout foo;`
+    `git checkout -b foo upstream/bar` is the same as `git branch foo upstream/bar; git checkout foo;`
