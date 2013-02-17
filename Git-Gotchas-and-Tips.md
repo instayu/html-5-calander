@@ -22,6 +22,8 @@ To specify which branch you would include another argument like:
 
 --> `topic-branch-three` branched from `master` instead of `topic-branch-one`
 
+(see also [Learn Git Branching](http://pcottle.github.com/learnGitBranching/) )
+
 ## Pushing
 (Only committers and reviewers can push code to YUI - see [YUI Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model)) 
 
