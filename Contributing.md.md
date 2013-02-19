@@ -1,7 +1,7 @@
 Contributing to YUI
 ===
 
-The YUI Project is a two-way open-source project managed by the YUI engineering team at Yahoo!.
+The YUI Project is a two-way open-source project managed by the YUI engineering team at Yahoo!. Please read about our [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model) for more details.
 
 Getting Started (see also [Developer Workflow](https://github.com/yui/yui3/wiki/Developer-Workflow) ),
 ---
