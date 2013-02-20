@@ -52,6 +52,7 @@ Join the [mailing list](https://groups.google.com/forum/?fromgroups=#!forum/yui-
    * See [Pull Request Flow](https://github.com/yui/yui3/wiki/Pull-Request-Flow).
    * Issue a pull request from your special branch via github to the yui/yui3 repo.
    * Make sure your pull request is against `dev-3.x` or `dev-master` **not** `3.x` or `master`.
+   * Be sure your pull request meets the [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards).
 
 **Other Resources**
    * [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) 
