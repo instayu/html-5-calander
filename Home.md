@@ -4,8 +4,8 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Active Development on YUI
 
-* [[Development Schedule]]
-* [[Roundtable Topics]]
+* [[Development Schedule]] - Code freeze dates and important milestones.
+* [[Roundtable Topics]] - Every week we discuss topics online. Submit a topic here.
 * [[Ongoing Development Discussions]]
 * [`3.CURRENT.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/138)
 * [`3.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/139)
