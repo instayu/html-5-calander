@@ -11,7 +11,7 @@ Getting Started
 
 Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mode=register) account so you can:
 
-  * Create bugs and enhancement requests.
+  * [Create bugs](http://yuilibrary.com/projects/yui3/newticket/) and enhancement requests.
   * Post on the support forum.
   * Contribute modules to the Gallery.
   * Contribute documentation, examples or code to the core library.
