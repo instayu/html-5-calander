@@ -1,8 +1,12 @@
 (This information is currently a WIP, but will supercede the information at [http://yuilibrary.com/yui/docs/tutorials/contribute/](http://yuilibrary.com/yui/docs/tutorials/contribute/)).
 
+If you are new to contributing to YUI, [Contribute.md](https://github.com/yui/yui3/wiki/Contributing.md) is a good place to start.
+
 This tutorial explains YUI's branching strategy and developer workflow for making and submitting contributions to the project.
 
 This tutorial assumes you already have Git installed and working. If you don't, see [Tutorial: Set Up Your Git Environment](http://yuilibrary.com/yui/docs/tutorials/git/) for more info. Also be sure to [sign our CLA](http://yuilibrary.com/contribute/cla/), if you haven't already, before you contribute to YUI. 
+
+
 
 ## Branch Information
 
