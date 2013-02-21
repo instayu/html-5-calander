@@ -5,6 +5,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 * Demos
   * (Tilo) - YUI CSS Github Pages and improved docs
+  * (Derek) - YUI Benchmark
 * Discussion (add topics here + your name)
    * (Andrew) - closing bugs for deprecated modules.
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
