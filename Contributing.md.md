@@ -21,7 +21,7 @@ Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mo
 Create a free account on [GitHub](https://github.com/signup/free) so you can:
 
   * Fork the source code.
-  * Contribute modules to the Gallery.
+  * Contribute modules to the Gallery. (You can now use your own repo as the source.)
   * Contribute documentation, examples or code to the core library.
 
 **Submit a CLA**
