@@ -4,13 +4,12 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-  * (Tilo) - YUI CSS Github Pages and improved docs
-  * (Derek) - YUI Benchmark
-* Discussion (add topics here + your name)
-   * (Andrew) - closing bugs for deprecated modules.
+  * (add a demo here)
+* Discussion 
+   * (add topics here + your name)
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
-* [YUI Web Font](https://github.com/yui/yui3/wiki/YUI-Web-Font)
+
 
 
 
@@ -18,6 +17,10 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Archive
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
+
+### February 21, 2013
+* [Video recording](http://www.youtube.com/watch?v=xBmevfnqD2Q&feature=g-user-u)
+* [Meeting Notes](https://gist.github.com/triptych/5009629)
 
 ### February 14, 2013
 * [Video recording](http://www.youtube.com/watch?v=V3CpNlbl7rU)
