@@ -17,6 +17,8 @@
 
 * French translations for the DataTable [Pull Request #454] [ArnaudD] [davglass]
 
+* Merged in #392: Named cell formatters [satyam] 
+
 ### YQL Change History
 
 * Created a `yql-jsonp` module that requires the various JSONP modules needed. This allows us to use Conditional Loading
