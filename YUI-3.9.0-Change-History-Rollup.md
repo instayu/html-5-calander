@@ -1,88 +1,71 @@
 
-
-Calendar Change History
-=======================
+### Calendar Change History
 
 * Removed unused `substitute` dependency.
 
-Color Change History
-====================
+### Color Change History
 
 * Fix 2532977: getSimilar now returns proper color values
 
-CSSNormalize Change History
-===========================
+### CSSNormalize Change History
 
 * Initial release.
 
-DataTable Change History
-========================
+### DataTable Change History
 
 * Making sortable datatableheaders unselectable [Pull Request #286]
   [Pull Request #378] [Ticket #2532825] [ItsAsbreuk] [apipkin]
 
 * French translations for the DataTable [Pull Request #454] [ArnaudD] [davglass]
 
-YQL Change History
-==================
+### YQL Change History
 
 * Created a `yql-jsonp` module that requires the various JSONP modules needed. This allows us to use Conditional Loading
 to only load them when needed.
 
-Uploader Utility (New) Change History
-=====================================
+### Uploader Utility (New) Change History
 
 * Removed unused `substitute` dependency.
 
-JSON Utility Change History
-===========================
+### JSON Utility Change History
 
 * The JavaScript fallback version is only loaded when the environment doesn't
   provide a native implementation.
 
-Substitute Utility Change History
-=================================
+### Substitute Utility Change History
 
 * Officially Deprecating.
 
-Tree Change History
-===================
+### Tree Change History
 
 * Initial release. [Ryan Grove]
 
-Timers
-======
+### Timers
 
 * Initial module release.
 
-Simple YUI Change History
-=========================
+### Simple YUI Change History
 
 * Added event-base-ie to restore IE8- support. [#2532508]
 
-Promise Change History
-======================
+### Promise Change History
 
 * Initial release. [Juan Dopazo and Luke Smith]
 
-Handlebars Change History
-=========================
+### Handlebars Change History
 
 * Upgraded Handlebars.js to 1.0.rc.2. [Issue #440]
 
-Event Infrastructure Change History
-===================================
+### Event Infrastructure Change History
 
 * `delegate()` now silences events originating from disabled form controls in
   IE, like it does natively in other browsers. [#2532677]
 
-Rich Text Editor Change History
-===============================
+### Rich Text Editor Change History
 
 * Removed unused `substitute` dependency.
 
-Charts Change History
-=====================
+### Charts Change History
 
   * #2533050 Addressed issue in which stacked histograms failed to render properly when there was less available space than specified dimensions.
   * #2533052 Addressed issue in which CartesianSeries.getTotalValues threw an error.
@@ -96,15 +79,13 @@ Charts Change History
   * #2530500 Added ability for Time and Numeric axes to calculate an edgeOffset similar to CategoryAxis.
   * #2533066 Allow for standalone axes to draw automatically.
 
-Graphics Change History
-=======================
+### Graphics Change History
 
    * #2533116 Addressed issue in which relativeMoveTo did not work in the SVG implementation.
    * #2530941 Added chaining to drawing commands.
    * #2532710 Addressed issue in which malformed path data was being created.
 
-ScrollView Change History
-=========================
+### ScrollView Change History
 
   * Improved accuracy of 'scrollEnd' event. (#2533030 & #2532323)
 
