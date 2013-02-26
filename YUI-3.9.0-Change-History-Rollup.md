@@ -1,4 +1,3 @@
-
 ### Calendar Change History
 
 * Removed unused `substitute` dependency.
@@ -94,3 +93,6 @@ to only load them when needed.
   * Paginator now blocks flick events on disabled instances. (#2533078)
 
   * Paginator now prevents the host's flick listener from being executed (it should only listen for gesturemove events), as opposed to unbinding the listener. (SHA 42885f5)
+
+### Number Change History
+   * PR #433 (ticket #2533028) - Fix incorrectly parsing empty string as 0. [okuryu]
