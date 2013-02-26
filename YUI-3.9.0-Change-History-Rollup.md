@@ -1,75 +1,113 @@
-## Attribute Change History
-
-* Invalid values supplied during Attribute initialization that fail setter
-  validation will now fallback the default value defined in `ATTRS`.
-  [Ticket #2528732] [redbat]
-
-* Attribute validators and setters now receive set's `options` argument. This is
-  now a part of `AttributeCore`. [Ticket #2532810] [Satyam]
-
-## Calendar Change History
+Calendar Change History
+=======================
 
 * Removed unused `substitute` dependency.
 
-## Charts Change History
+Color Change History
+====================
 
-  * #2533048 Addressed issue in which styles.majorUnit.determinant was not honored when set to distance.
-  * #2533050 Addressed issue in which stacked histograms failed to render properly when there was less available space than specified dimensions.
-  * #2533052 Addressed issue in which CartesianSeries.getTotalValues threw an error.
-  * #2533053 Addressed issue in which CartesianSeries._getDefaultColor threw an error when the type argument was not given.
-  * #2532883 Refactored code to be more modular.
+* Fix 2532977: getSimilar now returns proper color values
 
-## DataTable Change History
+CSSNormalize Change History
+===========================
 
-* Avoid processing columns if there aren't any to allow empty tables.
-  [Pull Request #176] [Mark Woon]
+* Initial release.
 
-* Default sort for text columns is now case insensitive. Added `caseSensitive`
-  attribute to table columns config. Setting `caseSensitive` to `true` will
-  bypass the case insensitive sort speeding up sort in large data sets, where
-  case insensitivity is not required. [Ticket #2532134] [Pull Request #281]
-  [clanceyp]
- 
+DataTable Change History
+========================
 
-## Event Infrastructure Change History
+* Making sortable datatableheaders unselectable [Pull Request #286]
+  [Pull Request #378] [Ticket #2532825] [ItsAsbreuk] [apipkin]
+
+* French translations for the DataTable [Pull Request #454] [ArnaudD] [davglass]
+
+YQL Change History
+==================
+
+* Created a `yql-jsonp` module that requires the various JSONP modules needed. This allows us to use Conditional Loading
+to only load them when needed.
+
+Uploader Utility (New) Change History
+=====================================
+
+* Removed unused `substitute` dependency.
+
+JSON Utility Change History
+===========================
+
+* The JavaScript fallback version is only loaded when the environment doesn't
+  provide a native implementation.
+
+Substitute Utility Change History
+=================================
+
+* Officially Deprecating.
+
+Tree Change History
+===================
+
+* Initial release. [Ryan Grove]
+
+Timers
+======
+
+* Initial module release.
+
+Simple YUI Change History
+=========================
+
+* Added event-base-ie to restore IE8- support. [#2532508]
+
+Promise Change History
+======================
+
+* Initial release. [Juan Dopazo and Luke Smith]
+
+Handlebars Change History
+=========================
+
+* Upgraded Handlebars.js to 1.0.rc.2. [Issue #440]
+
+Event Infrastructure Change History
+===================================
 
 * `delegate()` now silences events originating from disabled form controls in
   IE, like it does natively in other browsers. [#2532677]
 
-##  IO Utility Change History
+Rich Text Editor Change History
+===============================
 
-* Exposed IO's form serialize via the new `Y.IO.stringify()` method.
-  [Ticket #2529073] [Pull Request #351] [John Lindal]
+* Removed unused `substitute` dependency.
 
-* Stringified request data is now passed to custom transport layers.
-  [Ticket #2532594] [Pull Request #383] [John Lindal]
+Charts Change History
+=====================
 
-## Simple YUI Change History
+  * #2533050 Addressed issue in which stacked histograms failed to render properly when there was less available space than specified dimensions.
+  * #2533052 Addressed issue in which CartesianSeries.getTotalValues threw an error.
+  * #2533053 Addressed issue in which CartesianSeries._getDefaultColor threw an error when the type argument was not given.
+  * #2532883 Refactored code to be more modular.
+  * #2533101 Addressed issue in which the area attribute of the combo series was clobbered by the Fills class.
+  * #2532025 Addressed issue in which the pie chart slices were not clickable in Canvas implementations.
+  * #2528811 Created Candlestick series. (not yet integrated into Charts application)
+  * #2528812 Created OHLC series. (not yet integrated into Charts application)
+  * #2533079 Created SeriesBase class to allow for more modularity of different series types.
+  * #2530500 Added ability for Time and Numeric axes to calculate an edgeOffset similar to CategoryAxis.
+  * #2533066 Allow for standalone axes to draw automatically.
 
- * Added event-base-ie to restore IE8- support. [#2532508]
+Graphics Change History
+=======================
 
-##  Substitute Utility Change History
+   * #2533116 Addressed issue in which relativeMoveTo did not work in the SVG implementation.
+   * #2530941 Added chaining to drawing commands.
+   * #2532710 Addressed issue in which malformed path data was being created.
 
- * Officially Deprecating
+ScrollView Change History
+=========================
 
-##  Template Change History
+  * Improved accuracy of 'scrollEnd' event. (#2533030 & #2532323)
 
-* The number 0 (as opposed to the string "0") is no longer treated as an empty
-  value by Template.Micro. [Ticket #2533040]
+  * Scrollbars now accurately represent the current offset within a dual-axis paginated instance. (#2532751)
 
-* Fixed a bug in Template.Micro that caused control characters like `\n` in
-  template strings to be improperly escaped in the compiled template.
+  * Paginator now blocks flick events on disabled instances. (#2533078)
 
-## Timers Change History
-
-* Initial module release.
-
-##  Uploader Utility (New) Change History
-
- * Removed unused `substitute` dependency.
- * Add dropped file infomation to uploader drop event
-
-##  YQL Change History
-
-* Created a `yql-jsonp` module that requires the various JSONP modules needed. This allows us to use Conditional Loading to only load them when needed. 
-
+  * Paginator now prevents the host's flick listener from being executed (it should only listen for gesturemove events), as opposed to unbinding the listener. (SHA 42885f5)
