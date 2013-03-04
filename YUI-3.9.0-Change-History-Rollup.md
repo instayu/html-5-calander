@@ -10,6 +10,9 @@
 
 * Initial release.
 
+### CSS Base Change History
+* Deprecated. If you're currently using CSSBase, consider switching to using CSSNormalize, which ships with 3.9.0. Please file any issues that you come across.
+
 ### DataTable Change History
 
 * Making sortable datatableheaders unselectable [Pull Request #286]
@@ -98,3 +101,6 @@ to only load them when needed.
 
 ### Number Change History
    * PR #433 (ticket #2533028) - Fix incorrectly parsing empty string as 0. [okuryu]
+
+### Button Change History
+   * Fixed issue where disabled button widgets are still clickable (#2532775)
