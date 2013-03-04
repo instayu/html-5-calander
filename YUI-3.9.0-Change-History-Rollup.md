@@ -6,7 +6,7 @@
 
 * Fix 2532977: getSimilar now returns proper color values
 
-### CSSNormalize Change History
+### CSS Normalize Change History
 
 * Initial release.
 
