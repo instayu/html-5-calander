@@ -11,7 +11,18 @@
 * Initial release.
 
 ### CSS Base Change History
+
 * Deprecated. If you're currently using CSSBase, consider switching to using CSSNormalize, which ships with 3.9.0. Please file any issues that you come across.
+
+### CSS Grids Change History
+
+* [!] Fixed over-collapsing spaces between grid units in Chrome 25, which has
+  added support for `word-spacing`. The `word-spacing` rules are now only
+  targeted at IE < 8.
+
+* Added Responsive Grids ("cssgrids-responsive") which builds on top of the
+  existing CSS Grids. It adds `.yui3-g-r`, which can be used in place of
+  `.yui3-g` and will make all units responsive automatically.
 
 ### DataTable Change History
 
