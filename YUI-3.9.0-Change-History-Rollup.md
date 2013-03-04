@@ -1,3 +1,6 @@
+### App Framework Change History
+* Applied the same changes from CSS Grids to App Transitions to support changes in how Chrome 25 renders `word-spacing`.
+
 ### Calendar Change History
 
 * Removed unused `substitute` dependency.
