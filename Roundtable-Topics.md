@@ -4,12 +4,9 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-  * (add a demo here)
+  * (add a demo here + your name)
 * Discussion 
-   * [Tilo] [Are touch and mouse inputs exclusive?](http://yuilibrary.com/forum/viewtopic.php?f=18&t=11536&p=37868)  
-   * [Matt Parker] YUI Roadmap - is there an outline of work for the next 12-18 months?  It'd be helpful to know where things are headed, if possible.
-   * [Matt Parker] Supporting collaboration.  This is happening - Luke and Juan on promises, Satyam and Todd on datatable stuff... would it be helpful if Yahoo could provide support/structure to make this easier, if people want it?
-   * [Matt Parker] Gallery 2 - is there anything that members of the community could do to help bring the new gallery into being?  Is there anything that could go into a repo, along with tasks/tickets of what needs to happen, and see if anyone could make bite-sized contributions?
+  * (add an item here + your name)
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
 
@@ -20,6 +17,16 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Archive
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
+
+### February 28, 2013
+
+* [Video recording](https://www.youtube.com/watch?v=e4Bdh1XUA0g&feature=g-user-u)
+* [Meeting Notes]
+* Topics
+   * [Tilo] [Are touch and mouse inputs exclusive?](http://yuilibrary.com/forum/viewtopic.php?f=18&t=11536&p=37868)  
+   * [Matt Parker] YUI Roadmap - is there an outline of work for the next 12-18 months?  It'd be helpful to know where things are headed, if possible.
+   * [Matt Parker] Supporting collaboration.  This is happening - Luke and Juan on promises, Satyam and Todd on datatable stuff... would it be helpful if Yahoo could provide support/structure to make this easier, if people want it?
+   * [Matt Parker] Gallery 2 - is there anything that members of the community could do to help bring the new gallery into being?  Is there anything that could go into a repo, along with tasks/tickets of what needs to happen, and see if anyone could make bite-sized contributions?
 
 ### February 21, 2013
 * [Video recording](http://www.youtube.com/watch?v=xBmevfnqD2Q&feature=g-user-u)
