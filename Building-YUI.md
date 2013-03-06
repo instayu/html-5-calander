@@ -2,7 +2,7 @@
 * Read and understand the documentation on [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) - clone your copy of YUI to your development machine.
 * Read and understand the [shifter](http://yui.github.com/shifter/) documentation. Most of what you need to know will be found here.
    * Install [node.js](http://nodejs.org/#download)
-   * install [shifter](http://yui.github.com/shifter/): `sudo npm -g i shifter`
+   * install [shifter](http://yui.github.com/shifter/): `npm -g install shifter`
    * go to the directory you want built within YUI and just run `shifter`
       * For example `cd yui3/src/anim & shifter`
       * output goes to `../../build`
