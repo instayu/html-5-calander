@@ -18,6 +18,14 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
 
+### March 7, 2013
+* [Video recording](https://www.youtube.com/watch?v=e4Bdh1XUA0g&feature=g-user-u)
+* Topics
+   * discussed 3.9.0 release
+   * discussed paginator and datatable
+   * stale pull requests discussion
+
+
 ### February 28, 2013
 
 * [Video recording](https://www.youtube.com/watch?v=e4Bdh1XUA0g&feature=g-user-u)
