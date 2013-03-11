@@ -129,5 +129,11 @@ to only load them when needed.
 
 ### Transition Change History
    * Fixed `transitionend` event issues in Android 4.1 which claims it supports non-prefixed transition properties, when it doesn't.
-
    * `transform` prefix is now handled separately from transition prefix.
+
+### MenuNav Change History
+   * [!] DEPRECATED: The MenuNav Node Plugin has been deprecated as of YUI 3.9.0. This module will be removed from the library in a future version. If you require functionality similar to the one provided by this module, consider taking a look at the various modules in the YUI Gallery.
+
+### Focus Manager Change History
+   * [!] DEPRECATED: The FocusManager Node Plugin has been deprecated as of YUI 3.9.0. This module will be removed from the library in a future version. If you require functionality similar to the one provided by this module, consider taking a look at the various modules in the YUI Gallery.
+
