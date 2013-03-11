@@ -123,3 +123,6 @@ to only load them when needed.
 ### YUI Loader Change History
    * Fixed gallery update method for override group configs
    * Fixed #2533138, added a missing hasOwnProperty check in Loader.resolve to help harden the config processing
+
+### YUI Core Change History
+   * Setup YUI.setLoadHook and its docs (used for Node.js injection)
