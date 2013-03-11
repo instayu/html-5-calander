@@ -128,6 +128,6 @@ to only load them when needed.
    * Setup YUI.setLoadHook and its docs (used for Node.js injection)
 
 ### Transition Change History
-   * Fixed 'transitionend' event issues in Android 4.1 which claims it supports non-prefixed transition properties, when it doesn't.
+   * Fixed `transitionend` event issues in Android 4.1 which claims it supports non-prefixed transition properties, when it doesn't.
 
-   * 'transform' prefix is now handled separately from transition prefix.
+   * `transform` prefix is now handled separately from transition prefix.
