@@ -119,3 +119,7 @@ to only load them when needed.
 
 ### Button Change History
    * Fixed issue where disabled button widgets are still clickable (#2532775)
+
+### YUI Loader Change History
+   * Fixed gallery update method for override group configs
+   * Fixed #2533138, added a missing hasOwnProperty check in Loader.resolve to help harden the config processing
