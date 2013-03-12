@@ -7,7 +7,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
   * (add a demo here + your name)
 * Discussion 
   * (add an item here + your name)
-  * [Jacob] Currently, the new yogi format for gallery modules doesn't make it to the website. Is it possible to get this fixed for newly contributed gallery modules?
+  * [Jacob] Currently, the new yogi format for gallery modules doesn't make it to the website. Is it possible to get this fixed for newly contributed gallery modules? *[@davglass] Didn't we discuss this at the last roundtable?*
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
 
