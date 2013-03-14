@@ -26,10 +26,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ### March 7, 2013
 * [Video recording](https://www.youtube.com/watch?v=e4Bdh1XUA0g&feature=g-user-u)
-* Topics
-   * discussed 3.9.0 release
-   * discussed paginator and datatable
-   * stale pull requests discussion
+* [Meeting Notes](https://gist.github.com/triptych/5165986)
 
 
 ### February 28, 2013
