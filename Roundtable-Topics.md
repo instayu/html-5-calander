@@ -7,7 +7,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
   * (add a demo here + your name)
 * Discussion 
   * (add an item here + your name)
-  * [Jacob] Currently, the new yogi format for gallery modules doesn't make it to the website. Is it possible to get this fixed for newly contributed gallery modules? *[@davglass] Didn't we discuss this at the last roundtable?*
+  
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
 
@@ -18,6 +18,12 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Archive
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
+
+### March 14, 2013
+* [Video recording](http://www.youtube.com/watch?v=Wc-iiSox7Sc&feature=g-user-u)
+* [Meeting Notes](https://gist.github.com/triptych/5165637)
+* Topics 
+   * [Jacob] Currently, the new yogi format for gallery modules doesn't make it to the website. Is it possible to get this fixed for newly contributed gallery modules? *[@davglass] Didn't we discuss this at the last roundtable?*
 
 ### March 7, 2013
 * [Video recording](https://www.youtube.com/watch?v=e4Bdh1XUA0g&feature=g-user-u)
