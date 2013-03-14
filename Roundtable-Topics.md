@@ -22,8 +22,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ### March 14, 2013
 * [Video recording](http://www.youtube.com/watch?v=Wc-iiSox7Sc&feature=g-user-u)
 * [Meeting Notes](https://gist.github.com/triptych/5165637)
-* Topics 
-   * [Jacob] Currently, the new yogi format for gallery modules doesn't make it to the website. Is it possible to get this fixed for newly contributed gallery modules? *[@davglass] Didn't we discuss this at the last roundtable?*
+
 
 ### March 7, 2013
 * [Video recording](https://www.youtube.com/watch?v=e4Bdh1XUA0g&feature=g-user-u)
