@@ -4,7 +4,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-  * (add a demo here + your name)
+  * [Tilo] New Gallery Module `Y.WidgetPointer` and `Y.Tipsy`
 * Discussion 
   * (add an item here + your name)
   
