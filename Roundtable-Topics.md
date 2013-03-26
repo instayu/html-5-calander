@@ -4,7 +4,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-  * [Tilo] New Gallery Module `Y.WidgetPointer` and `Y.Tipsy`
+  * (add an item here + your name)
 * Discussion 
   * (add an item here + your name)
   
@@ -21,7 +21,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ### March 21, 2013
 * [Video recording](https://www.youtube.com/watch?v=4eQdJ-Ss_tE&feature=g-user-u)
-* [Meeting Notes]()
+* [Meeting Notes](https://gist.github.com/triptych/5249023)
 
 ### March 14, 2013
 * [Video recording](http://www.youtube.com/watch?v=Wc-iiSox7Sc&feature=g-user-u)
