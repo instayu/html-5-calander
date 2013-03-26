@@ -14,6 +14,21 @@
   [#513] [Ryan Grove]
 
 
+## Charts Change History
+
+* #2533120 Removed all lint warnings.
+
+
+## Graphics Change History
+
+* #2533119 Removed all lint warnings.
+
+
+## Handlebars Change History
+
+* Upgraded Handlebars.js to v1.0.10 to fix regression with nested blocks.
+
+
 ## Tree Change History
 
 * Added a `src` option to all methods that trigger events. This value is passed
