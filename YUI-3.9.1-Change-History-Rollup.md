@@ -1,5 +1,4 @@
-
-
+.
 App Framework Change History
 ============================
 
