@@ -20,3 +20,7 @@
   along to the event facade of the resulting event, and can be used to
   distinguish between changes caused by different sources (such as
   user-initiated changes vs. programmatic changes). [Ryan Grove]
+
+## Handlebars Change History
+
+* Upgraded Handlebars.js to v1.0.10 to fix regression with nested blocks.
