@@ -5,7 +5,9 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 * Demos
   * [Tilo]Show [documentation](http://tilomitra.github.com/tipsy/) for `Y.WidgetPointer`, `Y.Tipsy` and `Y.Popover`
+
 * Discussion 
+  * YUI Meetup
   * (add an item here + your name)
   
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
