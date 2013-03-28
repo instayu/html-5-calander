@@ -4,7 +4,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-  * (add an item here + your name)
+  * [Tilo]Show [documentation](https://tilomitra.github.com/tipsy/) for `Y.WidgetPointer`, `Y.Tipsy` and `Y.Popover`
 * Discussion 
   * (add an item here + your name)
   
