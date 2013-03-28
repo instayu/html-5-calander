@@ -4,10 +4,9 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Upcoming
 
 * Demos
-  * [Tilo] Show [documentation](http://tilomitra.github.com/tipsy/) for `Y.WidgetPointer`, `Y.Tipsy` and `Y.Popover`
+  * (add an item here + your name)
 
 * Discussion 
-  * [Eric] YUI Meetup
   * (add an item here + your name)
   
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
@@ -20,6 +19,10 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Archive
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
+
+### March 28, 2013
+* [Video Recording](http://www.youtube.com/watch?v=ylR5AyMkNHo)
+* [Meeting Notes](https://gist.github.com/triptych/5267572)
 
 ### March 21, 2013
 * [Video recording](https://www.youtube.com/watch?v=4eQdJ-Ss_tE&feature=g-user-u)
