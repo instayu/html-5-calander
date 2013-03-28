@@ -2,10 +2,8 @@
 If you have topics you would like covered in an upcoming Roundtable, please add a bullet point at the bottom of the **Upcoming** list and note your name as the originator of the topic.
 
 ## Upcoming
-
 * Demos
   * (add an item here + your name)
-
 * Discussion 
   * (add an item here + your name)
   
