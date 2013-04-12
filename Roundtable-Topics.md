@@ -3,6 +3,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ## Upcoming
 * Demos
+  * Storage - Juan
   * (add an item here + your name)
 * Discussion 
   *
