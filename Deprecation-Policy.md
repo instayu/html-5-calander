@@ -2,7 +2,7 @@
 
    * Discuss and vote on Contributor Mailing List
    * Output log messages with category "warn" to alert users to deprecated APIs and modules at runtime.
-   * When a module is deprecated, rename it to "-deprecated"
+   * When a module is deprecated, rename it to "-deprecated" (only if you have a new one coming out with the same name)
    * Create a ticket bug tracker for tracking
    * Update API doc
    * Update HISTORY.md with a <code>[!]</code> prefix.
