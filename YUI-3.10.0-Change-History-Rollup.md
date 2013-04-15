@@ -184,7 +184,7 @@
   versions of IE. Trying to use `Object.create()` or `Y.extend()` on a DOM node
   will throw an error in these browsers.
 
-Tree Change History
+### Tree Change History
 
 * Added `Tree#findNode()` and `Tree.Node#find()` methods, which pass the
   specified node and each of its descendants to a callback function and returns
