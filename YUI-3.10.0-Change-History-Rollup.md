@@ -200,6 +200,10 @@ Tree Change History
 * Fixed: The number returned by `Tree#size()` didn't include the root node.
   [Ryan Grove]
 
+### YUI Loader Change History
+
+* Removed the default `build` directories from Loader generated combo URL's
+
 ### Widget Change History
 * Added custom prefix support to widget.getSkinName,
     derived https://github.com/yui/yui3/pull/327
