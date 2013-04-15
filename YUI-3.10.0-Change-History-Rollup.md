@@ -204,6 +204,10 @@ Tree Change History
 
 * Removed the default `build` directories from Loader generated combo URL's
 
+### Profiler Change History
+
+* [!] DEPRECATED: This module will be removed from the library in a future version.
+
 ### Widget Change History
 * Added custom prefix support to widget.getSkinName,
     derived https://github.com/yui/yui3/pull/327
