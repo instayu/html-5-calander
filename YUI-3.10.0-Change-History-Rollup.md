@@ -200,6 +200,9 @@ Tree Change History
 * Fixed: The number returned by `Tree#size()` didn't include the root node.
   [Ryan Grove]
 
+### Widget Change History
+* Added custom prefix support to widget.getSkinName,
+    derived https://github.com/yui/yui3/pull/327
 
 ### YUI Core Change History
 * (Add ability to filter log messages by threshold [andrewnicols])
