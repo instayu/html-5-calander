@@ -211,9 +211,9 @@ Tree Change History
 ### Widget Change History
 * Added custom prefix support to widget.getSkinName,
     derived https://github.com/yui/yui3/pull/327
+
+
 ### Tree Change History
-
-
 * Added `Tree#findNode()` and `Tree.Node#find()` methods, which pass the
   specified node and each of its descendants to a callback function and returns
   the first node for which the callback returns a truthy value. [Ryan Grove]
