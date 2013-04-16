@@ -174,6 +174,7 @@
 
 ### Node Change History
 * Fix node.all() to return an empty NodeList if the node was destroyed - Fixes #580 (hat tip Dallas Wheeler)
+* [!] Removed `node-deprecated` module. [Ryuichi Okumura]
 
 ### OOP Utilities Change History
 * Updated `Y.clone()` to always quit early and not try to clone DOM nodes.
@@ -230,3 +231,7 @@
 
 ### TabView Change History
 * Revert static templates and map prototype templates to statics by default.
+
+### DOM Change History
+* [!] Removed `dom-deprecated` module. [Ryuichi Okumura]
+
