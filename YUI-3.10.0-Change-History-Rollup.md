@@ -32,7 +32,7 @@
   since it's isolated already higher up in the call stack.
 
 ### AutoComplete Change History
-* (Add italian language files to the components. [albertosantini])
+* Add italian language files to the components. [albertosantini]
 
 ### Base Change History
 
@@ -91,13 +91,10 @@
  * Allow upper and lowercase to values for convert(). Also return original value if an invalid to value is provided. Fixes #583
 
 ### Console Change History
-* (Add italian language files to the components. [albertosantini])
-
-### CSS Grids Change History
-* (remove previous text and images, use lorem ipsum and placeholder text instead.)
+* Add italian language files to the components. [albertosantini]
 
 ### DataTable Change History
-* (Fix renderBody in the docs and in table-message. [albertosantini])
+* Fix renderBody in the docs and in table-message. [albertosantini]
 
 ### Event-custom Change History
 * Significant performance improvements in common CustomEvent operations.
@@ -173,7 +170,7 @@
   for a comparable event configuration. `publish()` leverages `_publish()`, also ends up being
   faster after this change, but not by such a big factor.
 
- * (Revert EventTarget back to lazily creating `targets` [ericf])
+ * Revert EventTarget back to lazily creating `targets` [ericf]
 
 ### Node Change History
 * Fix node.all() to return an empty NodeList if the node was destroyed - Fixes #580 (hat tip Dallas Wheeler)
@@ -229,7 +226,7 @@
   [Ryan Grove]
 
 ### YUI Core Change History
-* (Add ability to filter log messages by threshold [andrewnicols])
+* Add ability to filter log messages by threshold [andrewnicols]
 
 ### TabView Change History
 * Revert static templates and map prototype templates to statics by default.
