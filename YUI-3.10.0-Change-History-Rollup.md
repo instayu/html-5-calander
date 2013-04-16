@@ -95,6 +95,7 @@
 
 ### DataTable Change History
 * Fix renderBody in the docs and in table-message. [albertosantini]
+* Add italian language files to the components. [albertosantini] 
 
 ### Event-custom Change History
 * Significant performance improvements in common CustomEvent operations.
@@ -234,4 +235,3 @@
 
 ### DOM Change History
 * [!] Removed `dom-deprecated` module. [Ryuichi Okumura]
-
