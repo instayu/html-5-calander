@@ -97,6 +97,9 @@
 * Fix renderBody in the docs and in table-message. [albertosantini]
 * Add italian language files to the components. [albertosantini] 
 
+### Drag and Drop Change History
+* Make DD use EventTarget's public `getTargets()` method.
+
 ### Event-custom Change History
 * Significant performance improvements in common CustomEvent operations.
 
