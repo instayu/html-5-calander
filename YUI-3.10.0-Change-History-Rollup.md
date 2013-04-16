@@ -88,7 +88,7 @@
 
 
 ### Color Change History 
- * (Allow upper and lowercase to values for convert(). Also return original value if an invalid to value is provided. Fixes #583)
+ * Allow upper and lowercase to values for convert(). Also return original value if an invalid to value is provided. Fixes #583
 
 ### Console Change History
 * (Add italian language files to the components. [albertosantini])
@@ -230,3 +230,6 @@
 
 ### YUI Core Change History
 * (Add ability to filter log messages by threshold [andrewnicols])
+
+### TabView Change History
+* Revert static templates and map prototype templates to statics by default.
