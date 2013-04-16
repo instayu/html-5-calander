@@ -176,6 +176,9 @@
 
  * Revert EventTarget back to lazily creating `targets` [ericf]
 
+### Handlebars Change History
+* Remove "BEGIN/END(BROWSER)" comments from imported Handlebars source.
+
 ### Node Change History
 * Fix node.all() to return an empty NodeList if the node was destroyed - Fixes #580 (hat tip Dallas Wheeler)
 * [!] Removed `node-deprecated` module. [Ryuichi Okumura]
