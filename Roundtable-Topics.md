@@ -3,7 +3,6 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ## Upcoming
 * Demos
-  * Storage - Juan - [Design doc](https://gist.github.com/juandopazo/5405383)
   * (add an item here + your name)
 * Discussion 
   * (add an item here + your name)  
