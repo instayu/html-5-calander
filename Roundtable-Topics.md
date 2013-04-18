@@ -5,7 +5,9 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 * Demos
   * (add an item here + your name)
 * Discussion 
-  * (add an item here + your name)  
+  * (add an item here + your name) 
+  * Jenny - Clarification on Contributor Model's 72-hour window 
+  * Jenny - Exploring different open-source platform services (i.e., forums and bug tracker)
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
 
