@@ -67,12 +67,11 @@ Per our [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model),
 
 All big ticket items should be merged in by Feature Complete. This is in order to ensure enough time for testing and community feedback before release. Big ticket items include new features, new APIs, large code changes, deprecations, and upstream changes that may impact other code.
 
+The time between the `Feature Complete` milestone and the `Code Freeze` milestone is meant for late-breaking bug fixes of a smaller nature that come out of community feedback and testing. Documentation fixes and updates to tests are also welcome during this time.
+
 ### Code Freeze
 
-No code changes of any kind are permitted after code freeze without explicit discussion and approval. This is to prevent churn that delays releases. Please make sure all bug fixes, test updates, documentation, and HISTORY.md updates happen before code freeze.
-
-The time between the `Feature Complete` milestone and the `Code Freeze` milestone is meant for late-breaking bug fixes of a smaller nature that come out of community feedback and testing.
-
+No code changes of any kind are permitted after code freeze without explicit discussion and approval. This is to prevent churn in our CI system that delays releases. Please make sure all bug fixes, test updates, documentation, and HISTORY.md updates happen before code freeze. Code will be unfrozen after the release and deployment is complete. In a normal cycle, we expect code freeze to last from EOD Friday to Tuesday, or about 3.5 days.
 
 ### Preview Releases
 
