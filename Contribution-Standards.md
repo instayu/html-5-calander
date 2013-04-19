@@ -71,7 +71,7 @@ The time between the `Feature Complete` milestone and the `Code Freeze` mileston
 
 ### Code Freeze
 
-No code changes of any kind are permitted after code freeze without explicit discussion and approval. This is to prevent churn in our CI system that delays releases. Please make sure all bug fixes, test updates, documentation, and HISTORY.md updates happen before code freeze. Code will be unfrozen after the release and deployment is complete. In a normal cycle, we expect code freeze to last from EOD Friday to Tuesday, or about 3.5 days.
+No code changes of any kind are permitted after code freeze to the `dev-master` and `dev-3.x` branches without explicit discussion and approval. This is to prevent churn in our CI system that delays releases. Please make sure all bug fixes, test updates, documentation, and HISTORY.md updates happen before code freeze. Code will be unfrozen after the release and deployment is complete. In a normal cycle, we expect code freeze to last from EOD Friday to Tuesday, or about 3.5 days.
 
 ### Preview Releases
 
