@@ -6,9 +6,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
   * (add an item here + your name)
 * Discussion 
   * (add an item here + your name) 
-  * Jenny - Clarification on Contributor Model's 72-hour window 
-  * Jenny - Exploring different open-source platform services (i.e., forums and bug tracker)
-  * Tony - Paginator status discussion on [Pull Request](https://github.com/yui/yui3/pull/466)
+  
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
 
@@ -19,6 +17,10 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Archive
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
+
+### April 18, 2013
+* [Video Recording](https://www.youtube.com/watch?v=UklloDVeCeU)
+* [Meeting Notes](https://gist.github.com/triptych/5437484)
 
 ### April 11, 2013
 * [Video Recording](https://www.youtube.com/watch?v=RuGetNcDL98)
