@@ -1,13 +1,13 @@
-### App Framework Change History
+## App Framework Change History
 
-#### Model
+### Model
 
 * Fixed: The `options` object passed to Model's `setAttrs()` method was being
   modified. Now a shallow copy of this object is now created so that the
   `_transaction` property is added to the copy and not the passed-in object.
   [#598]
 
-### Attribute Change History
+## Attribute Change History
 
 * Significant performance improvements in common Attribute operations.
 
@@ -31,10 +31,10 @@
 * Store final attribute config in State by reference, as opposed to merging
   since it's isolated already higher up in the call stack.
 
-### AutoComplete Change History
+## AutoComplete Change History
 * Add italian language files to the components. [albertosantini]
 
-### Base Change History
+## Base Change History
 
 * Significant performance improvements in common Base/BaseCore operations.
 
@@ -80,27 +80,35 @@
       `MyCreatedClass.modifyAttrs({..changes to merge..})`
 
 
-### Charts Change History
+## Charts Change History
 
   * #2533184 Addressed issue in which Axis.getEdgeOffset was returning an incorrect value.
   * #2533130 Added hideFirstMajorUnit and hideLastMajorUnit attributes to axis classes allowing for suppression of rendering the first/last label and tick on an axis.
   * #2533128 Add ability for axis to generate labels and their position from an array of values. 
 
 
-### Color Change History 
+## Color Change History 
  * Allow upper and lowercase to values for convert(). Also return original value if an invalid to value is provided. Fixes #583
 
-### Console Change History
+## Console Change History
+
 * Add italian language files to the components. [albertosantini]
 
-### DataTable Change History
+## DataTable Change History
+
 * Fix renderBody in the docs and in table-message. [albertosantini]
 * Add italian language files to the components. [albertosantini] 
 
-### Drag and Drop Change History
+## DOM Change History
+
+* [!] Removed `dom-deprecated` module. [Ryuichi Okumura]
+
+## Drag and Drop Change History
+
 * Make DD use EventTarget's public `getTargets()` method.
 
-### Event-custom Change History
+## Event-custom Change History
+
 * Significant performance improvements in common CustomEvent operations.
 
   There are improvements across the board, but the work was largely aimed at events
@@ -176,20 +184,23 @@
 
  * Revert EventTarget back to lazily creating `targets` [ericf]
 
-### Handlebars Change History
+## Handlebars Change History
+
 * Remove "BEGIN/END(BROWSER)" comments from imported Handlebars source.
 
-### Node Change History
+## Node Change History
+
 * Fix node.all() to return an empty NodeList if the node was destroyed - Fixes #580 (hat tip Dallas Wheeler)
 * [!] Removed `node-deprecated` module. [Ryuichi Okumura]
 
-### OOP Utilities Change History
+## OOP Utilities Change History
+
 * Updated `Y.clone()` to always quit early and not try to clone DOM nodes.
   Common host objects like DOM nodes cannot be "subclassed" in Firefox and old
   versions of IE. Trying to use `Object.create()` or `Y.extend()` on a DOM node
   will throw an error in these browsers.
 
-### Tree Change History
+## Tree Change History
 
 * Added `Tree#findNode()` and `Tree.Node#find()` methods, which pass the
   specified node and each of its descendants to a callback function and returns
@@ -205,20 +216,22 @@
 * Fixed: The number returned by `Tree#size()` didn't include the root node.
   [Ryan Grove]
 
-### YUI Loader Change History
+## YUI Loader Change History
 
 * Removed the default `build` directories from Loader generated combo URL's
 
-### Profiler Change History
+## Profiler Change History
 
 * [!] DEPRECATED: This module will be removed from the library in a future version.
 
-### Widget Change History
-* Added custom prefix support to widget.getSkinName,
-    derived https://github.com/yui/yui3/pull/327
+## Widget Change History
+
+* Added custom prefix support to widget.getSkinName, derived 
+  https://github.com/yui/yui3/pull/327
 
 
-### Tree Change History
+## Tree Change History
+
 * Added `Tree#findNode()` and `Tree.Node#find()` methods, which pass the
   specified node and each of its descendants to a callback function and returns
   the first node for which the callback returns a truthy value. [Ryan Grove]
@@ -233,11 +246,10 @@
 * Fixed: The number returned by `Tree#size()` didn't include the root node.
   [Ryan Grove]
 
-### YUI Core Change History
+## YUI Core Change History
+
 * Add ability to filter log messages by threshold [andrewnicols]
 
-### TabView Change History
-* Revert static templates and map prototype templates to statics by default.
+## TabView Change History
 
-### DOM Change History
-* [!] Removed `dom-deprecated` module. [Ryuichi Okumura]
+* Revert static templates and map prototype templates to statics by default.
