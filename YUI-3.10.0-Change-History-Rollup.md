@@ -200,6 +200,14 @@
   versions of IE. Trying to use `Object.create()` or `Y.extend()` on a DOM node
   will throw an error in these browsers.
 
+## Profiler Change History
+
+* [!] DEPRECATED: This module will be removed from the library in a future version.
+
+## TabView Change History
+
+* Revert static templates and map prototype templates to statics by default.
+
 ## Tree Change History
 
 * Added `Tree#findNode()` and `Tree.Node#find()` methods, which pass the
@@ -215,41 +223,16 @@
 
 * Fixed: The number returned by `Tree#size()` didn't include the root node.
   [Ryan Grove]
-
-## YUI Loader Change History
-
-* Removed the default `build` directories from Loader generated combo URL's
-
-## Profiler Change History
-
-* [!] DEPRECATED: This module will be removed from the library in a future version.
 
 ## Widget Change History
 
 * Added custom prefix support to widget.getSkinName, derived 
   https://github.com/yui/yui3/pull/327
 
+## YUI Loader Change History
 
-## Tree Change History
-
-* Added `Tree#findNode()` and `Tree.Node#find()` methods, which pass the
-  specified node and each of its descendants to a callback function and returns
-  the first node for which the callback returns a truthy value. [Ryan Grove]
-
-* Added `Tree#traverseNode()` and `Tree.Node#traverse()` methods, which pass the
-  specified node and each of its descendants to a callback function in
-  depth-first order. [Ryan Grove]
-
-* Added a `Tree.Sortable` extension, which can be mixed into any Tree class to
-  provide customizable sorting logic for nodes. [Ryan Grove]
-
-* Fixed: The number returned by `Tree#size()` didn't include the root node.
-  [Ryan Grove]
+* Removed the default `build` directories from Loader generated combo URL's.
 
 ## YUI Core Change History
 
 * Add ability to filter log messages by threshold [andrewnicols]
-
-## TabView Change History
-
-* Revert static templates and map prototype templates to statics by default.
