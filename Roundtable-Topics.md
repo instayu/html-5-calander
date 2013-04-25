@@ -12,7 +12,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ## Archive
 
-### YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
+### YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
 
 ### April 25, 2013
 * [Video Recording](https://www.youtube.com/watch?v=RyTYhWnoki4)
