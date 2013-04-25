@@ -14,6 +14,9 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 (YouTube Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) )
 
+### April 25, 2013
+* [Video Recording](https://www.youtube.com/watch?v=RyTYhWnoki4)
+
 ### April 18, 2013
 * [Video Recording](https://www.youtube.com/watch?v=UklloDVeCeU)
 * [Meeting Notes](https://gist.github.com/triptych/5437484)
