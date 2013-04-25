@@ -16,6 +16,7 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ### April 25, 2013
 * [Video Recording](https://www.youtube.com/watch?v=RyTYhWnoki4)
+* [Meeting Notes](https://gist.github.com/triptych/5463939)
 
 ### April 18, 2013
 * [Video Recording](https://www.youtube.com/watch?v=UklloDVeCeU)
