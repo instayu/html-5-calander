@@ -14,7 +14,8 @@ Sprint 7 (Current)
 * **May 17, 2013:** Feature Complete.
 * **May 21, 2013:** Commit Freeze Pull Request Deadline.
 * **May 24, 2013:** Commit Freeze.
-* **May 28, 2013:** Stable Release.
+* **May 28-31, 2012:** CSSConf + JSConf 2013.
+* **June 4, 2013:** Stable Release.
 
 Sprint 6 (3.10.0)
 ------------------
