@@ -7,7 +7,16 @@ YUI Project Calendar links:
 * [iCAL](https://www.google.com/calendar/ical/fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com/public/basic.ics)
 
 <a id="next-release"></a>
-Sprint 6 (Current)
+Sprint 7 (Current)
+------------------
+* **April 30, 2013:** Sprint Begins.
+* **May 14, 2013:** Feature Complete Pull Request Deadline.
+* **May 17, 2013:** Feature Complete Code Freeze.
+* **May 21, 2013:** Stable Release Pull Request Deadline.
+* **May 24, 2013:** Stable Release Code Freeze.
+* **May 28, 2013:** Stable Release.
+
+Sprint 6 (3.10.0)
 ------------------
 * **March 18, 2013:** Sprint Begins.
 * **April 2, 2013:** Feature Complete Pull Request Deadline.
