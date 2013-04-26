@@ -69,9 +69,9 @@ All big ticket items should be merged in by Feature Complete. This is in order t
 
 The time between the `Feature Complete` milestone and the `Code Freeze` milestone is meant for late-breaking bug fixes of a smaller nature that come out of community feedback and testing. Documentation fixes and updates to tests are also welcome during this time.
 
-### Code Freeze
+### Commit Freeze
 
-No code changes of any kind are permitted after code freeze to the `dev-master` and `dev-3.x` branches without explicit discussion and approval. This is to prevent churn in our CI system that delays releases. Please make sure all bug fixes, test updates, documentation, and HISTORY.md updates happen before code freeze. Code will be unfrozen after the release and deployment is complete. In a normal cycle, we expect code freeze to last from EOD Friday to Tuesday, or about 3.5 days.
+No repo changes of any kind are permitted after commit freeze to the `dev-master` and `dev-3.x` development branches without explicit discussion and approval. This is to prevent churn in our CI system that delays releases. Please make sure all bug fixes, test updates, documentation, and HISTORY.md updates happen before commit freeze. Development branches will be unfrozen after the release and deployment is complete. In a normal cycle, we expect commit freeze to last from EOD Friday to Tuesday, or about 3.5 days.
 
 ### Preview Releases
 
