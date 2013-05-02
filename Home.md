@@ -10,16 +10,17 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 * [`3.CURRENT.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/138)
 * [`3.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/139)
 
-## Current Release: 3.9.1
+## Current Release: 3.10.0
 
-* [Release announcement](http://www.yuiblog.com/blog/2013/03/27/yui-3-9-1-released/)
-* [[YUI 3.9.1 Change History Rollup]]
-* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.9.1/build/yui/yui-min.js)
-* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.9.1.zip)
+* [Release announcement](http://www.yuiblog.com/blog/2013/04/24/yui-3-10-0-released/)
+* [[YUI 3.10.0 Change History Rollup]]
+* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.10.0/build/yui/yui-min.js)
+* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.10.0.zip)
 * [npm module](https://npmjs.org/package/yui)
 
 ## Past Releases
 
+* [[YUI 3.9.1 Change History Rollup]]
 * [[YUI 3.9.0 Change History Rollup]]
 * [[YUI 3.8.1 Change History Rollup]]
 * [[YUI 3.8.0 Change History Rollup]]
