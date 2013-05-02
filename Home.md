@@ -10,7 +10,9 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 * [`3.CURRENT.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/138)
 * [`3.NEXT` Tickets](http://yuilibrary.com/projects/yui3/report/139)
 
-## Current Release: 3.10.0
+## Current Release
+
+### 3.10.0
 
 * [Release announcement](http://www.yuiblog.com/blog/2013/04/24/yui-3-10-0-released/)
 * [[YUI 3.10.0 Change History Rollup]]
