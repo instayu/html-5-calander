@@ -30,6 +30,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 * [[YUI 3.7.0 Change History Rollup]]
 * [[YUI 3.6.0 Change History Rollup]]
 * [[YUI 3.5.1 Change History Rollup]]
+* [YUI 3.0.0 - 3.5.1 Change History](https://github.com/yui/yui3/blob/600d55ca4c7724bbbbb21cb8a6dca881216655ec/HISTORY.md)
 
 ## Future
 
