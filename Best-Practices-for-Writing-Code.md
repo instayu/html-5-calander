@@ -8,7 +8,7 @@ You should keep each commit as granular as possible. For instance, do not check 
 
 ## 4 Spaces, No Tabs
 
-The team has decreed there will be no tabs in our code. Please set your tabs to equal 4 spaces.
+The team has determined there will be no tabs in our code. Please set your tabs to equal 4 spaces.
 
 ## Avoid `Y.Node.setContent()` and `foo.innerHTML` unless absolutely necessary
 
