@@ -8,7 +8,3 @@ YUI 3.10.1 Change History Rollup
 ## Uploader
 
 * Filter input passed to ExternalInterface.call().
-
-## Throttle
-
-* Throttle no longer changes the value of `this` inside the throttled function.
