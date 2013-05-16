@@ -20,11 +20,8 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 
 ### May 9,2013
-* Discussion
-  * Proposed YUIConf 2013 dates - Andrew
-* [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
-* [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
-
+* [Video Recording](http://www.youtube.com/watch?v=C1SWArpIec4&feature=plcp)
+* [Meeting Notes](https://gist.github.com/derek/7fe7e123fc2400996d74)
 
 ### May 2, 2013
 * [Video Recording](https://www.youtube.com/watch?v=ozRumJm4QcI&feature=g-user-u)
