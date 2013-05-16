@@ -3,6 +3,10 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ## Upcoming
 * Demos
+  * Deprecations: Simple YUI, SWFs - Jenny
+  * DataTable - Manuel
+  * Skinning - Manuel
+  * Tooling - Manuel
   * (add an item here + your name)
 * Discussion
   * Proposed YUIConf 2013 dates - Andrew
@@ -14,6 +18,14 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 ## Archive
 
 ### YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
+
+
+### May 9,2013
+* Discussion
+  * Proposed YUIConf 2013 dates - Andrew
+* [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
+* [Unassigned Bugs Review](http://yuilibrary.com/projects/yui3/report/146)
+
 
 ### May 2, 2013
 * [Video Recording](https://www.youtube.com/watch?v=ozRumJm4QcI&feature=g-user-u)
