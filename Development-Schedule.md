@@ -10,10 +10,10 @@ YUI Project Calendar links:
 Sprint 7 (Current)
 ------------------
 * **April 30, 2013:** Sprint Begins.
-* **May 14, 2013:** Feature Complete Pull Request Deadline.
-* **May 17, 2013:** Feature Complete.
-* **May 21, 2013:** Commit Freeze Pull Request Deadline.
-* **May 24, 2013:** Commit Freeze.
+* **May 21, 2013:** Feature Complete Pull Request Deadline.
+* **May 24, 2013:** Feature Complete.
+* **May 28, 2013:** Commit Freeze Pull Request Deadline.
+* **May 31, 2013:** Commit Freeze.
 * **May 28-31, 2012:** CSSConf + JSConf 2013.
 * **June 4, 2013:** Stable Release.
 
