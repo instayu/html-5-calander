@@ -1,6 +1,6 @@
 Welcome to the YUI development wiki!
 
-YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API docs](http://yuilibrary.com/yui/docs/api/) are hosted on [yuilibrary.com](http://yuilibrary.com/), but this wiki is where we maintain living documents that are relevant to people who are interested in contributing code or feedback to YUI.
+YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API docs](http://yuilibrary.com/yui/docs/api/) are hosted on [yuilibrary.com](http://yuilibrary.com/), but this wiki is where we maintain living documents that are relevant to people who are interested in contributing code or feedback to YUI. Choose [Pages](https://github.com/yui/yui3/wiki/_pages) above to see all of the pages in this wiki.
 
 ## Active Development on YUI
 
