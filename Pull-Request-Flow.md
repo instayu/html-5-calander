@@ -28,7 +28,11 @@ If you don't yet have a [GitHub](https://github.com/) account, get one! You'll n
 
 ### 5. Fork YUI on GitHub
 
-Go to [YUI's GitHub page](https://github.com/yui/yui3) and click the "Fork" button to create your own personal GitHub fork of YUI. Follow GitHub's instructions to clone the fork to your local machine.
+Go to [YUI's GitHub page](https://github.com/yui/yui3) and click the "Fork" button to create your own personal GitHub fork of YUI. Follow GitHub's instructions to clone the fork to your local machine, then add an `upstream` remote to your local repo that points to YUI's official repo:
+
+```bash
+$ git remote add upstream git://github.com/yui/yui3.git
+```
 
 ### 6. Sign the YUI Contributor License Agreement (CLA)
 
