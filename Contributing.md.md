@@ -16,7 +16,7 @@ Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mo
   * Contribute modules to the [Gallery](http://yuilibrary.com/gallery/).
   * Contribute documentation, examples or code to the core library. (You will also need a GitHub account and signed CLA - see below).
 
-**Join GitHub**
+**Join GitHub.com**
 
 Create a free account on [GitHub](https://github.com/signup/free) so you can:
 
