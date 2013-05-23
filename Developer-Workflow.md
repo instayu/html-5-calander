@@ -42,7 +42,7 @@ each of these code branches represents:
 
 ## Do Good Stuff
 
-   1. Create a feature branch to house atomic code changes.
+   1. Create a feature branch to house atomic code changes. `git checkout -b myfeature upstream/master --no-track`
    1. Satisfy the contribution requirements (see [YUI Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards)).
    1. Push changes to your fork.
    1. Submit a pull request from your fork to the `live-docs`, `dev-master`, or `dev-3.x` branch  for review.
