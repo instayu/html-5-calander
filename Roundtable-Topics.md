@@ -16,6 +16,9 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
 
 ### YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
 
+### May 23, 2013
+* [Video Recording](http://www.youtube.com/watch?v=iMPh2RenXtg&feature=g-user-u)
+
 ### May 16, 2013
 * [Video Recording](http://www.youtube.com/watch?v=pocEg6a6ZpM)
 * Agenda
