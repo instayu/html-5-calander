@@ -41,9 +41,17 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Testing
 * [[Yeti and YUI]]
+* [[Selleck Example Tests]]
 
 ## Future
 
 * [[Performance]]
 * [[DataTable Roadmap]]
 * [[Attribute Wishlist]]
+
+## FYI
+
+* [[Deprecation Policy]]
+* [[Best Practices for Writing Code]]
+* [[Git Gotchas and Tips]]
+* [[YUI on the Server]]
