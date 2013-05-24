@@ -6,8 +6,6 @@ If you have topics you would like covered in an upcoming Roundtable, please add 
   * (add an item here + your name)
 * Discussion
   * (add an item here + your name)
-  * Intro Patrick Jameson - Andrew
-  * Contributing.md - Andrew
 * [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
 
