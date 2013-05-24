@@ -63,15 +63,15 @@ We reserve the right to one day fail builds on lint errors.
 
 Per our [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model), pull requests require a 72-hour window for feedback. Please submit your pull request with enough time for this window, if you are trying to meet one of the milestones described below.
 
-### Feature Complete
+### Code Freeze
 
-All big ticket items should be merged in by Feature Complete. This is in order to ensure enough time for testing and community feedback before release. Big ticket items include new features, new APIs, large code changes, deprecations, and upstream changes that may impact other code.
+All source code changes should be merged to the `dev-master` and `dev-3.x` development branches by Code Freeze, including new features, new APIs, deprecations, and bug fixes. This is in order to ensure enough time for thorough testing across all our target environments and community feedback before release. 
 
-The time between the `Feature Complete` milestone and the `Code Freeze` milestone is meant for late-breaking bug fixes of a smaller nature that come out of community feedback and testing. Documentation fixes and updates to tests are also welcome during this time.
+During the time between Code Freeze and Commit Freeze, only documentation and test updates are acceptable, as well as fixes to any bugs that are explicitly identified as release blockers.
 
 ### Commit Freeze
 
-No repo changes of any kind are permitted after commit freeze to the `dev-master` and `dev-3.x` development branches without explicit discussion and approval. This is to prevent churn in our CI system that delays releases. Please make sure all bug fixes, test updates, documentation, and HISTORY.md updates happen before commit freeze. Development branches will be unfrozen after the release and deployment is complete. In a normal cycle, we expect commit freeze to last from EOD Friday to Tuesday, or about 3.5 days.
+No repo changes of any kind are permitted after Commit Freeze to the `dev-master` and `dev-3.x` development branches without explicit discussion and approval. This is to prevent churn in our CI system that delays releases. Please make sure all code changes and test, documentation, and HISTORY.md updates happen before Commit Freeze. Development branches will be unfrozen after the release and deployment is complete. In a normal cycle, we expect Commit Freeze to last from EOD Friday to Tuesday, or about 3.5 days.
 
 ### Preview Releases
 
