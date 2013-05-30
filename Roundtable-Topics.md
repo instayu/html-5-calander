@@ -7,8 +7,9 @@ If you have topics you would like covered in an upcoming Roundtable, please edit
   * (Got something to show off?  Add an item here + your name)
 * Discussion / Q&A
   * (Got something on your mind?  Add an item here + your name)
-* [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
-* [Stale Pull Requests Review](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
+* Review
+  * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
+  * [Stale Pull Requests](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 
 
 
