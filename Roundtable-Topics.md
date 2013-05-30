@@ -4,7 +4,7 @@ If you have topics you would like covered in an upcoming Roundtable, please edit
 ## Upcoming
 * Demos
   * Pure
-  * (add an item here + your name)
+  * (Got something to show off?  Add an item here + your name)
 * Discussion / Q&A
   * (Got something on your mind?  Add an item here + your name)
 * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
