@@ -6,7 +6,8 @@ If you have topics you would like covered in the next Open Roundtable, please ed
   * [Pure](http://purecss.io/) - Tilo Mitra
   * (Got something to show off?  Add an item here + your name)
 * Discussion / Q&A
-  * 3.10.2
+  * Next week's 3.10.2 release
+  * "Why are there so many new failing tests popping up in the [issues list](https://github.com/yui/yui3/issues)?"
   * (Got something on your mind?  Add an item here + your name)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
