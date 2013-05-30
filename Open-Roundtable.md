@@ -1,5 +1,5 @@
 ## Upcoming
-If you have topics you would like covered in the next Roundtable, please edit this page to add a bullet point.
+If you have topics you would like covered in the next Open Roundtable, please edit this page to add a bullet point.
 * Demos
   * [Pure](http://purecss.io/) - Tilo Mitra
   * (Got something to show off?  Add an item here + your name)
