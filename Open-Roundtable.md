@@ -1,5 +1,7 @@
+Every Thursday at 2pm PT, the YUI Team joins the community in a Google Hangout that is broadcast via YouTube.  If you'd like to watch live, [@yuilibrary](http://twitter.com/yuilibrary) will tweet out the link just before the broadcast begins, and you'll also find a link on [our YouTube channel](http://www.youtube.com/user/yuilibrary).
+
 ## Upcoming
-If you have topics you would like covered in the next Open Roundtable, please edit this page to add a bullet point.
+If you have topics you would like covered in the next Open Roundtable, please edit this page to add a bullet point to the list of topics to discuss.
 * Demos
   * [Pure](http://purecss.io/) - Tilo Mitra
   * (Got something to show off?  Add an item here + your name)
