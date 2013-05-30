@@ -5,7 +5,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 ## Active Development on YUI
 
 * [[Development Schedule]] - Code freeze dates and important milestones.
-* [[Roundtable Topics]] - Every week we discuss topics online. Submit a topic here.
+* [[Open Roundtable]] - Every week the core team conducts a Hangout with the community. Submit any demos and/or topics for discussion here.
 * [[Ongoing Development Discussions]]
 * [Sprint 7 Tickets](https://github.com/yui/yui3/issues?direction=desc&labels=&milestone=6&page=1&sort=created&state=open)
 
