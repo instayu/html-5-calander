@@ -91,6 +91,12 @@ YUI 3.10.2 Change History Rollup
 [v1.0.11]: https://github.com/wycats/handlebars.js/blob/master/release-notes.md#v1011
 
 
+## JSON Change History
+
+* YUICompressor was unable to minify the json-parse code because it contained
+`eval`. It now inserts a placeholder EVAL_TOKEN which to allow minification,
+then uses a post-minify script to replace EVAL_TOKEN with `eval`.
+
 ## Node Change History
 
 
