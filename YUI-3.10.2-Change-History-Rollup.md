@@ -95,7 +95,7 @@ YUI 3.10.2 Change History Rollup
 
 * YUICompressor was unable to minify the json-parse code because it contained
 `eval`. It now inserts a placeholder EVAL_TOKEN which to allow minification,
-then uses a post-minify script to replace EVAL_TOKEN with `eval`.
+then uses a post-minify script to replace EVAL_TOKEN with `eval`. [lsmith]
 
 ## Node Change History
 
