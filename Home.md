@@ -16,16 +16,16 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Current Release
 
-### 3.10.1
+### 3.10.2
 
-* [Release announcement](http://www.yuiblog.com/blog/2013/05/14/yui-3-10-1-released-to-fix-swf-vulnerability/)
-* [[YUI 3.10.1 Change History Rollup]]
-* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.10.1/build/yui/yui-min.js)
-* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.10.1.zip)
+* [Release announcement](http://www.yuiblog.com/blog/2013/06/04/yui-3-10-2-released/)
+* [[YUI 3.10.2 Change History Rollup]]
+* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.10.2/build/yui/yui-min.js)
+* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.10.2.zip)
 * [npm module](https://npmjs.org/package/yui)
 
 ## Past Releases
-
+* [[YUI 3.10.1 Change History Rollup]]
 * [[YUI 3.10.0 Change History Rollup]]
 * [[YUI 3.9.1 Change History Rollup]]
 * [[YUI 3.9.0 Change History Rollup]]
