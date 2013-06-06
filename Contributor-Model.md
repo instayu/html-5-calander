@@ -51,7 +51,7 @@ Anyone can contribute to the project, regardless of their skills, as there are m
 
 Contributors should review YUI’s [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards) and get familiar with the project’s [Developer Workflow](https://github.com/yui/yui3/wiki/Developer-Workflow). See [Contribute to YUI](http://yuilibrary.com/contribute/) and [Contribute Code to YUI](http://yuilibrary.com/yui/docs/tutorials/contribute/) for detailed information.
 
-We expect our community to self-regulating in a friendly, cooperative, and collaborative manner. We are all here to learn from one another, and disrespectful conduct is unnecessary and unacceptable.
+We expect our community to be self-regulating in a friendly, cooperative, and collaborative manner. We are all here to learn from one another, and disrespectful conduct is unnecessary and unacceptable.
 
 ## 5. Decision making process
 Technical discussions are conducted on GitHub, the bug tracker, and the Contributor Mailing List. The Forum should mainly be used for technical support. Occasionally, sensitive discussions may occur on the private Reviewers' Mailing List.
@@ -73,7 +73,7 @@ Lazy consensus is a very important concept within the project. It is this proces
 
 For lazy consensus to be effective, it is necessary to allow at least 72 hours (excluding weekends and holidays) before assuming that there are no objections to the proposal. This requirement ensures that everyone is given enough time to read, digest, and respond to the proposal. This time period is chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments.
 
-If a Reviewer approves a proposal, then the 72 hour waiting period may be waived, at the Reviewer’s discretion.
+If a Reviewer approves a proposal, any Committer or Reviewer may choose to waive the 72 hour waiting period and merge the code in directly. 
 
 ### 5.2. Voting
 Not all technical decisions can be made using lazy consensus. Larger issues such as those that may affect the strategic direction of the project must gain explicit approval in the form of a vote. This section describes how a vote is conducted. Section 5.4 discusses when a vote is needed.
