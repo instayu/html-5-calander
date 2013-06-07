@@ -10,7 +10,7 @@ YUI Project Calendar links:
 Sprint 8 (Current)
 ------------------
 * **Jun 10, 2013:** Sprint Begins.
-* **June 27-30, 2012:** NodeConf 2013.
+* **Jun 27-30, 2012:** NodeConf 2013.
 * **Jun 30, 2013:** Code Freeze Pull Request Deadline.
 * **Jul 3, 2013:** Code Freeze.
 * **Jul 9, 2013:** Commit Freeze Pull Request Deadline.
