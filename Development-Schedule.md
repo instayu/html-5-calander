@@ -7,7 +7,17 @@ YUI Project Calendar links:
 * [iCAL](https://www.google.com/calendar/ical/fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com/public/basic.ics)
 
 <a id="next-release"></a>
-Sprint 7 (Current)
+Sprint 8 (Current)
+------------------
+* **Jun 10, 2013:** Sprint Begins.
+* **June 27-30, 2012:** NodeConf 2013.
+* **Jun 30, 2013:** Code Freeze Pull Request Deadline.
+* **Jul 3, 2013:** Code Freeze.
+* **Jul 9, 2013:** Commit Freeze Pull Request Deadline.
+* **Jul 12, 2013:** Commit Freeze.
+* **Jul 16, 2013:** Stable Release.
+
+Sprint 7 (3.10.2)
 ------------------
 * **April 30, 2013:** Sprint Begins.
 * **May 21, 2013:** Feature Complete Pull Request Deadline.
