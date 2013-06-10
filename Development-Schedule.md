@@ -11,10 +11,10 @@ Sprint 8 (Current)
 ------------------
 * **Jun 10, 2013:** Sprint Begins.
 * **Jun 27-30, 2012:** NodeConf 2013.
-* **Jun 30, 2013:** Code Freeze Pull Request Deadline.
-* **Jul 3, 2013:** Code Freeze.
-* **Jul 9, 2013:** Commit Freeze Pull Request Deadline.
-* **Jul 12, 2013:** Commit Freeze.
+* **Jun 30, 2013:** [Code Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#code-freeze) Pull Request Deadline.
+* **Jul 3, 2013:** [Code Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#code-freeze).
+* **Jul 9, 2013:** [Commit Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#commit-freeze) Pull Request Deadline.
+* **Jul 12, 2013:** [Commit Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#commit-freeze).
 * **Jul 16, 2013:** Stable Release.
 
 Sprint 7 (3.10.2)
