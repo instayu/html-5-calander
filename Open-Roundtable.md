@@ -3,9 +3,9 @@ Every Thursday at 2pm PT, the YUI Team joins the community in a Google Hangout t
 ## Upcoming
 If you have topics you would like covered in the next Open Roundtable, please edit this page to add a bullet point to the list of topics to discuss.
 * Demos
-  * (Got something to show off?  Add an item here + your name)
+  * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * (Got something on your mind?  Add an item here + your name)
+  * (Got something on your mind?  Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
   * [Stale Pull Requests](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
