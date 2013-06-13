@@ -19,6 +19,9 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * [Video Recording](http://www.youtube.com/watch?v=JtY-qHQ0Q9g)
 * [Meeting Notes](https://gist.github.com/derek/5777819)
 
+### June 6, 2013
+* Skipped due to technical difficulties
+
 ### May 30, 2013
 * [Video Recording](http://www.youtube.com/watch?v=M0yATfPmhWA)
 * [Meeting Notes](https://gist.github.com/triptych/5687693)
