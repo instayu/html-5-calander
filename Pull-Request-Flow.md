@@ -102,6 +102,8 @@ If this is the first entry for this new version, and it's not already there, inc
 ```
 @VERSION@
 ------
+
+* [your info here]
 ```
 
 This token will be replaced by the correct version at release time.
