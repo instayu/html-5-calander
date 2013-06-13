@@ -97,7 +97,7 @@ In the source directory of every YUI module there's a file named `HISTORY.md`. T
 
 If you made changes to one or more modules, please update those modules' `HISTORY.md` files and describe the changes you made. This step is optional, but it'll make the reviewer's job easier and we'll love you for it.
 
-If this is the first entry for this new version, and it's not already there, include a line like this:
+If this is the first entry for this new version, and it's not already there, include an entry like this:
 
 ```
 @VERSION@
