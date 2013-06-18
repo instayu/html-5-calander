@@ -1,5 +1,6 @@
-ArraySort Change History
-========================
+
+## ArraySort Change History
+
 
 
 
@@ -8,8 +9,8 @@ ArraySort Change History
   'foo2' is sorted before 'foo10', whereas a standard ASCII sort would sort
   'foo10' first. [Ryan Grove]
 
-AsyncQueue Change History
-=========================
+## AsyncQueue Change History
+
 
 
 
@@ -22,40 +23,39 @@ AsyncQueue Change History
 * Fixed a bug in which the 'complete' event would not be fired if stop was
   called from inside a callback.
 
-Attribute Change History
-========================
+## Attribute Change History
+
 
 
 
 * Fixed regression introduced with the solution for setter opts, added in
   3.10.2, for cases where user subscribed to attribute change events, with
-  additional arguments to be passed to the subscriber, for example: 
+  additional arguments to be passed to the subscriber, for example:
 
     host.after("myattrChange", fn(e, custArg){}, context, custArgValue);
     ...
     host.set("myattr", 10, {src:"foo"});
 
-* For performance reasons, attribute now bypasses the event subsystem, if 
+* For performance reasons, attribute now bypasses the event subsystem, if
   there are no listeners, and sets the attribute value directly (still going
   through all the attribute infrastructure - setter, validator etc.).
 
-AutoComplete Change History
-===========================
+## AutoComplete Change History
+
 
 
 
 * Added Hungarian language support
 
-Base Change History
-===================
+## Base Change History
 
 
 
 * BaseObservable now bypasses the event sub-system if there are no listeners for
   the `init` event, during construction, to optimize performance.
 
-Calendar Change History
-=======================
+## Calendar Change History
+
 
 
 
@@ -64,22 +64,22 @@ Calendar Change History
 
 * Added Hungarian language support [Gábor Kovács]
 
-Color Change History
-====================
+## Color Change History
+
 
 
 
 * `toArray()` always returns alpha values [Pull Request #548] [Ticket #2533111]
 
-Console Change History
-======================
+## Console Change History
+
 
 
 
 * Added Hungarian language support [Gábor Kovács]
 
-DataTable Change History
-========================
+## DataTable Change History
+
 
 
 * Release Paginator for DataTable. DataTable's Paginator consists of a few
@@ -107,35 +107,35 @@ DataTable Change History
 
 * Added Hungarian language support [Gábor Kovács]
 
-Date Change History
-===================
+## Date Change History
+
 
 
 
 * Added Hungarian language support [Gábor Kovács]
 
-Rich Text Editor Change History
-===============================
+## Rich Text Editor Change History
+
 
 
 
 * Fix exception when sel.anchorNode doesn't exist. [rgrove]
 
-Custom Event Infrastructure Change History
-==========================================
+## Custom Event Infrastructure Change History
+
 
 
 
 * Fixed issue with fireOnce subscribers not receiving the facade,
   if subscription came in after the fire, and the initial fire had
-  no listeners (the bug was introduced in 3.10.0, with the no listener 
+  no listeners (the bug was introduced in 3.10.0, with the no listener
   perf. optimizations).
 
-  The subscribers in the broken code would have received the raw payload 
+  The subscribers in the broken code would have received the raw payload
   instead (e.g. {opts:foo}).
 
-Handlebars Change History
-=========================
+## Handlebars Change History
+
 
 
 
@@ -143,22 +143,22 @@ Handlebars Change History
 
 [v1.0.12]: https://github.com/wycats/handlebars.js/blob/master/release-notes.md#v1012--100---may-31-2013
 
-IO Utility Change History
-=========================
+## IO Utility Change History
+
 
 
 
 * Restore form attributes after successful upload in io-upload-iframe. [Ticket #2533186] [ipeychev]
 
-JSONP Change History
-====================
+## JSONP Change History
+
 
 
 
 * Preserve base jsonp _format if {callback} found. Fixes #700 [lsmith]
 
-ScrollInfo Node Plugin Change History
-=====================================
+## ScrollInfo Node Plugin Change History
+
 
 
 
@@ -172,24 +172,22 @@ ScrollInfo Node Plugin Change History
   return incorrect information when used on a scrollable node rather than the
   body. [Ryan Grove]
 
-Paginator Change History
-====================
+## Paginator Change History
 
-@VERSION@
------
+
 
 * Initial release.
 
-Promise Change History
-======================
+## Promise Change History
+
 
 
 
 * Changed the value of `this` inside callbacks to `undefined` to match the
   Promises A+ spec.
 
-Tree Change History
-===================
+## Tree Change History
+
 
 
 
