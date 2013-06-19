@@ -49,7 +49,7 @@ Many Mac OS X and Linux systems already have git installed. If your system doesn
 
 ### 3. Install yogi
 
-[Yogi](http://yui.github.io/yogi/) is YUI's command line helper tool, which you'll use to build and test YUI changes.
+[Yogi](http://yui.github.io/yogi/) is YUI's command line helper tool, which you'll use to build and test YUI changes. (You may also need to install [phantomjs](http://phantomjs.org/).)
 
 To install Yogi using npm (which comes with Node.js), run:
 
