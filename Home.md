@@ -13,6 +13,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 * [Contributing to YUI](https://github.com/yui/yui3/wiki/Contributing.md)
 * [Contributor Mailing List](https://groups.google.com/forum/?fromgroups=#!forum/yui-contrib)
 * [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model)
+* [Developer Workflow](https://github.com/yui/yui3/wiki/Developer-Workflow)
 
 ## Current Release
 
