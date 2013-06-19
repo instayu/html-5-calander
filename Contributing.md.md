@@ -46,10 +46,10 @@ Join the [mailing list](https://groups.google.com/forum/?fromgroups=#!forum/yui-
    * Push those changes back to your "origin" (back up to github).
 
 **Build YUI**
-   * See [Building YUI](https://github.com/yui/yui3/wiki/Building-YUI).
+   * See [Building YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#building-yui).
 
 **Pull Request** 
-   * See [Pull Request Flow](https://github.com/yui/yui3/wiki/Pull-Request-Flow).
+   * See [Making a change to YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#making-a-change-to-yui).
    * Issue a pull request from your special branch via github to the yui/yui3 repo.
    * Make sure your pull request is against `dev-3.x` or `dev-master` **not** `3.x` or `master`.
    * `dev-master` is for small changes or bugfixes. `dev-3.x` is for bigger features or updates. (For more details see [Developer Workflow - Branch Information](https://github.com/yui/yui3/wiki/Developer-Workflow) )
