@@ -52,7 +52,7 @@ Join the [mailing list](https://groups.google.com/forum/?fromgroups=#!forum/yui-
    * See [Making a change to YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#making-a-change-to-yui).
    * Issue a pull request from your special branch via github to the yui/yui3 repo.
    * Make sure your pull request is against `dev-3.x` or `dev-master` **not** `3.x` or `master`.
-   * `dev-master` is for small changes or bugfixes. `dev-3.x` is for bigger features or updates. (For more details see [Developer Workflow - Branch Information](https://github.com/yui/yui3/wiki/Developer-Workflow) )
+   * `dev-master` is for small changes or bugfixes. `dev-3.x` is for bigger features or updates. (For more details see [Developer Workflow - Branch Information](https://github.com/yui/yui3/wiki/Developer-Workflow#branch-information) )
    * Be sure your pull request meets the [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards).
 
 **Other Resources**
