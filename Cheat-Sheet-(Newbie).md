@@ -30,7 +30,7 @@ YUI().use("io", "overlay", function (Y) {
    Y.io({ ... });
    ...
    Y.use("autocomplete", function () {
-       var ac = new Y.AutoComplete({ … });
+       var ac = new Y.AutoComplete({ ... });
    });
    ...
 });
