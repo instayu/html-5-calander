@@ -1,13 +1,43 @@
 # YUI Cheat Sheet [WIP]
 
-## Put YUI on a page
+## Getting Started
 
+### Initial Setup
 ```
-<script src="http://yui.yahooapis.com/3.9.1/build/yui/yui-min.js"></script>
-YUI().use("overlay", function(Y) {
-    var overlay = new Y.Overlay();
-    ...
+// Load the YUI seed script
+<script src="http://yui.yahooapis.com/3.10.3/build/yui/yui-min.js"></script>
+
+//Create Y object to host YUI APIs
+<script>
+YUI().use(modules, function(Y) {
+   ...
 });
+</script>
+```
+
+### Load modules
+```
+YUI().use("io", "overlay", function (Y) {
+   Y.io({ ... });
+   var overlay = new Y.Overlay();
+   ...
+});
+```
+
+### Load more modules
+```
+YUI().use("io", "overlay", function (Y) {
+   Y.io({ ... });
+   ...
+   Y.use("autocomplete", function () {
+       var ac = new Y.AutoComplete({ … });
+   });
+   ...
+});
+
+### Enable debug mode
+```
+YUI({ filter:"debug", combine: false }).use(...);
 ```
 
 ## DOM Nodes: Basics
@@ -15,26 +45,33 @@ YUI().use("overlay", function(Y) {
 ```
 YUI().use("node", function(Y) {
     // Select
-    var body = Y.Node.one("body");
-    var items = Y.Node.all("#friends li");
+    var byElementName = Y.Node.one("body");
+    var byID = Y.Node.one("#container");
+    var items = Y.Node.all("#friends li.selectable");
 
     // Create
-    var div = Y.Node.create("<div>");
+    var button = Y.Node.create("<button>OK</button>");
+    button.appendChild(button);
+    button.append("<button>Cancel</button>");
 
     // Change
-    body.appendChild(div);
+    body.appendChild(button);
 });
 
 // Properties
-div.set("id", "foo");   // div.id = "foo";
-div.get("offsetWidth"); // div.offsetWidth;
+button.set("id", "foo");   // button.id = "foo";
+button.get("offsetWidth"); // button.offsetWidth;
 
 // Methods
-div.appendChild(someOtherNode);
+button.focus();
+button.removeChild(someOtherNode);
+button.remove();
 
 // Styles
-div.setStyle("backgroundColor", "#f00");
-div.setStyles({...});
+button.setStyle("backgroundColor", "#f00");
+button.setStyles({...});
+button.addClass("default");
+button.removeClass(“hidden”);
 
 // Classes
 div.addClass("foo");
