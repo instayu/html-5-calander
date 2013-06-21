@@ -230,9 +230,9 @@ Forms can also be used with grids
 
 ```
 <a class="pure-button pure-button-selected">Selected</a>​
-<div class=”pure-menu pure-menu-open pure-menu-horizontal”>
+<div class="pure-menu pure-menu-open pure-menu-horizontal">
     <ul>
-
+    ...
     </ul>
 </div>
 
