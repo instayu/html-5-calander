@@ -3,20 +3,20 @@
 ## Getting Started
 
 ### Initial Setup
-```
+```html
 // Load the YUI seed script
 <script src="http://yui.yahooapis.com/3.10.3/build/yui/yui-min.js"></script>
 
 //Create Y object to host YUI APIs
 <script>
-YUI().use(modules, function(Y) {
+YUI().use(modules, function (Y) {
    ...
 });
 </script>
 ```
 
 ### Load modules
-```
+```js
 YUI().use("io", "overlay", function (Y) {
    Y.io({ ... });
    var overlay = new Y.Overlay();
@@ -25,7 +25,7 @@ YUI().use("io", "overlay", function (Y) {
 ```
 
 ### Load more modules
-```
+```js
 YUI().use("io", "overlay", function (Y) {
    Y.io({ ... });
    ...
@@ -38,13 +38,13 @@ YUI().use("io", "overlay", function (Y) {
 
 ### Enable debug mode
 
-```
+```js
 YUI({ filter:"debug", combine: false }).use(...);
 ```
 
 ## DOM Nodes: Basics
 
-```
+```js
 YUI().use("node", function(Y) {
     // Select
     var byElementName = Y.Node.one("body");
@@ -80,7 +80,7 @@ div.addClass("foo");
 div.toggleClass("foo");
 div.removeClass("foo");
 
-DOM Nodes: Value Adds
+// DOM Nodes: Value Adds
 div.setXY([100, 200]);
 div.getXY();
 div.get("region"); // {top, bottom, left, right, width, height}
@@ -105,10 +105,10 @@ div.align.to(otherNode, "tl", "tr");
 
 ## DOM Events
 
-```
+```js
 /* use "node", "event" */
 
-div.on("click", function(e) {
+div.on("click", function (e) {
   var target = e.target;
 
   if (e.pageX > 500) {
@@ -116,9 +116,9 @@ div.on("click", function(e) {
   }
 });
 
-div.once("click", function(e){...});
+div.once("click", function (e) {...});
 
-div.delegate("click", function(e) {
+div.delegate("click", function (e) {
 
   var target = e.target,               // Target
       container = e.container,         // Delegate container: 'div'
@@ -127,33 +127,33 @@ div.delegate("click", function(e) {
 }, ".contact");
 
 // Don't need any target/ancestor filtering
-div.on("mouseenter", function(e){...});
-div.on("mouseleave", function(e){...});
-div.on("clickoutside", function(e){...});
+div.on("mouseenter", function (e) {...});
+div.on("mouseleave", function (e) {...});
+div.on("clickoutside", function (e) {...});
 
 // Gestures - Abstraction across touch/mouse/ms-pointer events.
-div.on("flick", function(e){...}, {minVelocity: ..., minDistance: ...});
-div.on("tap", function(e){...});
+div.on("flick", function (e) {...}, {minVelocity: ..., minDistance: ...});
+div.on("tap", function (e) {...});
 
-div.on("gesturemovestart", function(e){...});
-   div.on("gesturemove", function(e){...});
-   div.on("gesturemoveend", function(e){...});
+div.on("gesturemovestart", function (e) {...});
+   div.on("gesturemove", function (e) {...});
+   div.on("gesturemoveend", function (e) {...});
 
 // Input
-input.on("valuechange", function(e){...});
-input.on("key", function(e){...}, "enter");
+input.on("valuechange", function (e) {...});
+input.on("key", function (e) {...}, "enter");
 ```
 
 ## Getting Data
 
 ### Getting Data: YQL
 
-```
+```js
 /* use "yql" */
 
 // Works everywhere, including nodejs and inside win8 apps
 
-Y.YQL("select * from weather.forecast where location=90210", function(o) {
+Y.YQL("select * from weather.forecast where location=90210", function (o) {
 
   // Use the YQL console, to figure out where to look in 'o'
   myDiv.setHTML(o.query.results.channel.item.description);
@@ -163,11 +163,11 @@ Y.YQL("select * from weather.forecast where location=90210", function(o) {
 
 ###Getting Data: JSONP
 
-```
+```js
 /* use "jsonp" */
 
 // Use only with trusted data
-Y.jsonp("https://api.github.com/users/yui?callback={callback}", function(o) {
+Y.jsonp("https://api.github.com/users/yui?callback={callback}", function (o) {
 
    // Use the service docs to figure out where to look
    myDiv.setHTML(o.data);
@@ -177,7 +177,7 @@ Y.jsonp("https://api.github.com/users/yui?callback={callback}", function(o) {
 
 ### Getting Data: IO
 
-```
+```js
 /* use "io" */
 
 Y.io("http://samedomain/service?foo=bar", {
@@ -185,9 +185,9 @@ Y.io("http://samedomain/service?foo=bar", {
       'Content-Type': 'application/json'
    },
    on : {
-      start : function() {...},
-      failure : function() {...},
-      success : function(o) {
+      start : function () {...},
+      failure : function () {...},
+      success : function (o) {
          myDiv.setHTML(o.responseText); // or o.responseXML;
       }
    }
@@ -196,7 +196,7 @@ Y.io("http://samedomain/service?foo=bar", {
 
 ### Getting Data: Parsing Raw Strings
 
-```
+```js
 /* use "json" */
 
 var arr = Y.JSON.parse("[{name:'Abc', rank:1}, ...]");
@@ -211,13 +211,13 @@ var xmlDoc = Y.XML.parse(
 
 Pull in all the styles to make your page look pretty. This includes Base, Grids, Buttons, Forms, Menus, and Tables.
 
-```
+```html
 <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.0.2/pure-min.css">
 ```
 
 Form Styling: 
 
-```
+```html
 <form class="pure-form">...</form>
 ```
 
@@ -230,7 +230,7 @@ Other Classes:
 
 Forms can also be used with grids
 
-```
+```html
 <a class="pure-button pure-button-selected">Selected</a>​
 <div class="pure-menu pure-menu-open pure-menu-horizontal">
     <ul>
@@ -251,7 +251,7 @@ Forms can also be used with grids
 
 ### JS Effects: Transition
 
-```
+```js
 /* use "transition" */
 
 mydiv.transition({
@@ -266,7 +266,7 @@ mydiv.transition({
 
 ### JS Effects: Anim
 
-```
+```js
 /* use "anim" */
 
 new Y.Anim({
@@ -280,7 +280,7 @@ new Y.Anim({
 
 ### JS Effects: Graphics
 
-```
+```js
 /* use "graphics" */
 
 var mygraphic = new Y.Graphic({render:"#mygraphiccontainer"}),
@@ -305,7 +305,7 @@ var mygraphic = new Y.Graphic({render:"#mygraphiccontainer"}),
 
 ### Apps: Single Page Apps
 
-```
+```js
 /* use "app", "handlebars" */
 
 var app = new Y.App({
@@ -333,7 +333,7 @@ var app = new Y.App({
 ### Apps: Views
 
 Handlebars Template
-```
+```html
 <script id="user-template" type="text/x-handlebars-template">
     <h1>User Form</h1>
     <form>
@@ -344,7 +344,7 @@ Handlebars Template
 ```
 
 View Instance
-```
+```js
 var UserView = Y.Base.create("user", Y.View, [], {
 
       template: Y.Handlebars.compile(Y.one('#user-template').getHTML()),
@@ -360,7 +360,7 @@ var UserView = Y.Base.create("user", Y.View, [], {
 
 ### Apps: App Flow
 
-```
+```js
 // add route (for history, back-button)
 app.route("/users", navigateToUsers);
 
@@ -374,7 +374,7 @@ app.showView("users");
 
 ## Widgets
 
-```
+```js
 /* use "slider" */
 
 var slider = new Y.Slider({
@@ -384,7 +384,7 @@ var slider = new Y.Slider({
   render: true
 });
 
-slider.after("valueChange", function(e) {
+slider.after("valueChange", function (e) {
   if (e.prevVal > 0 && e.newVal <= 0) {
      // Moved backwards across the 0 value
   }
