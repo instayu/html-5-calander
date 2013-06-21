@@ -39,7 +39,7 @@ YUI().use("io", "overlay", function (Y) {
 ### Enable debug mode
 
 ```js
-YUI({ filter:"debug", combine: false }).use(...);
+YUI({ filter:"debug", combine: false, logInclude: {event: false, attribute:true} }).use(...);
 ```
 
 ## DOM Nodes: Basics
