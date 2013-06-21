@@ -34,8 +34,10 @@ YUI().use("io", "overlay", function (Y) {
    });
    ...
 });
+```
 
 ### Enable debug mode
+
 ```
 YUI({ filter:"debug", combine: false }).use(...);
 ```
