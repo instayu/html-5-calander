@@ -249,6 +249,21 @@ Forms can also be used with grids
 
 ## JS Effects
 
+### JS Effects: Show/Hide
+
+```js
+/* use "transition" */
+
+mydiv.show(true);
+mydiv.hide(true);
+
+mydiv.show(true, {duration: 1}, callback);
+mydiv.hide(true, {duration: 1}, callback);
+
+mydiv.show('fadeIn', {easing: 'ease-in'}, callback);
+mydiv.hide('fadeOut', {duration: 'ease-out'}, callback);
+```
+
 ### JS Effects: Transition
 
 ```js
