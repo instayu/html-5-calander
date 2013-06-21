@@ -184,10 +184,10 @@ Y.io("http://samedomain/service?foo=bar", {
    headers: {
       'Content-Type': 'application/json'
    },
-   on : {
-      start : function () {...},
-      failure : function () {...},
-      success : function (o) {
+   on: {
+      start: function () {...},
+      failure: function () {...},
+      success: function (o) {
          myDiv.setHTML(o.responseText); // or o.responseXML;
       }
    }
@@ -259,7 +259,7 @@ mydiv.transition({
     duration: 0.75, // seconds
     width: '10px',
     height: '10px'
-}, function() {     // callback
+}, function () {     // callback
     this.remove();
 });
 ```
@@ -283,7 +283,7 @@ new Y.Anim({
 ```js
 /* use "graphics" */
 
-var mygraphic = new Y.Graphic({render:"#mygraphiccontainer"}),
+var mygraphic = new Y.Graphic({ render:"#mygraphiccontainer" }),
 
     myrect = mygraphic.addShape({
         type: "rect",
@@ -311,13 +311,13 @@ var mygraphic = new Y.Graphic({render:"#mygraphiccontainer"}),
 var app = new Y.App({
 
    views: {
-      home : {
+      home: {
          type: HomeView
       },
       users: {
          type: UsersView
       },
-      user : {
+      user: {
          type: UserView,
             parent: 'users'
          }
@@ -333,12 +333,12 @@ var app = new Y.App({
 ### Apps: Views
 
 Handlebars Template
-```html
+```xml
 <script id="user-template" type="text/x-handlebars-template">
     <h1>User Form</h1>
     <form>
-        <label>First Name: <input ... value="{{firstname}}"></label>
-        <label>Last Name: <input ... value="{{lastname}}"></label>
+        <label>First Name: <input value="{{firstname}}"></label>
+        <label>Last Name:  <input value="{{lastname}}"></label>
     </form>
 </script>
 ```
@@ -369,7 +369,6 @@ app.navigate("/users");
 
 // show view without updating history
 app.showView("users");
-...
 ```
 
 ## Widgets
