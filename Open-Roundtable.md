@@ -16,6 +16,10 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
 
+### June 27, 2013
+* [Video Recording](http://www.youtube.com/watch?v=cfTQclbxSxo)
+* [Meeting Notes](https://gist.github.com/derek/5886972)
+
 ### June 20, 2013
 * [Video Recording](https://www.youtube.com/watch?v=0e7s9LPy9Zg)
 * [Meeting Notes](https://gist.github.com/triptych/5827345)
