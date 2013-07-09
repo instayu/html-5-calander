@@ -1,17 +1,12 @@
 ## ArraySort Change History
 
-
-
-
 * Added `Y.ArraySort.naturalCompare()`, which compares two strings or numbers
   (or a number and a string) in natural order. This ensures that a value like
   'foo2' is sorted before 'foo10', whereas a standard ASCII sort would sort
   'foo10' first. [Ryan Grove]
 
+
 ## AsyncQueue Change History
-
-
-
 
 * Fixed an issue that triggered an extra execution of a callback.
   [Ticket #2528602] [Ticket #2531758] [Ticket #2531844]
@@ -23,9 +18,6 @@
   called from inside a callback.
 
 ## Attribute Change History
-
-
-
 
 * Fixed regression introduced with the solution for setter opts, added in
   3.10.2, for cases where user subscribed to attribute change events, with
@@ -40,9 +32,6 @@
   through all the attribute infrastructure - setter, validator etc.).
 
 ## AutoComplete Change History
-
-
-
 
 * Added Hungarian language support
 
