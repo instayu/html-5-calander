@@ -69,8 +69,10 @@
 
 ## Calendar Change History
 
-
-
+* Cleaned up lang (see PR #878) [Jeroen Versteeg]:
+  * removed unused lang/calendar (only lang/calendar-base is used)
+  * removed unused short_weekdays strings from lang/calendar-base
+  * replaced weekdays strings from lang/calendar-base with datatype/date-format
 
 * Setting `minimumDate` or `maximumDate` now correctly disables nodes before or
   after those dates. [Arnaud Didry]
@@ -79,21 +81,13 @@
 
 ## Color Change History
 
-
-
-
 * `toArray()` always returns alpha values [Pull Request #548] [Ticket #2533111]
 
 ## Console Change History
 
-
-
-
 * Added Hungarian language support [Gábor Kovács]
 
 ## DataTable Change History
-
-
 
 * Release Paginator for DataTable. DataTable's Paginator consists of a few
   files and components each with a single purpose in mind.
@@ -122,22 +116,22 @@
 
 ## Date Change History
 
-
-
-
 * Added Hungarian language support [Gábor Kovács]
 
+## DOM Change History
+
+* Fixed: `Y.Selector` could return an incorrect number of elements in browsers
+  that don't support support `getElementsByTagName()` or `querySelectorAll()` on
+  document fragments. [Ezequiel Rodriguez]
+
+* Fixed: In Opera, `Y.Selector` failed to include selected `<option>` elements
+  when the `:checked` pseudo-selector was used. [Jeroen Versteeg]
+
 ## Rich Text Editor Change History
-
-
-
 
 * Fix exception when sel.anchorNode doesn't exist. [rgrove]
 
 ## Custom Event Infrastructure Change History
-
-
-
 
 * Fixed issue with fireOnce subscribers not receiving the facade,
   if subscription came in after the fire, and the initial fire had
@@ -147,10 +141,12 @@
   The subscribers in the broken code would have received the raw payload
   instead (e.g. {opts:foo}).
 
+## ValueChange Change History
+
+* Added support for `stopPropagation()` and `stopImmediatePropagation()` on the
+  `valuechange` event facade. [Wei Wang]
+
 ## Handlebars Change History
-
-
-
 
 * Upgraded Handlebars.js to v1.0.12. See [Handlebars' release notes][v1.0.12].
 
@@ -158,22 +154,19 @@
 
 ## IO Utility Change History
 
-
-
-
 * Restore form attributes after successful upload in io-upload-iframe. [Ticket #2533186] [ipeychev]
+* Upgraded `request` module dependency for `io-nodejs` for compatibility with
+  Node.js v0.10. [Pull Request #940]
 
 ## JSONP Change History
 
-
-
-
 * Preserve base jsonp _format if {callback} found. Fixes #700 [lsmith]
 
+## Node Change History
+
+* Added: `Node#getHTML()` now works when used against document fragments. [Ezequiel Rodriguez]
+
 ## ScrollInfo Node Plugin Change History
-
-
-
 
 * Added an `isNodeOnscreen()` method that returns `true` if the given node is
   within the visible bounds of the viewport, `false` otherwise. [Ryan Grove]
@@ -187,28 +180,41 @@
 
 ## Paginator Change History
 
-
-
 * Initial release.
 
+## Plugin Change History
+ 
+* Added `onceHostEvent` and `onceAfterHostEvent` methods.
+
 ## Promise Change History
-
-
-
 
 * Changed the value of `this` inside callbacks to `undefined` to match the
   Promises A+ spec.
 
 ## Tree Change History
 
-
-
-
 * Added `Tree.Node#depth()`, which returns the depth of the node, starting at 0
   for the root node. [Ryan Grove]
 
 * Added `Tree.Sortable#sort()`, which sorts the children of every node in a
   sortable tree. [Ryan Grove]
+
+* `Tree#emptyNode()` now removes nodes without triggering a node map reindex for
+  each node, which makes it significantly faster when emptying a node with lots
+  of children. [Ryan Grove]
+
+* When inserting a node that already exists in the same parent (which results in
+  that node being removed and then re-inserted), `Tree#insertNode()` now
+  adjusts the insertion index to ensure that the node is re-inserted at the
+  correct position after being removed, even if that position has shifted as a
+  result of the removal. [Ryan Grove]
+
+* The `remove` event is now fired when a node is removed and re-inserted as the
+  result of a `Tree#appendNode()`, `Tree#insertNode()`, or `Tree#prependNode()`
+  call. Previously, the node was removed silently with no event.
+
+  The `src` property of the `remove` event facade in this case will be set to
+  "add". Filter on this source if you want to ignore these events. [Ryan Grove]
 
 * The `Tree#createNode()`, `Tree#insertNode()`, and `Tree#traverseNode()`
   methods now throw or log informative error messages when given a destroyed
@@ -227,3 +233,97 @@
   the tree instance. When it lives on a node, its `this` object will be the
   node. When specified as an anonymous function in an options object, its `this`
   object will be the global object. [Ryan Grove]
+
+## Widget Change History
+
+* The Widget HTML_PARSER implementation has been updated to use the new 
+  _preAddAttrs() hook in Base, since Base now adds all attributes across
+  the hierarchy in one shot. Widget HTML_PARSER requires contentBox/srcNode,
+  and related attributes to be set up first.
+
+  This is purely an internal implementation change at the base Widget layer,
+  and there is no impact to existing implementations. 
+
+## Widget Buttons Change History
+
+* Moved implementation code from the Constructor to the `initializer`
+  to account for Base order of operation changes in this release.
+
+  This is one of the older extensions which needed to be upgraded
+  after `initializer` support was added for extensions.
+
+  This has no end user impact.
+
+## Widget Position Change History
+
+* Moved implementation code from the Constructor to the `initializer`
+  to account for Base order of operation changes in this release.
+
+  This is one of the older extensions which needed to be upgraded
+  after `initializer` support was added for extensions.
+
+  This has no end user impact.
+
+## Widget Position Align Change History
+
+* Moved implementation code from the Constructor to the `initializer`
+  to account for Base order of operation changes in this release.
+
+  This is one of the older extensions which needed to be upgraded
+  after `initializer` support was added for extensions.
+
+  This has no end user impact.
+
+## Widget Position Constrain Change History
+
+* Moved implementation code from the Constructor to the `initializer`
+  to account for Base order of operation changes in this release.
+
+  This is one of the older extensions which needed to be upgraded
+  after `initializer` support was added for extensions.
+
+  This has no end user impact.
+
+## Widget Stack Change History
+
+* Moved implementation code from the Constructor to the `initializer`
+  to account for Base order of operation changes in this release.
+
+  This is one of the older extensions which needed to be upgraded
+  after `initializer` support was added for extensions.
+
+  This has no end user impact.
+
+## Widget Std Mod Change History
+
+* Fixed: `fillHeight` didn't work correctly when a section's content was set
+  after rendering. [Jeroen Versteeg]
+
+* Moved implementation code from the Constructor to the `initializer`
+  to account for Base order of operation changes in this release.
+
+  This is one of the older extensions which needed to be upgraded
+  after `initializer` support was added for extensions.
+
+  This has no end user impact.
+
+## YUI Core Change History
+
+* `Y.Array.dedupe()` is now slightly faster in ES5-compliant browsers.
+  [Ezequiel Rodriguez]
+
+* Brought `Y.Lang.trim()`, `trimLeft()`, and `trimRight()` into compliance with
+  ES5, and added feature tests to ensure that native implementations are only
+  used if they work properly. [Ezequiel Rodriguez]
+
+* `Y.Object.keys()` now falls back to the non-native shim for Android 2.3.x
+  because the native version incorrectly enumerates the `prototype` property.
+
+* `Y.UA` now correctly identifies IE 11. [Ryan Grove]
+
+* `Y.UA` now identifies Opera 15+ as both Opera and WebKit. Previously it was
+  identified as Chrome, since it uses the same Blink rendering engine as
+  Chrome. [Ryan Grove]
+
+* Removed all instances of `path.existsSync()` from YUI core, as part of
+  node.js target environments being brought up to v0.8. [Clarence Leung]
