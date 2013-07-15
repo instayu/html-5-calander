@@ -191,6 +191,11 @@
 * Changed the value of `this` inside callbacks to `undefined` to match the
   Promises A+ spec.
 
+## YUI Test Change History
+
+* Modified YUITest.hasNoKeys() to bypass Android 2.3.x prototype
+  enumeration bug. (GH #949)
+
 ## Tree Change History
 
 * Added `Tree.Node#depth()`, which returns the depth of the node, starting at 0
