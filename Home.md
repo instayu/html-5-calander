@@ -19,7 +19,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Current Release
 
-### 3.11.
+### 3.11.0
 
 * [Release announcement (pending)](#)
 * [[YUI 3.11.0 Change History Rollup]]
