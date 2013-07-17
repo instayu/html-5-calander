@@ -79,6 +79,10 @@ If this is your first time contributing to YUI, you'll need to [digitally sign t
 ### 1. Pull the latest YUI source
 
 Before starting work on a change, make sure you have the latest YUI source.
+Your YUI fork should:
+* Always be up-to-date with dev-master
+* Always be pushed to daily (get upstream changes and push to your fork).
+* Always be in sync with your current work.
 
 First, decide what YUI branch you want to base your change on (see the branching strategy section above). Then `cd` to your local YUI clone and run the following commands.
 
@@ -91,7 +95,7 @@ $ git pull upstream dev-3.x
 
 ### 2. Create a new topic branch for your change
 
-It's best to develop changes in a "topic branch", which is a branch that only contains commits related to a single change. This will make merging easy later and keep your pull request nice and clean.
+It's best to develop changes in a "topic branch", which is a branch that only contains commits related to a single change. This will make merging easy later and keep your pull request nice and clean. Use `dev-master` or `dev-3.x` as your base branch, depending on the scope of your change.
 
 Think of a short but descriptive name for your topic branch, then create it like this (replace `my-topic-branch` with the name you prefer):
 
@@ -171,6 +175,8 @@ Be sure to set the **base branch** dropdown to the correct YUI development branc
 Give your pull request a descriptive title and a detailed description of the changes you made. If you added new features, describe what those features are, how they work, and why you think they're useful.
 
 The more descriptive your pull request is, the more likely it will be reviewed quickly and accepted.
+
+If this is **ongoing work** you should prefix the title of the pull request with "**[WIP] some new feature**" and push to that branch often. This keeps a record of your progress. If you want feedback from another member of the YUI community, simply use the **@username** syntax in a comment and ask them to take a look.
 
 ### 10. Respond to feedback on your pull request
 
