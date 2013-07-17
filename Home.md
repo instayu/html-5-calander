@@ -21,7 +21,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ### 3.11.0
 
-* [Release announcement (pending)](#)
+* [Release announcement](http://www.yuiblog.com/blog/2013/07/16/yui-3-11-0-released/)
 * [[YUI 3.11.0 Change History Rollup]]
 * [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.11.0/build/yui/yui-min.js)
 * [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.11.0.zip)
