@@ -250,6 +250,8 @@ $ git push upstream dev-3.x
 
 ### 5. If you pushed to `dev-master` you must merge `dev-master` into `dev-3.x`.
 
+### 6. After you push, immediately verify that the automated build passes all unit tests and no breakage has occurred as a result of checking the code in.
+
 ## References
 * [shifter](http://yui.github.com/shifter) - Build YUI and Gallery - `sudo npm -g i shifter`
 * [yogi](http://yui.github.com/yogi) - ( **Y**UI **o**r **G**allery **I**nterface )  Command Line Helper for YUI - `sudo npm -g i yogi`
