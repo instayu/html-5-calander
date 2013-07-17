@@ -1,3 +1,7 @@
+### Security First
+
+Any input that you take from the user and inject back into the page needs to be escaped or placed into the DOM as *text* and *not HTML*.
+
 ### Diff Before Every Commit
 
 Get into the habit of running `git diff` or `git diff --cached` before every commit.
