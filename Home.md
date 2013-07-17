@@ -9,7 +9,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 * [[Development Schedule]] - Code freeze dates and important milestones.
 * [[Open Roundtable]] - Every week the core team conducts a Hangout with the community. Submit any demos and/or topics for discussion here.
 * [[Ongoing Development Discussions]]
-* [Sprint 9 Tickets](https://github.com/yui/yui3/issues?direction=desc&labels=&milestone=9&page=1&sort=created&state=open)
+* [Sprint 9 Tickets](https://github.com/yui/yui3/issues?direction=desc&labels=&milestone=9&page=1&sort=created&state=open) - Active issues earmarked for the next release.
 
 ## Get Involved
 * [Contributing to YUI](https://github.com/yui/yui3/blob/master/CONTRIBUTING.md) - How to get started.
