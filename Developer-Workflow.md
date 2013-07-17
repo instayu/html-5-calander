@@ -1,4 +1,4 @@
-(This information supercedes the information at [http://yuilibrary.com/yui/docs/tutorials/contribute/](http://yuilibrary.com/yui/docs/tutorials/contribute/)).
+(This information supplements the information at [http://yuilibrary.com/yui/docs/tutorials/contribute/](http://yuilibrary.com/yui/docs/tutorials/contribute/)).
 
 If you are new to contributing to YUI, [Contribute.md](https://github.com/yui/yui3/blob/master/CONTRIBUTING.md) is a good place to start.
 
