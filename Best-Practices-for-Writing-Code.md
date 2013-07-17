@@ -41,7 +41,7 @@ Sets this widget's title.
 
 ### Pushes to `dev-master` and `dev-3.x` should be holistic:
 
-Do not push code to master without the following:
+Do not push code to dev-master/dev-3.x without the following:
    * Test your code
       * unit tests
       * functional tests
@@ -54,3 +54,7 @@ Do not push code to master without the following:
       * complete user guide content
 
 Do *not* defer testing or documentation to do "later".
+
+### Commit `src/` Files Separately from `build/` Files
+
+When you change src/js code, you'll need to build the component to test your changes locally. This results in modified src/ AND build/ files. As a best practice, you should commit your src/ files separately from your build/ file commits.
