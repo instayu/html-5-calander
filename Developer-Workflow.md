@@ -213,17 +213,19 @@ The information in this section is for YUI core reviewers and commiters only. If
 
 ### 1. Review the code on GitHub
 
-Read the diffs associated with the pull request. Do the proposed changes make sense? Do they fix a problem or improve YUI in a valuable way? Are they maintainable? Does the code adhere to the style and standards of the changed files and the library in general? Do they include unit tests?
+Read the diffs associated with the pull request. Do the proposed changes make sense? Do they fix a problem or improve YUI in a valuable way? Are they maintainable? Does the code adhere to the style and standards of the changed files and the library in general? Do they include unit tests? If they do not include unit tests, it will be **your** responsibility to write them.
 
 Comment on code that you have questions about or that you think should be changed. Ask questions about the changes if anything needs clarification.
 
 ### 2. Build and test the changes locally
 
-If the code changes look good and you're inclined to accept the pull request, the next step is to run unit tests and make sure they all pass.
+If the code changes look good and you're inclined to accept the pull request, the next step is to run unit tests and make sure they all pass. If there are any downstream dependencies, verify that their unit tests continue to pass as well.
 
 Follow GitHub's instructions for merging the pull request into your local repo via the command line, but don't push the changes upstream yet.
 
 After merging the changes into your local repo, build any modules whose source files changed, then run the unit tests for those modules in all major browsers. If there are failures, paste the failure info into a comment on the pull request.
+
+Consider asking another YUI community member to review the code as a sanity check.
 
 ### 3. Update `HISTORY.md` files and documentation if necessary
 
@@ -248,9 +250,12 @@ If there are any conflicts, resolve them. Then push the changes upstream to auto
 $ git push upstream dev-3.x
 ```
 
-### 5. If you pushed to `dev-master` you must merge `dev-master` into `dev-3.x`.
 
-### 6. After you push, immediately verify that the automated build passes all unit tests and no breakage has occurred as a result of checking the code in.
+### 5. After you push: 
+
+Immediately verify that the automated build passes all unit tests and no breakage has occurred as a result of checking the code in.
+
+### 6. If you pushed to `dev-master` you must merge `dev-master` into `dev-3.x`.
 
 ## References
 * [shifter](http://yui.github.com/shifter) - Build YUI and Gallery - `sudo npm -g i shifter`
