@@ -7,7 +7,12 @@ YUI Project Calendar links:
 * [iCAL](https://www.google.com/calendar/ical/fcde7kbrqnu7iccq9ofi9lqqf8%40group.calendar.google.com/public/basic.ics)
 
 <a id="next-release"></a>
-Sprint 8 (Current)
+
+Sprint 9 (next release)
+-----------------------
+[dates pending]
+
+Sprint 8 (3.11.0)
 ------------------
 * **Jun 10, 2013:** Sprint Begins.
 * **Jun 27-30, 2012:** NodeConf 2013.
