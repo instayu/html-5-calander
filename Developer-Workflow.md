@@ -197,7 +197,7 @@ If your pull request isn't approved, don't feel bad! Your contributions are stil
 * Set up your environment as described above. You should have `yogi` installed and have a local clone of YUI on your development machine.
 
 * Go to the directory you want to build within YUI and just run `$ yogi build`. (`yogi` uses `shifter` under the hood.)
-   * For example `$ cd yuo3/src/anim & yogi build`
+   * For example `$ cd yui3/src/anim & yogi build`
    * Output goes to `../../build`
 
 ### Tips
