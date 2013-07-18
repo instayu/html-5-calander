@@ -176,7 +176,7 @@ Give your pull request a descriptive title and a detailed description of the cha
 
 The more descriptive your pull request is, the more likely it will be reviewed quickly and accepted.
 
-If this is **ongoing work** you should prefix the title of the pull request with "**[WIP] some new feature**" and push to that branch often. This keeps a record of your progress. If you want feedback from another member of the YUI community, simply use the **@username** syntax in a comment and ask them to take a look.
+If this is **ongoing work** you should prefix the title of the pull request with **"[WIP] some new feature"** and push to that branch often. This keeps a record of your progress. If you want feedback from another member of the YUI community, simply use the **@username** syntax in a comment and ask them to take a look.
 
 ### 10. Respond to feedback on your pull request
 
