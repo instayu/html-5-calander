@@ -8,3 +8,9 @@ Join the [yui-contrib mailing list](https://groups.google.com/forum/?fromgroups=
    * Discuss technical issues about your feature.
    * Contribute to ongoing discussions around YUI features.
    * Read about major pull requests and give feedback.
+
+## File Bugs ##
+
+Create a free account on [GitHub](https://github.com/signup/free) so you can:
+  * File [new issues](https://github.com/yui/yui3/issues/new)
+  * Comment on [existing issues](https://github.com/yui/yui3/issues?direction=desc&labels=website&sort=created&state=open)
