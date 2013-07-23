@@ -57,6 +57,10 @@ Please read: https://github.com/yui/yui-lint/blob/master/README.md
 
 We reserve the right to one day fail builds on lint errors.
 
+## Release Process
+
+At the end of Code Freeze day (11:59 PM in Sunnyvale), development branches `dev-master` and `dev-3.x` will be frozen so we can make the determination on whether to cut a 3.CURRENT.NEXT release or a 3.NEXT release. A release branch will be created off the chosen development branch in preparation for release, and then all development branches will be unfrozen for continued development.
+
 ## Important Milestones
 
 ### Pull Request Milestones
@@ -65,29 +69,19 @@ Per our [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model),
 
 ### Code Freeze
 
-All source code changes should be merged to the `dev-master` and `dev-3.x` development branches by Code Freeze, including new features, new APIs, deprecations, and bug fixes. This is in order to ensure enough time for thorough testing across all our target environments and community feedback before release. 
+All source code changes for a release should be merged to the `dev-master` and `dev-3.x` development branches by Code Freeze, including new features, new APIs, deprecations, and bug fixes. This is in order to ensure enough time for thorough testing across all our target environments and community feedback before release. 
 
-During the time between Code Freeze and Commit Freeze, only documentation and test updates are acceptable, as well as fixes to any bugs that are explicitly identified as release blockers.
+Upon Code Freeze, `dev-master` and `dev-3.x` branches will be frozen for a short period so we can create a short-lived release branch (`release-3.x.x`) in preparation for release. After the release branch is created, development branches will re-open for continuous development. Between Code Freeze and Commit Freeze, only documentation updates, test updates, and explicitly identified release blockers fixes are acceptable in a release branch.
 
 ### Commit Freeze
 
-No repo changes of any kind are permitted after Commit Freeze to the `dev-master` and `dev-3.x` development branches without explicit discussion and approval. This is to prevent churn in our CI system that delays releases. Please make sure all code changes and test, documentation, and HISTORY.md updates happen before Commit Freeze. Development branches will be unfrozen after the release and deployment is complete. In a normal cycle, we expect Commit Freeze to last from EOD Friday to Tuesday, or about 3.5 days.
+No repo changes of any kind are permitted after Commit Freeze to the release branch created at Code Freeze (`release-3.x.x`) without explicit discussion and approval. This is to prevent churn in our CI system that delays releases. Please make sure all code changes and test, documentation, and HISTORY.md updates happen in the release branch before Commit Freeze. 
+
+Development branches will remain open for continuous development.
 
 ### Preview Releases
 
 Coming soon.
-
-### Release Process
-
-At the end of Code Freeze Friday (11:59 PM in Sunnyvale), all branches will be frozen so we can make the determination on whether to cut a release off `master` branch (a 3.CURRENT.NEXT release) or `3.x` branch (a 3.NEXT release).
-
-If `3.x` branch looks good, the 3.NEXT release will be cut the following Tuesday, and then all branches will be unfrozen.
-
-If `3.x` branch is not good, a 3.CURRENT.NEXT release will be cut the following Tuesday, and then only `master` and `dev-master` branches will be unfrozen. The `3.x` and `dev-3.x` branch will remain frozen and only accept commits that get it out of "not good" status. Merges from `dev-master` into `dev-3.x` are not allowed during this time.
-
-As soon as `3.x` branch turns good, a 3.NEXT PR release will be cut and then the `3.x` and `dev-3.x` branches will unfrozen. `dev-master` will be merged into `dev-3.x` as soon as it is unfrozen.
-
-Parallel development against `dev-master` and `dev-3.x` will continue until the end of the next sprint. At the end of Code Freeze Friday of the next sprint, once again all branches will be frozen and the release cycle starts again.
 
 ## License Updates
 
