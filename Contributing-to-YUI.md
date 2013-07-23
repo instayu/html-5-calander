@@ -19,6 +19,6 @@ Create a free account on [GitHub](https://github.com/signup/free) so you can:
 
 Use your [GitHub](https://github.com/) account to:
    * Fork the repo and [make code changes](https://github.com/yui/yui3/wiki/Developer-Workflow#making-a-change-to-yui).
-   * Issue [pull requests](https://github.com/yui/yui3/wiki/Developer-Workflow#9-submit-a-pull-request)
+   * Issue [pull requests](https://github.com/yui/yui3/wiki/Developer-Workflow#9-submit-a-pull-request).
       
 
