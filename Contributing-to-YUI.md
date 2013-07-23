@@ -27,5 +27,9 @@ Use your [GitHub](https://github.com/) account to:
    * Fork the repo and [make code changes](https://github.com/yui/yui3/wiki/Developer-Workflow#making-a-change-to-yui).
    * Issue [pull requests](https://github.com/yui/yui3/wiki/Developer-Workflow#9-submit-a-pull-request).
 
-
+## Contribute to the Gallery
+Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mode=register) account so
+you can:
+   * Post on the [support forum](http://yuilibrary.com/forum/).
+   * Contribute modules to the [Gallery](http://yuilibrary.com/gallery/).
       
