@@ -35,6 +35,8 @@ each of these code branches represents:
      **these integration branches for the automated testing system to validate.** Once they
      are validated, the code is merged into `master` and `3.x` respectively.
 
+  * `release-3.x.x`: Short-lived release branches where code checkins are carefully managed for extensive testing and release deployment.
+
 ## Preparing your environment
 
 If this is your first time making a change to YUI, you'll need to set up your coding environment to be able to build YUI and work with git.
