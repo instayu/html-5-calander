@@ -4,7 +4,7 @@ The YUI Project is a open-source project managed by the YUI engineering team at 
 
 ## Join the Discussion ##
 
-Join the [mailing list](https://groups.google.com/forum/?fromgroups=#!forum/yui-contrib) so you can:
+Join the [yui-contrib mailing list](https://groups.google.com/forum/?fromgroups=#!forum/yui-contrib) so you can:
    * Discuss technical issues about your feature.
    * Contribute to ongoing discussions around YUI features.
    * Read about major pull requests and give feedback.
