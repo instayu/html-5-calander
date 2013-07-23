@@ -17,10 +17,8 @@ Create a free account on [GitHub](https://github.com/signup/free) so you can:
 
 ## Write Code ##
 
-Use your GitHub account to:
-   * Fork the repo. 
-      * Visit https://github.com/yui/yui3 and click the fork button.
-      * Clone this fork down to your local PC.
-      * For a specific task, create a branch on this clone and check your changes into this branch.
-      * Push those changes back to your "origin" (back up to github).
+Use your [GitHub](https://github.com/) account to:
+   * Fork the repo and [make code changes](https://github.com/yui/yui3/wiki/Developer-Workflow#making-a-change-to-yui).
+   * Issue [pull requests](https://github.com/yui/yui3/wiki/Developer-Workflow#9-submit-a-pull-request)
+      
 
