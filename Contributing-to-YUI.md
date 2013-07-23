@@ -31,9 +31,10 @@ Use your [GitHub](https://github.com/) account to:
 Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mode=register) account so
 you can:
    * Post on the [support forum](http://yuilibrary.com/forum/).
+   * Contribute modules to the [Gallery](http://yuilibrary.com/gallery/).
    * Sign and submit a [Contributor License Agreement (CLA)](http://yuilibrary.com/contribute/cla/) which allows you to:
       * Have your Gallery modules hosted on the Yahoo! CDN.
       * Contribute bug fixes and enhancements to the core library.
       * Make sure you check **"individual"** or **"company"** in the CLA form.
-   * Contribute modules to the [Gallery](http://yuilibrary.com/gallery/).
+   
       
