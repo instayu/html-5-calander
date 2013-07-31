@@ -18,7 +18,7 @@ Create a free account on [GitHub](https://github.com/signup/free) so you can:
 ### Build and Test YUI ###
 
    * [Building YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#building-yui).
-   * [Testing YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#4-build-and-test-your-change)
+   * [Testing YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#4-build-and-test-your-change).
 
 
 ### Write Code ###
