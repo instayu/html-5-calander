@@ -1,23 +1,11 @@
-## Propose a Submission
-
-Thank you for your interest in contributing to the YUI project! Before we get started, please be sure to [sign a CLA](http://yuilibrary.com/contribute/cla/).
-
-Proposals can be submitted via a pull request or as an idea to the Contributor Mailing List. Submissions that follow our contribution standards and are aligned with the direction of the project will be accepted. Submissions that are not accepted can always be published to YUI Gallery.
-
-Please review YUI’s [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model/) for more information about how proposals get processed once submitted.
-
-## Development Workflow
-
-Please review YUI’s [Developer Workflow](https://github.com/yui/yui3/wiki/Developer-Workflow/) for details on how to set up your Git branches and contribute changes to the YUI project.
-
-## Minimum Requirements
-
-The goal of these requirements is to ensure quality, API consistency, code reusability, and maintainability of the contribution. All contributions must satisfy:
+## Pull Request Minimum Requirements
+If you are making a pull request now please take note of the following
+requirements that your pull request needs. The goal of these requirements is to ensure quality, API consistency, code reusability, and maintainability of the contribution.
 
    * Complete API Docs and inline code comments
    * Unit tests with 80% line coverage
    * User Guide (Components only)
-   * Functional examples, written up in Selleck format and with test automation (https://github.com/yui/yui3/wiki/Selleck-Example-Tests)
+   * Functional examples, written up in Selleck format and with [test automation](https://github.com/yui/yui3/wiki/Selleck-Example-Tests)
    * Proper commit logs
    * Proper updates to HISTORY.md
 
