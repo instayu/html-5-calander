@@ -20,6 +20,9 @@ The YUI team has created a number of Node.js-based NPM modules to make meeting t
 
 We recommend the following process for contributing great code to YUI:
 
+
+
+
 ### Security First
 
 Any input that you take from the user and inject back into the page needs to be escaped or placed into the DOM as *text* and *not HTML*.
@@ -31,6 +34,10 @@ Get into the habit of running `git diff` or `git diff --cached` before every com
 ### Commits Should Be Granular
 
 You should keep each commit as granular as possible. For instance, do not check in 2 bug fixes in one commit -- separate them out into 2 commits.
+
+### Commit `src/` Files Separately from `build/` Files
+
+When you change src/js code, you'll need to build the component to test your changes locally. This results in modified src/ AND build/ files. As a best practice, you should commit your src/ files separately from your build/ file commits.
 
 ### 4 Spaces, No Tabs
 
@@ -60,6 +67,9 @@ Sets this widget's title.
 */
 ```
 
+
+
+
 ### Get feedback early and often 
 
 * An **API review** validates your initial approach
@@ -79,11 +89,6 @@ Sets this widget's title.
 * Unit
 * Functional
 * Performance
-
-
-### Commit `src/` Files Separately from `build/` Files
-
-When you change src/js code, you'll need to build the component to test your changes locally. This results in modified src/ AND build/ files. As a best practice, you should commit your src/ files separately from your build/ file commits.
 
 
 ## A Note About Lint
