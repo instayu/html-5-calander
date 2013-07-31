@@ -15,16 +15,15 @@ Create a free account on [GitHub](https://github.com/signup/free) so you can:
   * File [new issues](https://github.com/yui/yui3/issues/new).
   * Comment on [existing issues](https://github.com/yui/yui3/issues?direction=desc&labels=website&sort=created&state=open).
 
-### Build and Test YUI ###
 
-   * [Building YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#building-yui).
-   * [Testing YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#4-build-and-test-your-change).
 
 
 ### Write Code ###
 
 Use your [GitHub](https://github.com/) account to:
    * Fork the repo and [make code changes](https://github.com/yui/yui3/wiki/Developer-Workflow#making-a-change-to-yui). Be sure to use the right [branch](https://github.com/yui/yui3/wiki/Developer-Workflow#branch-information).
+   * [Build YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#building-yui) from the source.
+   * [Test](https://github.com/yui/yui3/wiki/Developer-Workflow#4-build-and-test-your-change) your changes.
    * Issue [pull requests](https://github.com/yui/yui3/wiki/Developer-Workflow#9-submit-a-pull-request).
    * Be sure your pull request meets the [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards).
 
