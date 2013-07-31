@@ -24,9 +24,9 @@ Create a free account on [GitHub](https://github.com/signup/free) so you can:
 ### Write Code ###
 
 Use your [GitHub](https://github.com/) account to:
-   * Fork the repo and [make code changes](https://github.com/yui/yui3/wiki/Developer-Workflow#making-a-change-to-yui)). Be sure to use the right [branch](https://github.com/yui/yui3/wiki/Developer-Workflow#branch-information).
+   * Fork the repo and [make code changes](https://github.com/yui/yui3/wiki/Developer-Workflow#making-a-change-to-yui). Be sure to use the right [branch](https://github.com/yui/yui3/wiki/Developer-Workflow#branch-information).
    * Issue [pull requests](https://github.com/yui/yui3/wiki/Developer-Workflow#9-submit-a-pull-request).
-   * Be sure your pull request meets the [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards)
+   * Be sure your pull request meets the [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards).
 
 ### Contribute to the Gallery ###
 Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mode=register) account so
