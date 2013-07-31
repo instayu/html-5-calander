@@ -79,21 +79,6 @@ Sets this widget's title.
 * Functional
 * Performance
 
-### Pushes to `dev-master` and `dev-3.x` should be holistic:
-
-Do not push code to dev-master/dev-3.x without the following:
-   * Test your code
-      * unit tests
-      * functional tests
-   * APIDocs
-   * Accessibility
-   * Documentation
-      * commented code
-      * api docs
-      * full suite of examples
-      * complete user guide content
-
-Do *not* defer testing or documentation to do "later".
 
 ### Commit `src/` Files Separately from `build/` Files
 
