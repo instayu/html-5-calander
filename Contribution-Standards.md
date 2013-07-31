@@ -72,6 +72,7 @@ Sets this widget's title.
 * API docs
 * Examples
 * User guides
+* In-line code comments
 
 ### Automate your tests
 
