@@ -18,7 +18,7 @@ Create a free account on [GitHub](https://github.com/signup/free) so you can:
 ### Build and Test YUI ###
 
    * [Building YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#building-yui).
-   * Testing YUI.
+   * [Testing YUI](https://github.com/yui/yui3/wiki/Developer-Workflow#4-build-and-test-your-change)
 
 
 ### Write Code ###
@@ -31,10 +31,10 @@ Use your [GitHub](https://github.com/) account to:
 Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mode=register) account so
 you can:
    * Post on the [support forum](http://yuilibrary.com/forum/).
-   * Contribute modules to the [Gallery](http://yuilibrary.com/gallery/).
+   * Contribute modules to the [YUI Gallery](http://yuilibrary.com/gallery/).
    * Sign and submit a [Contributor License Agreement (CLA)](http://yuilibrary.com/contribute/cla/) which allows you to:
       * Have your Gallery modules hosted on the Yahoo! CDN.
       * Contribute bug fixes and enhancements to the core library.
-      * Make sure you check **"individual"** or **"company"** in the CLA form.
+(Make sure you check **"individual"** or **"company"** in the CLA form.)
    
       
