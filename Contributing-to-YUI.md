@@ -9,6 +9,11 @@ Join the [yui-contrib mailing list](https://groups.google.com/forum/?fromgroups=
    * Contribute to ongoing discussions around YUI features.
    * Read about major pull requests and give feedback.
 
+Join the #yui IRC channel on [Freenode](http://freenode.net/) to:
+   * Discuss issues and new features.
+   * Connect with other YUI developers.
+   * Share with and receive help from other YUI users.
+
 ### File Bugs ###
 
 Create a free account on [GitHub](https://github.com/signup/free) so you can:
