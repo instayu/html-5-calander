@@ -16,6 +16,8 @@ The YUI team has created a number of tools to make meeting the above requirement
    * [selleck](http://yui.github.com/selleck/): for live-previewing the user guide and functional examples.
    * [yogi](http://yui.github.com/yogi): helper tool wrapping up the functionality from the above tools.
    * [Yeti](http://yeti.cx/): test automation suite for a wide range of test environments.
+   * [YUI Test](http://yuilibrary.com/projects/yuitest/): a complete testing framework for JavaScript 
+     and Web applications.
 
 ## Best Practices
 
