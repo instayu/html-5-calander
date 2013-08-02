@@ -9,12 +9,13 @@ requirements that your pull request needs. The goal of these requirements is to 
    * Proper commit logs
    * Proper updates to HISTORY.md
 
-The YUI team has created a number of Node.js-based NPM modules to make meeting the above requirements much easier:
+The YUI team has created a number of tools to make meeting the above requirements much easier:
 
    * [shifter](http://yui.github.com/shifter): to build the modules properly and consistently.
    * [yuidocjs](http://yui.github.com/yuidoc/): for live-previewing the API docs.
    * [selleck](http://yui.github.com/selleck/): for live-previewing the user guide and functional examples.
    * [yogi](http://yui.github.com/yogi): helper tool wrapping up the functionality from the above tools.
+   * [Yeti](http://yeti.cx/): test automation suite for a wide range of test environments.
 
 ## Best Practices
 
