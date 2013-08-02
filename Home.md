@@ -12,10 +12,11 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 * [Sprint 9 Tickets](https://github.com/yui/yui3/issues?direction=desc&labels=&milestone=9&page=1&sort=created&state=open) - Active issues earmarked for the next release.
 
 ## Get Involved
-* [Contributing to YUI](https://github.com/yui/yui3/blob/master/CONTRIBUTING.md) - How to get started.
+* [Contributing to YUI](https://github.com/yui/yui3/wiki/Contributing-to-YUI) - How to get started.
 * [Contributor Mailing List](https://groups.google.com/forum/?fromgroups=#!forum/yui-contrib) - Talk to other contributors
 * [Contributor Model](https://github.com/yui/yui3/wiki/Contributor-Model) - How to be a good contributor.
 * [Developer Workflow](https://github.com/yui/yui3/wiki/Developer-Workflow) - Mechanics of contributing.
+* [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards) - What makes a good contribution.
 
 ## Current Release
 
