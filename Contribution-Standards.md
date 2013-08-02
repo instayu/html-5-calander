@@ -3,7 +3,7 @@ If you are making a pull request now please take note of the following
 requirements that your pull request needs. The goal of these requirements is to ensure quality, API consistency, code reusability, and maintainability of the contribution.
 
    * Complete API Docs and inline code comments
-   * Unit tests with 80% line coverage
+   * Unit tests with 90% line coverage
    * User Guide (Components only)
    * Functional examples, written up in Selleck format and with [test automation](https://github.com/yui/yui3/wiki/Selleck-Example-Tests)
    * Proper commit logs
