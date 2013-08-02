@@ -31,6 +31,7 @@ Use your [GitHub](https://github.com/) account to:
    * [Test](https://github.com/yui/yui3/wiki/Developer-Workflow#4-build-and-test-your-change) your changes.
    * Issue [pull requests](https://github.com/yui/yui3/wiki/Developer-Workflow#9-submit-a-pull-request).
    * Be sure your pull request meets the [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards).
+   * Be sure to sign a [CLA](http://yuilibrary.com/contribute/cla/) so your changes can be pulled in (see below).
 
 ### Contribute to the Gallery ###
 The [YUI Gallery](http://yuilibrary.com/gallery/) is an ecosystem of components created by developers just like you that are free to use in your own projects. 
