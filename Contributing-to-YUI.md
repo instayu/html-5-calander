@@ -33,7 +33,7 @@ Use your [GitHub](https://github.com/) account to:
    * Be sure your pull request meets the [Contribution Standards](https://github.com/yui/yui3/wiki/Contribution-Standards).
 
 ### Contribute to the Gallery ###
-Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mode=register) account so
+The [YUI Gallery](http://yuilibrary.com/gallery/) is an ecosystem of components created by developers just like you that are free to use in your own projects. Create a free account on [YUILibrary.com](http://yuilibrary.com/forum/ucp.php?mode=register) account so
 you can:
    * Post on the [support forum](http://yuilibrary.com/forum/).
    * Contribute modules to the [YUI Gallery](http://yuilibrary.com/gallery/).
