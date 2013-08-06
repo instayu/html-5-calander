@@ -5,7 +5,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * Discussion about ModelList and future enhancements with Clarence Leung 
+  * Discussion about the future of Model and ModelList with Clarence Leung and Eric Ferraiuolo
   * (Got something on your mind?  Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
