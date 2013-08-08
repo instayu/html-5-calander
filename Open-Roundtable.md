@@ -5,7 +5,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * **Discussion about the future of Model and ModelList with Clarence Leung and Eric Ferraiuolo**
+  * ~~Discussion about the future of Model and ModelList with Clarence Leung and Eric Ferraiuolo~~ (postponed)
   * Promises status update - Juan Dopazo
   * (Got something on your mind?  Add an item here + your name.)
 * Review
