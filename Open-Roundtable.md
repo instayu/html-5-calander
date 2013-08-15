@@ -18,13 +18,13 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ### YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
 
 ### August 8 2013
-   * Video TBD
+   * [Video Recording](https://www.youtube.com/watch?v=I2VjPlgenOU)
    * Meeting Notes:
       * Button discussion - Derek
       * Promises status update - Juan Dopazo
 
 ### August 1 2013
-   * Video TBD
+   * [Video Recording](https://www.youtube.com/watch?v=G3EgKHlGquA)
 
 ### July 25 2012
 * [Video Recording](http://www.youtube.com/watch?v=NTA3fQYdOHE&list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&index=1)
