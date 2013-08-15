@@ -5,8 +5,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * 3.12.0 discussion
-  * Rashad - Demo Pearl template builder.
+
   * (Got something on your mind?  Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
@@ -17,6 +16,12 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ## Archive
 
 ### YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
+
+### August 15 2013
+   * [Video Recording](https://www.youtube.com/watch?v=Hs_5OrjUoAk)
+   * Meeting Notes:
+      * 3.12.0 discussion
+      * Rashad - Demo Pearl template builder.
 
 ### August 8 2013
    * [Video Recording](https://www.youtube.com/watch?v=I2VjPlgenOU)
