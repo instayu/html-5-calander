@@ -5,9 +5,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * ~~Discussion about the future of Model and ModelList with Clarence Leung and Eric Ferraiuolo~~ (postponed)
-  * Button discussion - Derek
-  * Promises status update - Juan Dopazo
+  * 3.12.0 discussion
   * (Got something on your mind?  Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
@@ -18,6 +16,15 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ## Archive
 
 ### YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
+
+### August 8 2013
+   * Video TBD
+   * Meeting Notes:
+      * Button discussion - Derek
+      * Promises status update - Juan Dopazo
+
+### August 1 2013
+   * Video TBD
 
 ### July 25 2012
 * [Video Recording](http://www.youtube.com/watch?v=NTA3fQYdOHE&list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&index=1)
