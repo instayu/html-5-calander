@@ -19,9 +19,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### August 15 2013
    * [Video Recording](https://www.youtube.com/watch?v=Hs_5OrjUoAk)
-   * Meeting Notes:
-      * 3.12.0 discussion
-      * Rashad - Demo Pearl template builder.
+   * [Meeting Notes](https://gist.github.com/triptych/6253177)
 
 ### August 8 2013
    * [Video Recording](https://www.youtube.com/watch?v=I2VjPlgenOU)
