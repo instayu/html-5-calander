@@ -19,7 +19,7 @@ The YUI team has created a number of tools to make meeting the above requirement
    * [YUI Test](http://yuilibrary.com/projects/yuitest/): a complete testing framework for JavaScript 
      and Web applications.
 
-## Best Practices
+## Requirements for Developing Code
 
 We recommend the following process for contributing great code to YUI:
 
