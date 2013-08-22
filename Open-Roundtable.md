@@ -7,6 +7,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Discussion / Q&A
   * After the introduction of [Pure Buttons](http://purecss.io/buttons/), what is the best architecture for [CSSButton](http://yuilibrary.com/yui/docs/button/#usecssbutton) going forward? - Derek
   * A discussion about triggering regressions in performance testing. - Derek
+  * Resolving the linting issues in YUI - Derek
   * (Got something on your mind?  Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
