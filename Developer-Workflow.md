@@ -261,19 +261,21 @@ Immediately verify that the automated build passes all unit tests and no breakag
 
 ## Merging fixes into a release branch
 
-### 1. Find the most recent common commit between your dev branch (i.e. `dev-3.x`) and a release branch (i.e. `release-3.12.0`). 
+1. Find the most recent common commit between your dev branch (i.e. `dev-3.x`) and a release branch (i.e. `release-3.12.0`). 
 
-To discover this common commit, use something like:
-```
-$ git merge-base dev-3.x release-3.12.0
-```
-### 2. Create a new branch from that commit.
+  To discover this common commit, use something like:
 
-### 3. Cherry-pick your changes into that new branch (from your own development branch say `bugfix-1234`).
+  ```
+  $ git merge-base dev-3.x release-3.12.0
+  ```
 
-### 4. Issue a pull request against the release branch and state which other `dev-*` branch it should be merged into.
+2. Create a new branch from that commit.
 
-### 5. **Reviewers only**: Merge that branch into both the dev branch (i.e. `dev-3.x`) and release branch (i.e. `release-3.12.0`). 
+3. Cherry-pick your changes into that new branch (from your own development branch say `bugfix-1234`).
+
+4. Issue a pull request against the release branch and state which other `dev-*` branch it should be merged into.
+
+5. **Reviewers only**: Merge that branch into both the dev branch (i.e. `dev-3.x`) and release branch (i.e. `release-3.12.0`). 
 
 ## References
 * [shifter](http://yui.github.com/shifter) - Build YUI and Gallery - `sudo npm -g i shifter`
