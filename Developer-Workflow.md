@@ -259,6 +259,20 @@ Immediately verify that the automated build passes all unit tests and no breakag
 
 ### 6. If you pushed to `dev-master` you must merge `dev-master` into `dev-3.x`.
 
+## Merging fixes into a release branch
+
+### 1. Find the most recent common commit between your dev branch (i.e. `dev-3.x`) and a release branch (i.e. `release-3.12.0`). To discover this common commit, use something like:
+```
+$ git merge-base dev-3.x release-3.12.0
+```
+### 2. Create a new branch from that commit.
+
+### 3. Cherry-pick my changes into that new branch (from your own development branch say `bugfix-1234`).
+
+### 4. Issue a PR against the release branch and state which other `dev-*` branch it should be merged into.
+
+### 5. **Reviewer only**: Merge that branch into both the dev branch (i.e. `dev-3.x`) and release branch (i.e. `release-3.12.0`). 
+
 ## References
 * [shifter](http://yui.github.com/shifter) - Build YUI and Gallery - `sudo npm -g i shifter`
 * [yogi](http://yui.github.com/yogi) - ( **Y**UI **o**r **G**allery **I**nterface )  Command Line Helper for YUI - `sudo npm -g i yogi`
