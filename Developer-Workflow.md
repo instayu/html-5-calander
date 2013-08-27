@@ -269,11 +269,11 @@ $ git merge-base dev-3.x release-3.12.0
 ```
 ### 2. Create a new branch from that commit.
 
-### 3. Cherry-pick my changes into that new branch (from your own development branch say `bugfix-1234`).
+### 3. Cherry-pick your changes into that new branch (from your own development branch say `bugfix-1234`).
 
 ### 4. Issue a PR against the release branch and state which other `dev-*` branch it should be merged into.
 
-### 5. **Reviewer only**: Merge that branch into both the dev branch (i.e. `dev-3.x`) and release branch (i.e. `release-3.12.0`). 
+### 5. **Reviewers only**: Merge that branch into both the dev branch (i.e. `dev-3.x`) and release branch (i.e. `release-3.12.0`). 
 
 ## References
 * [shifter](http://yui.github.com/shifter) - Build YUI and Gallery - `sudo npm -g i shifter`
