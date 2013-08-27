@@ -5,10 +5,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * After the introduction of [Pure Buttons](http://purecss.io/buttons/), what is the best architecture for [CSSButton](http://yuilibrary.com/yui/docs/button/#usecssbutton) going forward? - Derek
-  * A discussion about triggering regressions in performance testing. - Derek
-  * Resolving the linting issues in YUI - Derek
-  * Reid demo of new CI dashboard
+
   * (Got something on your mind?  Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
@@ -19,6 +16,10 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ## Archive
 
 ### YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
+
+### August 22 2013
+   * [Video Recording](https://www.youtube.com/watch?v=-4Dz30iNF_Y)
+   * [Meeting Notes](https://gist.github.com/triptych/6355721)
 
 ### August 15 2013
    * [Video Recording](https://www.youtube.com/watch?v=Hs_5OrjUoAk)
