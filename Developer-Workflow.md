@@ -261,7 +261,9 @@ Immediately verify that the automated build passes all unit tests and no breakag
 
 ## Merging fixes into a release branch
 
-### 1. Find the most recent common commit between your dev branch (i.e. `dev-3.x`) and a release branch (i.e. `release-3.12.0`). To discover this common commit, use something like:
+### 1. Find the most recent common commit between your dev branch (i.e. `dev-3.x`) and a release branch (i.e. `release-3.12.0`). 
+
+To discover this common commit, use something like:
 ```
 $ git merge-base dev-3.x release-3.12.0
 ```
