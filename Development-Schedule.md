@@ -9,6 +9,7 @@ YUI Project Calendar links:
 <a id="next-release"></a>
 
 Sprint 10 (next release)
+--------------------------
 * **Sep 3, 2013:** Sprint Begins.
 * **Sep 25, 2013:** [Code Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#code-freeze) Pull Request Deadline.
 * **Sep 27, 2013:** [Code Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#code-freeze).
