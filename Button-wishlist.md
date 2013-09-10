@@ -4,3 +4,4 @@
 * Make ButtonGroup widget single-box
 * Make cssbutton more skinnable (involves breaking up the CSS into multiple files)
 * Improve documentation & examples
+* Add performance tests
