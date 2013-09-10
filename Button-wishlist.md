@@ -3,5 +3,6 @@
 * Default Y.Button's BOUNDING_TEMPLATE to `<button type="button">`
 * Make ButtonGroup widget single-box
 * Make cssbutton more skinnable (involves breaking up the CSS into multiple files)
+* Introduce toggle plugin ([src](https://github.com/yui/yui3/blob/master/src/button/js/button.js#L183))
 * Improve documentation & examples
 * Add performance tests
