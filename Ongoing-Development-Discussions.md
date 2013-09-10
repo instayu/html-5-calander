@@ -22,6 +22,7 @@ Other Stuff
 ===========
 
 * [[Attribute Wishlist]]
+* [[Button Wishlist]]
 * [[Panel Accessibility Improvements]]
 
 Past Design Proposals
