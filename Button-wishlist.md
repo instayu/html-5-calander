@@ -9,5 +9,5 @@ To-do:
 * Add performance tests
 
 Done: 
-* [Preserve Y.Button node attributes on render()](https://github.com/yui/yui3/pull/1125#issuecomment-24051371)
+* [Preserve Y.Button node attributes on render()](https://github.com/yui/yui3/pull/1125)
 * [Added HTML support for Button labels](https://github.com/yui/yui3/pull/1163)
