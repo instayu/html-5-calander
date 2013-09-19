@@ -15,8 +15,8 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ## Archive
 
  * YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
- * [2013](https://github.com/yui/yui3/wiki/#2013)
- * [2012](https://github.com/yui/yui3/wiki/#2012)
+ * [2013](https://github.com/yui/yui3/wiki/Open-Roundtable#2013)
+ * [2012](https://github.com/yui/yui3/wiki/Open-Roundtable#2012)
 
 ### 2013
 
