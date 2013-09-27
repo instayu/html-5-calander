@@ -7,6 +7,7 @@ To-do:
 * Introduce toggle plugin ([src](https://github.com/yui/yui3/blob/master/src/button/js/button.js#L183))
 * Improve documentation & examples
 * Add performance tests
+* Increase Button's unit test count to strengthen coverage.  For instance, it could use more tests for `<input type="button">` elements (assuming that continues to be a supported element).
 
 Done: 
 * [Preserve Y.Button node attributes on render()](https://github.com/yui/yui3/pull/1125)
