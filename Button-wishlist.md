@@ -5,7 +5,7 @@ To-do:
 * Make ButtonGroup widget single-box ([src](https://github.com/yui/yui3/pull/1125#issuecomment-24051371))
 * Make cssbutton more skinnable (involves breaking up the CSS into multiple files)
 * Introduce toggle plugin ([src](https://github.com/yui/yui3/blob/master/src/button/js/button.js#L183))
-* Improve documentation & examples.  Finish [keyboard demo](https://github.com/yui/yui3/blob/master/src/button/tests/manual/keyboard.html)
+* Improve documentation & examples.  Finish [keyboard demo](https://github.com/yui/yui3/blob/master/src/button/tests/manual/keyboard.html).
 * Add performance tests
 * Increase Button's unit test count to strengthen coverage.  For instance, it could use more tests for `<input type="button">` elements (assuming that continues to be a supported element).
 
