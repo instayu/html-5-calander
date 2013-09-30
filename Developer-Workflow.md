@@ -118,7 +118,7 @@ See [[Contribution Standards]] for details on YUI's code quality standards and t
 
 ### 4. Build and test your change.
 
-Run `yogi build` from a module directory to build that module. Run `yogi test` from a module directory to run that module's unit tests.
+Run `yogi build` from a module directory to build that module. Run `yogi test` from a module directory to run that module's unit tests. Please note `yogi test` uses `PhantomJS` to test your code. If you wish to test your code within a browser, run `yeti <name>.html`, where `name` is the name of the HTML file which contains your tests. Please make sure your code tests successfully in all of the environments located [here](http://yuilibrary.com/yui/environments/) before submitting your pull request.
 
 ### 5. Edit the `HISTORY.md` files for any modules you changed (optional)
 
@@ -282,6 +282,7 @@ Immediately verify that the automated build passes all unit tests and no breakag
 * [shifter](http://yui.github.com/shifter) - Build YUI and Gallery - `sudo npm -g i shifter`
 * [yogi](http://yui.github.com/yogi) - ( **Y**UI **o**r **G**allery **I**nterface )  Command Line Helper for YUI - `sudo npm -g i yogi`
 * [Grover](http://github.com/davglass/grover) - YUITest wrapper for PhantomJS - `sudo npm -g i grover` (Make sure you have [phantomjs](http://phantomjs.org/) installed)
+* [Yeti](http://yeti.cx/) - Automates tests written with QUnit, Jasmine, Mocha with Expect.js assertions, Dojo Objective Harness, or YUI Test.
 * [UglifyJS](https://github.com/mishoo/UglifyJS) - Used to compress js
 * [Istanbul](https://github.com/yahoo/istanbul) - Code coverage tool
 * [GearJS](https://github.com/yahoo/gear) - Build System for Node.js and the Browser
