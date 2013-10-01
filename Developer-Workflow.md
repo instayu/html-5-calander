@@ -120,6 +120,8 @@ See [[Contribution Standards]] for details on YUI's code quality standards and t
 
 Run `yogi build` from a module directory to build that module. Run `yogi test` from a module directory to run that module's unit tests. Please note `yogi test` uses `PhantomJS` to test your code. If you wish to test your code within a browser, run `yeti <name>.html`, where `name` is the name of the HTML file which contains your tests. Please make sure your code tests successfully in all of the environments located [here](http://yuilibrary.com/yui/environments/) before submitting your pull request.
 
+Please note when adding, or removing modules from the `src` directory, you must regenerate the `meta` data for the YUI seed file. You can do this by running the `yogi loader` command from the `src` directory, which will regenerate the `meta` data and rebuild the seed file.
+
 ### 5. Edit the `HISTORY.md` files for any modules you changed (optional)
 
 In the source directory of every YUI module there's a file named `HISTORY.md`. This file contains a Markdown-formatted history of all the changes that have been made to that module.
