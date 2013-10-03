@@ -10,8 +10,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
   * [Stale Pull Requests](https://github.com/yui/yui3/pulls?direction=asc&page=1&sort=updated&state=open)
 
-* Next Week:
-  * Oct 3 - Clarence, Juan, and Caridy will be talking about Y.Storage and yui-db.
+
 
 
 ## Archive
