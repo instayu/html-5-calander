@@ -1,11 +1,10 @@
-
 ## App Framework Change History
 
 
 
 ### App
 
-* Added `req.aoo` which is a reference to the app instance.
+* Added `req.app` which is a reference to the app instance.
 
 ### Router
 
