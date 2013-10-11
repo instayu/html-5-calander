@@ -19,11 +19,15 @@ If you have topics you would like covered in the next Open Roundtable, please ed
  * [2013](https://github.com/yui/yui3/wiki/Open-Roundtable#2013)
  * [2012](https://github.com/yui/yui3/wiki/Open-Roundtable#2012)
 
+
+
 ### 2013
 
 #### October 10 2013
    * [Video Recording](http://www.youtube.com/watch?v=n1I_0NF4Cos)
    * [Meeting Notes](https://gist.github.com/triptych/6940118)
+
+[![Open Roundtable Oct 10 2013](http://img.youtube.com/vi/n1I_0NF4Cos/0.jpg)](http://www.youtube.com/watch?v=n1I_0NF4Cos)
 
 #### October 3 2013
    * [Video Recording](http://www.youtube.com/watch?v=-YLxWIVRse0)
