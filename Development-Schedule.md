@@ -16,7 +16,7 @@ Sprint 11 (next release)
 * **Nov 15, 2013:** [Code Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#code-freeze).
 * **Nov 20, 2013:** [Commit Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#commit-freeze) Pull Request Deadline.
 * **Nov 22, 2013:** [Commit Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#commit-freeze).
-* **Nov 26, 2013:** Stable Release.
+* **Nov 25, 2013:** Stable Release.
 
 
 Sprint 10 (3.13.0)
