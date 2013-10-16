@@ -199,6 +199,8 @@ If your pull request isn't approved, don't feel bad! Your contributions are stil
 
 ### Steps
 
+For alternate instructions, see https://github.com/yui/yui3/issues/916#issuecomment-25738494
+
 * Set up your environment as described above. You should have `yogi` installed and have a local clone of YUI on your development machine.
 
 * Go to the directory you want to build within YUI and just run `$ yogi build`. (`yogi` uses `shifter` under the hood.)
