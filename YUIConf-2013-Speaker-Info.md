@@ -9,7 +9,7 @@ There are 3 templates that you may choose to use for your YUIConf 2013 presentat
 
 ### Screen Resolution
 
-The resolution for the presentation screens is **1280 X 720**.
+The resolution for the presentation screens is **1280 x 720**.
 
 ### Speaker Practice Sessions
 
