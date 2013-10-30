@@ -18,9 +18,10 @@ Use "mile marker" slides. Summarize your progress along the way.
 ### Dark background, light text.
 
 Make sure your slides are readable in a darkened room and on video:
-   * White text on a black background is easiest to read.
-   * Avoid low contrast text (i.e., gray text on black background).
-   * Keep fonts bigger than 24pt, ideally 30pt or bigger.
+   
+* White text on a black background is easiest to read.
+* Avoid low contrast text (i.e., gray text on black background).
+* Keep fonts bigger than 24pt, ideally 30pt or bigger.
 
 ### Big fonts, few words.
 Repeat: Keep fonts bigger than 24pt, ideally 30pt or bigger.
