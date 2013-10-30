@@ -1,4 +1,4 @@
-Thank you so much for speaking at YUIConf 2013! Important information about templates, tips, and dry runs is provided below. 
+Thank you so much for speaking at YUIConf 2013! Important information about templates, tips, and practice sessions is provided below. 
 
 ### Presentation Templates
 
