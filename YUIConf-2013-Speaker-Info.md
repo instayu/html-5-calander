@@ -87,18 +87,21 @@ The [yui-assets](https://github.com/yui/yui-assets) project on GitHub contains v
    * https://github.com/yui/yui-assets/tree/master/logos
 
 ### Image Resources
-   * http://www.flickr.com/commons/
-   * http://presentationzen.blogs.com/presentationzen/2006/01/where_can_you_f.html
+   
+* http://www.flickr.com/commons/
+* http://presentationzen.blogs.com/presentationzen/2006/01/where_can_you_f.html
 
 ### Very Good Reads
-   * http://www.garrreynolds.com/Presentation/prep.html
-   * http://www.garrreynolds.com/Presentation/delivery.html
-   * http://www.garrreynolds.com/Presentation/slides.html
-   * http://www.lifehack.org/articles/technology/10-tips-for-more-effective-powerpoint-presentations.html
-   * http://presentationzen.blogs.com/presentationzen/2005/09/whats_good_powe.html
+
+* http://www.garrreynolds.com/Presentation/prep.html
+* http://www.garrreynolds.com/Presentation/delivery.html
+* http://www.garrreynolds.com/Presentation/slides.html
+* http://www.lifehack.org/articles/technology/10-tips-for-more-effective-powerpoint-presentations.html
+* http://presentationzen.blogs.com/presentationzen/2005/09/whats_good_powe.html
 
 ### More Reading
-   * http://presentationzen.blogs.com/presentationzen/2005/10/make_your_next_.html
-   * http://presentationzen.blogs.com/presentationzen/2005/07/in_may_tom_pete.html
-   * http://www.presentationzen.com/presentationzen/2006/06/the_power_of_th.html
-   * http://entrepreneurs.about.com/cs/marketing/a/7sinsofppt.htm
+
+* http://presentationzen.blogs.com/presentationzen/2005/10/make_your_next_.html
+* http://presentationzen.blogs.com/presentationzen/2005/07/in_may_tom_pete.html
+* http://www.presentationzen.com/presentationzen/2006/06/the_power_of_th.html
+* http://entrepreneurs.about.com/cs/marketing/a/7sinsofppt.htm
