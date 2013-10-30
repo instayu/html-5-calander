@@ -1,3 +1,12 @@
+## Presentation Templates
+
+There are 3 possible templates that you can use for your presentation:
+* [Keynote](https://drive.google.com/file/d/0B125RpMEgV12ZW03X3Fya3VZaUE/edit?usp=sharing) (16x9)
+* [Powerpoint](https://drive.google.com/file/d/0B125RpMEgV12X2I0TFhsdzQxOTQ/edit?usp=sharing) (16x9)
+* [HTML - upstage](https://github.com/reid/upstage) 
+
+
+
 ##Tips for Giving a Great Tech Talk
 These are the tips we've amassed over the years on how to give a great tech talk.
 
