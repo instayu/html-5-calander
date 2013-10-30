@@ -5,7 +5,7 @@ Thank you so much for speaking at YUIConf 2013! Important information about temp
 There are 3 templates that you may choose to use for your YUIConf 2013 presentation:
 * [Keynote](https://drive.google.com/file/d/0B125RpMEgV12ZW03X3Fya3VZaUE/edit?usp=sharing) (16x9)
 * [Powerpoint](https://drive.google.com/file/d/0B125RpMEgV12X2I0TFhsdzQxOTQ/edit?usp=sharing) (16x9)
-* [HTML - upstage](https://github.com/reid/upstage) 
+* [HTML - upstage](https://github.com/reid/upstage) (coming soon with YUICONF 2013 assets)
 
 ### Screen Resolution
 
