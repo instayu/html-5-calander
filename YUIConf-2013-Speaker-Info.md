@@ -1,13 +1,13 @@
 Thank you so much for speaking at YUIConf 2013! Important information about templates, tips, and dry runs is provided below. 
 
-## Presentation Templates
+### Presentation Templates
 
 There are 3 possible templates that you can use for your YUIConf 2013 presentation:
 * [Keynote](https://drive.google.com/file/d/0B125RpMEgV12ZW03X3Fya3VZaUE/edit?usp=sharing) (16x9)
 * [Powerpoint](https://drive.google.com/file/d/0B125RpMEgV12X2I0TFhsdzQxOTQ/edit?usp=sharing) (16x9)
 * [HTML - upstage](https://github.com/reid/upstage) 
 
-## Screen Resolution
+### Screen Resolution
 
 The resolution for the presentation screens is **1280X720**.
 
