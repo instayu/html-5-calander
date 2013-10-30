@@ -11,6 +11,10 @@ There are 3 possible templates that you can use for your YUIConf 2013 presentati
 
 The resolution for the presentation screens is **1280X720**.
 
+### Speaker Practice Sessions
+
+Please plan to attend at least one practice session for your presentation. We have assigned meeting rooms and times in this document: https://docs.google.com/document/d/1PtVGYEOhFrFFstOQH0DPdCyvSgzwoQsVcjK6EN_FInE/edit#
+
 ##Tips for Giving a Great Tech Talk
 These are the tips we've amassed over the years on how to give a great tech talk.
 
