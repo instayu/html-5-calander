@@ -1,5 +1,5 @@
-# YUIConf Speaker Info
-Tips for Giving a Great Tech Talk
+
+
 #Tips for Giving a Great Tech Talk
 These are the tips we've amassed over the years on how to give a great tech talk.
 
