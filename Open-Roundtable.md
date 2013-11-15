@@ -23,6 +23,10 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2013
 
+#### November 14, 2013
+   *[Video Recording](http://www.youtube.com/watch?v=xMadFKruB6M)
+   *[Meeting Notes](https://gist.github.com/triptych/7490239)
+
 #### October 24, 2013
    * [Video Recording](http://www.youtube.com/watch?v=JJkLRRLFrks)
    * [Meeting Notes](https://gist.github.com/triptych/7146270)
