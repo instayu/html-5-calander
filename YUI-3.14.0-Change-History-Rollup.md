@@ -51,7 +51,7 @@
 ## DataTable Change History
 
 * Added datatable-keynav module, providing keyboard navigation within the
-  datatable. [Pull Request #596]
+  datatable. [Pull Request [#596](https://github.com/yui/yui3/issues/596) ]
 
 
 
@@ -73,8 +73,8 @@
 ## Graphics Change History
 
 
-* #1398 Address issue in which canvas implementation does not position itself properly within a container.
-* #1375 Address issue in which path does not stroke correctly in svg implementation. 
+* [#1398](https://github.com/yui/yui3/issues/1398) Address issue in which canvas implementation does not position itself properly within a container.
+* [#1375](https://github.com/yui/yui3/issues/1375) Address issue in which path does not stroke correctly in svg implementation. 
 
 ## Node Change History
 
@@ -83,7 +83,7 @@
 
 ## Number Change History
 
-* PR #587 Parse can now parse all the formats that format can produce.
+* PR [#587](https://github.com/yui/yui3/issues/587) Parse can now parse all the formats that format can produce.
 
 ## Promise Change History
 
