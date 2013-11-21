@@ -1,4 +1,3 @@
-
 ## AutoComplete Change History
 
 * Fixed: List doesn't close when it loses focus after scrolling.
@@ -54,10 +53,7 @@
 * Added datatable-keynav module, providing keyboard navigation within the
   datatable. [Pull Request #596]
 
-## Date Change History
 
-
-* Method parse is now able to reverse most of the output format can produce.
 
 ## Rich Text Editor Change History
 
@@ -80,6 +76,11 @@
 * #1398 Address issue in which canvas implementation does not position itself properly within a container.
 * #1375 Address issue in which path does not stroke correctly in svg implementation. 
 
+## Node Change History
+
+* Addition of `paste`, `copy`, and `cut` to Node's event white list. ([#1350][]: @JetFault)
+[#1350]: https://github.com/yui/yui3/issues/1350
+
 ## Number Change History
 
 * PR #587 Parse can now parse all the formats that format can produce.
@@ -93,6 +94,20 @@
 
 
 * Added Y.ArrayAssert.isUnique()
+
+
+## Transition Change History
+
+* Fixed issue where `toggleView` did not correctly work when passed only an effect name. ([#1258][] @ezequiel)
+
+[#1258]: https://github.com/yui/yui3/issues/1258
+
+
+## Uploader Utility (New) Change History
+
+* Addition of XHR's `responseText` to `uploaderror`'s event payload. ([#1356][]: @semafor)
+
+[#1356]: https://github.com/yui/yui3/issues/1356
 
 ## YUI Core Change History
 
