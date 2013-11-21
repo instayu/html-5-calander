@@ -23,13 +23,13 @@
 ## Charts Change History
 
 
-* #1402 Remove Y.Clone.
-* #1393 Address issue in which Candlestick series does not render nicely when there are large amounts of data.
-* #1392 Address issue in which histograms threw errors when groupMarkers is set to true and there is missing data.
-* #1391 Address issue in which histograms did not always size and space properly when used outside of charts app.
-* #1390 Address issue in which histograms threw error when used independently from the larger chart app.
-* #1382 Address issue in which first/last values were removed from axis when hideFirstMajorUnit/hideLastMajorUnit were set to true.
-* #1381 Added ability to offset labels in Axis.
+* [#1402](https://github.com/yui/yui3/issues/1402) Remove Y.Clone.
+* [#1393](https://github.com/yui/yui3/issues/1393) Address issue in which Candlestick series does not render nicely when there are large amounts of data.
+* [#1392](https://github.com/yui/yui3/issues/1392) Address issue in which histograms threw errors when groupMarkers is set to true and there is missing data.
+* [#1391](https://github.com/yui/yui3/issues/1391) Address issue in which histograms did not always size and space properly when used outside of charts app.
+* [#1390](https://github.com/yui/yui3/issues/1390) Address issue in which histograms threw error when used independently from the larger chart app.
+* [#1382](https://github.com/yui/yui3/issues/1382) Address issue in which first/last values were removed from axis when hideFirstMajorUnit/hideLastMajorUnit were set to true.
+* [#1381](https://github.com/yui/yui3/issues/1381) Added ability to offset labels in Axis.
 
 ## CSS Grids Change History
 
