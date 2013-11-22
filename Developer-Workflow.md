@@ -247,16 +247,16 @@ The build inside of the `cdn` directory is the version of YUI which you'll find 
 
 ```bash
 npm install -g combohandler
-NODE_ENV=production combohandler --port 8000 --root /yui3:/path/to/yui3
+NODE_ENV=production combohandler --port 8000 --root /yui3:/path/to/yui3/release/version/cdn
 ```
 
 And in your app
 
 ```html
-<script src="http://example.com/combo/yui3?build/yui/yui-min.js"></script>
+<script src="http://example.com:8000/yui3?build/yui/yui-min.js"></script>
 <script>
 YUI({
-    comboBase: 'http://example.com:8000/combo/yui3?',
+    comboBase: 'http://example.com:8000/yui3?',
     combine  : true,
     root     : 'build/'
 }).use('node', function (Y) {
