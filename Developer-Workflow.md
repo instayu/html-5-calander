@@ -205,33 +205,65 @@ If your pull request isn't approved, don't feel bad! Your contributions are stil
 
 1. Clone YUI.
 
-    git clone -b <branch_name> https://github.com/yui/yui3.git
+```bash
+git clone -b <branch_name> https://github.com/yui/yui3.git
+```
 
 2. Navigate to the cloned yui3 directory.
 
-    cd yui3
+```bash
+cd yui3
+```
 
 3. Install the modules YUI requires:
 
-    npm i
+```bash
+npm i
+```
 
 4. Make sure you have grunt-cli installed globally.
 
-    npm i -g grunt-cli
+```bash
+npm i -g grunt-cli
+```
 
 5. Install grunt locally.
 
-    npm i grunt
+```bash
+npm i grunt
+```
 
 6. Run the release task.
 
-    grunt release
+```bash
+grunt release
+```
 
 After all of this is said and done, there should be a newly created `release` directory. This directory contains the few kinds of builds in which YUI deploys.
 
 The build inside of the `cdn` directory is the version of YUI which you'll find on Yahoo's CDN.
 
-7. Loader spec, TBD
+7. Setup [Combo Loader](https://github.com/rgrove/combohandler)
+
+```bash
+npm install -g combohandler
+NODE_ENV=production combohandler --port 8000 --root /yui3:/path/to/yui3
+```
+
+And in your app
+
+```html
+<script src="http://example.com/combo/yui3?build/yui/yui-min.js"></script>
+<script>
+YUI({
+    comboBase: 'http://example.com:8000/combo/yui3?',
+    combine  : true,
+    root     : 'build/'
+}).use('node', function (Y) {
+    // YUI will now automatically load modules from the custom combo handler.
+});
+</script>
+```
 
 #### Old instructions
 
