@@ -203,37 +203,37 @@ If your pull request isn't approved, don't feel bad! Your contributions are stil
 
 [If you really wish to build YUI exactly the way the team does it before deploying it on the CDN, here are the steps:](https://github.com/yui/yui3/issues/916#issuecomment-25738494)
 
-1. Clone YUI.
+1) Clone YUI.
 
 ```bash
 git clone -b <branch_name> https://github.com/yui/yui3.git
 ```
 
-2. Navigate to the cloned yui3 directory.
+2) Navigate to the cloned yui3 directory.
 
 ```bash
 cd yui3
 ```
 
-3. Install the modules YUI requires:
+3) Install the modules YUI requires:
 
 ```bash
 npm i
 ```
 
-4. Make sure you have grunt-cli installed globally.
+4) Make sure you have grunt-cli installed globally.
 
 ```bash
 npm i -g grunt-cli
 ```
 
-5. Install grunt locally.
+5) Install grunt locally.
 
 ```bash
 npm i grunt
 ```
 
-6. Run the release task.
+6) Run the release task.
 
 ```bash
 grunt release
@@ -243,7 +243,7 @@ After all of this is said and done, there should be a newly created `release` di
 
 The build inside of the `cdn` directory is the version of YUI which you'll find on Yahoo's CDN.
 
-7. Setup [Combo Loader](https://github.com/rgrove/combohandler)
+7) Setup [Combo Loader](https://github.com/rgrove/combohandler)
 
 ```bash
 npm install -g combohandler
