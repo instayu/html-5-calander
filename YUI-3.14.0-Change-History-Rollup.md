@@ -84,7 +84,7 @@
 ## Number Change History
 
 * PR [#587](https://github.com/yui/yui3/issues/587) Parse can now parse all the formats that format can produce.
-* * Fixed regression in `Y.Number.parse` with strings containing only
+* Fixed regression in `Y.Number.parse` with strings containing only
   whitespace. ([#1427](https://github.com/yui/yui3/pull/1427))
 
 ## Promise Change History
