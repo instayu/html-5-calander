@@ -1,5 +1,9 @@
 Every Thursday at 2pm PT, the YUI Team joins the community in a Google Hangout that is broadcast via YouTube.  If you'd like to watch live, [@yuilibrary](http://twitter.com/yuilibrary) will tweet out the link just before the broadcast begins, and you'll also find a link on [our YouTube channel](http://www.youtube.com/user/yuilibrary).  If you'd like to participate, add [yuilibrary](https://plus.google.com/105600930514903803035/) to your circles on G+ then ping "triptych" in the #yui channel on Freenode IRC. You can also watch previous broadcasts via the [archive](https://github.com/yui/yui3/wiki/Open-Roundtable#archive) below.
 
+## Guest Speakers
+
+Want to talk at the YUI Open Roundtable? Click [this link](http://goo.gl/ahMbvR) to send us your information!
+
 ## Upcoming
 If you have topics you would like covered in the next Open Roundtable, please edit this page to add a bullet point to the list of topics to discuss.
 * Demos
