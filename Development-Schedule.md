@@ -8,7 +8,7 @@ YUI Project Calendar links:
 
 <a id="next-release"></a>
 
-Sprint 11 (next release)
+Sprint 11 (3.14.0)
 --------------------------
 * **Oct 16, 2013:** Sprint Begins.
 * **Nov 6-7, 2013:** YUIConf 2013!
