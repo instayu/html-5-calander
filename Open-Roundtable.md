@@ -9,7 +9,6 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * Interview with YUI community member Mayumi
   * (Got something on your mind? Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
@@ -21,18 +20,34 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ## Archive
 
  * YouTube YUI Open Roundtable [Playlist](http://www.youtube.com/playlist?list=PLjKP9DUCzZoqAKuA4P4llDb6BR_obpeV_&feature=view_all) 
+ * [2014](https://github.com/yui/yui3/wiki/Open-Roundtable#2014)
  * [2013](https://github.com/yui/yui3/wiki/Open-Roundtable#2013)
  * [2012](https://github.com/yui/yui3/wiki/Open-Roundtable#2012)
 
 
+### 2014
 
+### January 9, 2013
+   * [Video Recording](https://www.youtube.com/watch?v=yUZV1XDVHFc)
+
+[![Open Roundtable October 24, 2013](http://img.youtube.com/vi/yUZV1XDVHFc/0.jpg)](http://www.youtube.com/watch?v=yUZV1XDVHFc)
+   
 ### 2013
+
+#### December 19, 2013
+   * [Video Recording](https://www.youtube.com/watch?v=JiNlE8DOdus)
+
+#### December 12, 2013
+   * [Video Recording](https://www.youtube.com/watch?v=CohFGWYueGo)
+
+#### December 5, 2013
+   * [Video Recording](https://www.youtube.com/watch?v=lJPdH8xmOWg)
 
 #### November 21, 2013
    * [Video Recording](http://www.youtube.com/watch?v=8TRXJAa_eP0)
    * [Meeting Notes](https://gist.github.com/triptych/7604969)
 
-[![Open Roundtable October 24, 2013](http://img.youtube.com/vi/8TRXJAa_eP0/0.jpg)](http://www.youtube.com/watch?v=8TRXJAa_eP0)
+[![Open Roundtable October 24, 2013](http://img.youtube.com/vi/8TRXJAa_eP0/1.jpg)](http://www.youtube.com/watch?v=8TRXJAa_eP0)
 
 
 #### November 14, 2013
