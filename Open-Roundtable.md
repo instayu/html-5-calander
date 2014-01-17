@@ -28,40 +28,46 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
+### January 16, 2013
+   * [Video Recording](https://www.youtube.com/watch?v=u3w9Eq4W-54)
+
+[![Open Roundtable January 16, 2013](http://img.youtube.com/vi/u3w9Eq4W-54/0.jpg)](http://www.youtube.com/watch?v=u3w9Eq4W-54)
+
+
 ### January 9, 2013
    * [Video Recording](https://www.youtube.com/watch?v=yUZV1XDVHFc)
 
-[![Open Roundtable October 24, 2013](http://img.youtube.com/vi/yUZV1XDVHFc/0.jpg)](http://www.youtube.com/watch?v=yUZV1XDVHFc)
+[![Open Roundtable January 9, 2013](http://img.youtube.com/vi/yUZV1XDVHFc/1.jpg)](http://www.youtube.com/watch?v=yUZV1XDVHFc)
    
 ### 2013
 
 #### December 19, 2013
    * [Video Recording](https://www.youtube.com/watch?v=JiNlE8DOdus)
 
-[![Open Roundtable October 24, 2013](http://img.youtube.com/vi/JiNlE8DOdus/1.jpg)](http://www.youtube.com/watch?v=JiNlE8DOdus)
+[![Open Roundtable December 19, 2013](http://img.youtube.com/vi/JiNlE8DOdus/1.jpg)](http://www.youtube.com/watch?v=JiNlE8DOdus)
 
 #### December 12, 2013
    * [Video Recording](https://www.youtube.com/watch?v=CohFGWYueGo)
 
-[![Open Roundtable October 24, 2013](http://img.youtube.com/vi/CohFGWYueGo/1.jpg)](http://www.youtube.com/watch?v=CohFGWYueGo)
+[![Open Roundtable December 12, 2013](http://img.youtube.com/vi/CohFGWYueGo/1.jpg)](http://www.youtube.com/watch?v=CohFGWYueGo)
 
 #### December 5, 2013
    * [Video Recording](https://www.youtube.com/watch?v=lJPdH8xmOWg)
 
-[![Open Roundtable October 24, 2013](http://img.youtube.com/vi/lJPdH8xmOWg/1.jpg)](http://www.youtube.com/watch?v=lJPdH8xmOWg)
+[![Open Roundtable December 5, 2013](http://img.youtube.com/vi/lJPdH8xmOWg/1.jpg)](http://www.youtube.com/watch?v=lJPdH8xmOWg)
 
 #### November 21, 2013
    * [Video Recording](http://www.youtube.com/watch?v=8TRXJAa_eP0)
    * [Meeting Notes](https://gist.github.com/triptych/7604969)
 
-[![Open Roundtable October 24, 2013](http://img.youtube.com/vi/8TRXJAa_eP0/1.jpg)](http://www.youtube.com/watch?v=8TRXJAa_eP0)
+[![Open Roundtable November 21, 2013](http://img.youtube.com/vi/8TRXJAa_eP0/1.jpg)](http://www.youtube.com/watch?v=8TRXJAa_eP0)
 
 
 #### November 14, 2013
    * [Video Recording](http://www.youtube.com/watch?v=xMadFKruB6M)
    * [Meeting Notes](https://gist.github.com/triptych/7490239)
 
-[![Open Roundtable October 24, 2013](http://img.youtube.com/vi/xMadFKruB6M/1.jpg)](http://www.youtube.com/watch?v=xMadFKruB6M)
+[![Open Roundtable November 14, 2013](http://img.youtube.com/vi/xMadFKruB6M/1.jpg)](http://www.youtube.com/watch?v=xMadFKruB6M)
 
 
 #### October 24, 2013
