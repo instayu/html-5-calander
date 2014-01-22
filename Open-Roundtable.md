@@ -9,7 +9,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * This week's Open Roundtable features Marco Asbreuk @itsasbreuk talking about his MVC message-system gallery modules.
+  * This week's Open Roundtable features Tilo Mitra and Eric Ferraiuolo on responsive design, css, and javascript tooling with PureCSS.
   * (Got something on your mind? Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
