@@ -28,10 +28,15 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
+### January 30, 2013
+   *[Video Recording](https://www.youtube.com/watch?v=AXcbJ-U_WDU)
+
+[![Open Roundtable January 23, 2013](http://img.youtube.com/vi/AXcbJ-U_WDU/0.jpg)](http://www.youtube.com/watch?v=AXcbJ-U_WDU)
+
 ### January 23, 2013 
    * [Video Recording](https://www.youtube.com/watch?v=t4w3e-JRXy0)
 
-[![Open Roundtable January 23, 2013](http://img.youtube.com/vi/t4w3e-JRXy0/0.jpg)](http://www.youtube.com/watch?v=t4w3e-JRXy0)
+[![Open Roundtable January 23, 2013](http://img.youtube.com/vi/t4w3e-JRXy0/1.jpg)](http://www.youtube.com/watch?v=t4w3e-JRXy0)
 
 ### January 16, 2013
    * [Video Recording](https://www.youtube.com/watch?v=u3w9Eq4W-54)
