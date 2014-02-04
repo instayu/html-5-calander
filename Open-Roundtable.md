@@ -9,7 +9,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * This week's Open Roundtable features Tilo Mitra and Eric Ferraiuolo on responsive design, css, and javascript tooling with Pure CSS.
+  * This week's Open Roundtable features @Tivac from @arenanet.
   * (Got something on your mind? Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
@@ -28,10 +28,15 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
+### January 23, 2013 
+   * [Video Recording](https://www.youtube.com/watch?v=t4w3e-JRXy0)
+
+[![Open Roundtable January 23, 2013](http://img.youtube.com/vi/t4w3e-JRXy0/0.jpg)](http://www.youtube.com/watch?v=t4w3e-JRXy0)
+
 ### January 16, 2013
    * [Video Recording](https://www.youtube.com/watch?v=u3w9Eq4W-54)
 
-[![Open Roundtable January 16, 2013](http://img.youtube.com/vi/u3w9Eq4W-54/0.jpg)](http://www.youtube.com/watch?v=u3w9Eq4W-54)
+[![Open Roundtable January 16, 2013](http://img.youtube.com/vi/u3w9Eq4W-54/1.jpg)](http://www.youtube.com/watch?v=u3w9Eq4W-54)
 
 
 ### January 9, 2013
