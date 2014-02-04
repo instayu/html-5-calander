@@ -104,6 +104,8 @@ We reserve the right to one day fail builds on lint errors.
 
 At the end of Code Freeze day (11:59 PM in Sunnyvale), development branches `dev-master` and `dev-3.x` will be frozen so we can make the determination on whether to cut a 3.CURRENT.NEXT release or a 3.NEXT release. A release branch will be created off the chosen development branch in preparation for release, and then all development branches will be unfrozen for continued development.
 
+**Note**: for releases intended to test a certain feature or solicit feedback, they will be labeled "beta". This replaces the old "pr" naming strategy. For example "3.13.0-beta-1". For releases intended to be a final candidate, they are labeled using "rc". For example "3.13.0-rc-1".
+
 ## Important Milestones
 
 ### Pull Request Milestones
