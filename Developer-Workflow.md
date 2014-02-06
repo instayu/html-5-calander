@@ -4,7 +4,9 @@ If you are new to contributing to YUI, [Contribute.md](https://github.com/yui/yu
 
 This document explains YUI's branching strategy and developer workflow for making and submitting contributions to the project.
 
-This document assumes you already have Git installed and working. If you don't, see [Tutorial: Set Up Your Git Environment](http://yuilibrary.com/yui/docs/tutorials/git/) for more info. (GitHub also has some great [guides](http://guides.github.com/) if you are new to Git.) Also be sure to [sign our CLA](http://yuilibrary.com/contribute/cla/), if you haven't already, before you contribute to YUI. 
+This document assumes you already have Git installed and working. If you don't, see [Tutorial: Set Up Your Git Environment](http://yuilibrary.com/yui/docs/tutorials/git/) for more info. (GitHub also has some great [guides](http://guides.github.com/) if you are new to Git.) 
+
+Also be sure to [sign our CLA](http://yuilibrary.com/contribute/cla/), if you haven't already, before you contribute to YUI. 
 
 
 
