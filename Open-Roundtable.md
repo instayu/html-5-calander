@@ -9,7 +9,6 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * This week's Open Roundtable features @Tivac from @arenanet.
   * (Got something on your mind? Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
@@ -28,26 +27,36 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
-### January 30, 2013
+### February 13, 2014
+   *[Video Recording](https://www.youtube.com/watch?v=4XhtP5arLHE)
+
+[![Open Roundtable February 13, 2014](http://img.youtube.com/vi/4XhtP5arLHE/0.jpg)](http://www.youtube.com/watch?v=4XhtP5arLHE)
+
+### February 6, 2014
+   *[Video Recording](https://www.youtube.com/watch?v=s9BQta07N_A)
+
+[![Open Roundtable February 6, 2014](http://img.youtube.com/vi/s9BQta07N_A/1.jpg)](http://www.youtube.com/watch?v=s9BQta07N_A)
+
+### January 30, 2014
    *[Video Recording](https://www.youtube.com/watch?v=AXcbJ-U_WDU)
 
-[![Open Roundtable January 23, 2013](http://img.youtube.com/vi/AXcbJ-U_WDU/0.jpg)](http://www.youtube.com/watch?v=AXcbJ-U_WDU)
+[![Open Roundtable January 23, 2014](http://img.youtube.com/vi/AXcbJ-U_WDU/1.jpg)](http://www.youtube.com/watch?v=AXcbJ-U_WDU)
 
-### January 23, 2013 
+### January 23, 2014 
    * [Video Recording](https://www.youtube.com/watch?v=t4w3e-JRXy0)
 
-[![Open Roundtable January 23, 2013](http://img.youtube.com/vi/t4w3e-JRXy0/1.jpg)](http://www.youtube.com/watch?v=t4w3e-JRXy0)
+[![Open Roundtable January 23, 2014](http://img.youtube.com/vi/t4w3e-JRXy0/1.jpg)](http://www.youtube.com/watch?v=t4w3e-JRXy0)
 
-### January 16, 2013
+### January 16, 2014
    * [Video Recording](https://www.youtube.com/watch?v=u3w9Eq4W-54)
 
 [![Open Roundtable January 16, 2013](http://img.youtube.com/vi/u3w9Eq4W-54/1.jpg)](http://www.youtube.com/watch?v=u3w9Eq4W-54)
 
 
-### January 9, 2013
+### January 9, 2014
    * [Video Recording](https://www.youtube.com/watch?v=yUZV1XDVHFc)
 
-[![Open Roundtable January 9, 2013](http://img.youtube.com/vi/yUZV1XDVHFc/1.jpg)](http://www.youtube.com/watch?v=yUZV1XDVHFc)
+[![Open Roundtable January 9, 2014](http://img.youtube.com/vi/yUZV1XDVHFc/1.jpg)](http://www.youtube.com/watch?v=yUZV1XDVHFc)
    
 ### 2013
 
