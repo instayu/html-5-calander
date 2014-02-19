@@ -1,0 +1,117 @@
+
+## App Framework Change History
+
+
+
+* __[!]__ Refactored `ModelSync.Local` to use a different, more readable
+  storage system. This new storage system is backwards-incompatible with
+  the old storage system. However, the API remains the same and no application
+  code needs to be changed unless you want to maintain the data that is
+  present in `localStorage` today. ([#1597][])
+
+## Calendar Change History
+
+
+
+
+* Fix calendar to use `visibility:inherit` instead of `visibility:visible`, for compatibility with overlays. ([#1627][]: @jafl)
+* Fix an issue when Feb 1st is Saturday Mar 2nd appears to be selectable. ([#1559][]: @shunner)
+
+[#1627]: https://github.com/yui/yui3/issues/1627
+[#1559]: https://github.com/yui/yui3/issues/1559
+
+## Date Change History
+
+* Roll back to 3.13.0
+
+## Drag and Drop Change History
+
+* Fix a bug that doesn't fire `drop:hit` event. ([#1573][]: @hacklschorsch)
+* Prevent the default page action when starting a `gesturemove` event. This
+  fixes browsers that select the text when dragging. ([#1557][]: @andrewnicols)
+
+[#1573]: https://github.com/yui/yui3/issues/1573
+[#1557]: https://github.com/yui/yui3/issues/1557
+
+## DOM Change History
+
+
+
+
+* [#1603][]: Set a node value to an empty string setting to null. [Ryuichi Okumura]
+* [#1469][]: Fix a bug with setStyle() cannot set an opacity to 1. [Ryuichi Okumura]
+
+[#1603]: https://github.com/yui/yui3/issues/1603
+[#1469]: https://github.com/yui/yui3/issues/1469
+
+## Event Infrastructure Change History
+
+
+
+
+* Reduced categories of certain noisy log events in the `event` module and added
+  categories for those that were missing some. ([#1605][]: @andrewnicols)
+
+* Fixed the `event.returnValue is deprecated` warning in chrome. ([#1460][]: @zhiyelee)
+
+[#1605]: https://github.com/yui/yui3/issues/1605
+[#1460]: https://github.com/yui/yui3/issues/1460
+
+## Promise Change History
+
+
+
+
+* Remove `Promise.resolve` and rename `Promise.cast` to `Promise.resolve` as per
+  the last TC39 decision.
+
+## YUI Test Change History
+
+
+
+
+* Added test.next(fn) which returns a callback that automatically
+  resumes asynchronous tests.
+
+## Timers Change History
+
+
+
+
+* Import `asap.js` as the underlying implementation of `Y.soon`. This changes
+  slightly the semantics of `Y.soon`: tasks scheduled during the flushing of
+  asap's queue are pushed to the end of the queue and not scheduled to a new
+  tick.
+
+## Widget Modality Change History
+
+
+
+
+* Fixed a bug where the widget would focus before it was actually rendered,
+  leading to a jump in the window position. ([#1636][]: @andrewnicols)
+
+[#1636]: https://github.com/yui/yui3/pull/1636
+
+## YUI Core Change History
+
+
+
+
+* Added `Y.require()` for importing ES6 modules. It's similar to `Y.use()` but
+  it follow the following signature:
+
+```js
+YUI().require('some-es6-module', function (Y, imports) {
+  var foo = imports['some-es6-module'].foo;
+});
+```
+* Set default `logLevel` to `info` if missing or not a real category.
+  ([#1610][]: @andrewnicols)
+* Fixed value of `this` inside ES6 module definitions.
+
+* Fixed UA detection in recent versions of the Amazon Silk browser.
+  ([#1576][]: @adinardi)
+
+[#1576]: https://github.com/yui/yui3/pull/1576
+[#1610]: https://github.com/yui/yui3/pull/1610
