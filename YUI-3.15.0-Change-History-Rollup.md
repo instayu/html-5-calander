@@ -25,8 +25,8 @@
 
 ## Charts Change History
 
-* #1480 Address issue in which _maxSize property was not updated for single series histogram. 
-* #1632 Add labelFormat attribute to CategoryAxisBase and CategoryAxis.
+* [#1480][] Address issue in which _maxSize property was not updated for single series histogram. 
+* [#1632][] Add labelFormat attribute to CategoryAxisBase and CategoryAxis.
 
 [#1480]: https://github.com/yui/yui3/pull/1480/
 [#1632]: https://github.com/yui/yui3/pull/1632/
@@ -45,8 +45,6 @@
 [#1557]: https://github.com/yui/yui3/issues/1557
 
 ## DOM Change History
-
-
 
 
 * [#1603][]: Set a node value to an empty string setting to null. [Ryuichi Okumura]
@@ -70,8 +68,8 @@
 
 ## Graphics Change History
 
-* #1543 Parse rgba value into color string and opacity value for vml fill and stroke. 
-* #1566 Addressed issue with path chaining in canvas implementation of graphics. 
+* [#1543][] Parse rgba value into color string and opacity value for vml fill and stroke. 
+* [#1566][] Addressed issue with path chaining in canvas implementation of graphics. 
 
 [#1543]: https://github.com/yui/yui3/pull/1543/
 [#1566]: https://github.com/yui/yui3/pull/1566/
