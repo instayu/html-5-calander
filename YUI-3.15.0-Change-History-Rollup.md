@@ -1,4 +1,3 @@
-
 ## App Framework Change History
 
 
@@ -59,11 +58,8 @@
 
 ## Promise Change History
 
-
-
-
-* Remove `Promise.resolve` and rename `Promise.cast` to `Promise.resolve` as per
-  the last TC39 decision.
+ * Deprecated `resolver.then` in favor of `resolver._addCallbacks`.
+ * Added new methods following the new emerging ES6 standard for promises. This includes `promise.catch`, `Promise.all`, `Promise.race`, `Promise.resolve` and `Promise.reject`.
 
 ## YUI Test Change History
 
