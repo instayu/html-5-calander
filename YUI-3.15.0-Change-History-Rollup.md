@@ -23,6 +23,11 @@
 [#1627]: https://github.com/yui/yui3/issues/1627
 [#1559]: https://github.com/yui/yui3/issues/1559
 
+## Charts Change History
+
+* #1480 Address issue in which _maxSize property was not updated for single series histogram. 
+* #1632 Add labelFormat attribute to CategoryAxisBase and CategoryAxis.
+
 ## Date Change History
 
 * Roll back to 3.13.0
@@ -59,6 +64,11 @@
 
 [#1605]: https://github.com/yui/yui3/issues/1605
 [#1460]: https://github.com/yui/yui3/issues/1460
+
+## Graphics Change History
+
+* #1543 Parse rgba value into color string and opacity value for vml fill and stroke. 
+* #1566 Addressed issue with path chaining in canvas implementation of graphics. 
 
 ## Loader Change History
 
