@@ -28,6 +28,9 @@
 * #1480 Address issue in which _maxSize property was not updated for single series histogram. 
 * #1632 Add labelFormat attribute to CategoryAxisBase and CategoryAxis.
 
+[#1480]: https://github.com/yui/yui3/pull/1480/
+[#1632]: https://github.com/yui/yui3/pull/1632/
+
 ## Date Change History
 
 * Roll back to 3.13.0
@@ -69,6 +72,16 @@
 
 * #1543 Parse rgba value into color string and opacity value for vml fill and stroke. 
 * #1566 Addressed issue with path chaining in canvas implementation of graphics. 
+
+[#1543]: https://github.com/yui/yui3/pull/1543/
+[#1566]: https://github.com/yui/yui3/pull/1566/
+
+## IO Change History
+
+* Fixed an issue in `io-upload-iframe` where an attempt to reset the attributes of the `form` element could have occured on a `form` that no longer existed on the page. ([#1465][]: @andrewnicols)
+
+[#1465]: https://github.com/yui/yui3/pull/1465/
+
 
 ## Loader Change History
 
