@@ -8,6 +8,10 @@
   code needs to be changed unless you want to maintain the data that is
   present in `localStorage` today. ([#1597][])
 
+* Fixed an issue where `history-hash-ie` loaded on non-IE browsers. ([#1613][]: @ezequiel)
+
+[#1613]: https://github.com/yui/yui3/pull/1613
+
 ## Calendar Change History
 
 
@@ -55,6 +59,12 @@
 
 [#1605]: https://github.com/yui/yui3/issues/1605
 [#1460]: https://github.com/yui/yui3/issues/1460
+
+## Loader Change History
+
+* Optimization of the `calculate` method, which now utilizes a topological sort (a variation of a depth first search) to generate a valid dependency order. ([#1606][]: @ezequiel)
+
+[#1606]: https://github.com/yui/yui3/pull/1606
 
 ## Promise Change History
 
