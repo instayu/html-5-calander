@@ -11,6 +11,7 @@
 * Fixed an issue where `history-hash-ie` loaded on non-IE browsers. ([#1613][]: @ezequiel)
 
 [#1613]: https://github.com/yui/yui3/pull/1613
+[#1597]: https://github.com/yui/yui3/pull/1613
 
 ## Attribute Change History
 
