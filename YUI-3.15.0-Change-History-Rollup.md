@@ -12,9 +12,12 @@
 
 [#1613]: https://github.com/yui/yui3/pull/1613
 
+## Attribute Change History
+
+* Fixed an issue that caused `reset()` to fail when resetting an attribute called `'length'`.
+
+
 ## Calendar Change History
-
-
 
 
 * Fix calendar to use `visibility:inherit` instead of `visibility:visible`, for compatibility with overlays. ([#1627][]: @jafl)
