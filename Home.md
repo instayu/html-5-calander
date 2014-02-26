@@ -22,6 +22,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ### 3.15.0 
 
+* [GitHub release page](https://github.com/yui/yui3/releases/tag/v3.15.0)
 * [Release announcement](http://www.yuiblog.com/blog/2014/02/26/yui-3-15-0-released/)
 * [[YUI 3.15.0 Change History Rollup]]
 * [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.15.0/build/yui/yui-min.js)
