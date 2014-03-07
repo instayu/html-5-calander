@@ -8,7 +8,16 @@ YUI Project Calendar links:
 
 <a id="next-release"></a>
 
-Sprint 12 
+Sprint 13
+--------------------------
+* **March 11, 2014:** Sprint Begins.
+* **March 25, 2014:** [Code Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#code-freeze) Pull Request Deadline.
+* **March 28, 2014:** [Code Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#code-freeze).
+* **April 1, 2014:** [Commit Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#commit-freeze) Pull Request Deadline.
+* **April 4, 2014:** [Commit Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#commit-freeze).
+* **April 13, 2014:** Stable Release.
+
+Sprint 12 (3.15.0)
 --------------------------
 * **Jan 28, 2014:** Sprint Begins.
 * **Feb 11, 2014:** [Code Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#code-freeze) Pull Request Deadline.
