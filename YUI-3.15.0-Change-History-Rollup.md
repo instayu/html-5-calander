@@ -12,12 +12,9 @@
 
 [#1613]: https://github.com/yui/yui3/pull/1613
 
-## Attribute Change History
-
-* Fixed an issue that caused `reset()` to fail when resetting an attribute called `'length'`.
-
-
 ## Calendar Change History
+
+
 
 
 * Fix calendar to use `visibility:inherit` instead of `visibility:visible`, for compatibility with overlays. ([#1627][]: @jafl)
@@ -69,7 +66,7 @@
 [#1605]: https://github.com/yui/yui3/issues/1605
 [#1460]: https://github.com/yui/yui3/issues/1460
 
-
+## Event Infrastructure Change History
 
 * Added support for W3C Pointer events in the `tap` event. This fixes an issue in IE11 where the `type` of pointer event objects was changed from `MSPointerDown` to `pointerdown` to comply with their proposed W3C standard.
 
