@@ -29,10 +29,28 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
+
+### March 6, 2014 - YUI In the Wild #8 with Andy Earnshaw on Intl.js
+   *[Video Recording](https://www.youtube.com/watch?v=mGhwjzFD7RQ)
+
+[![Open Roundtable March 6, 2014](http://img.youtube.com/vi/4XhtP5arLHE/0.jpg)](https://www.youtube.com/watch?v=mGhwjzFD7RQ)
+
+### February 27, 2014 - YUI In the Wild #7 with Andrew Nicols of Moodle
+   *[Video Recording](https://www.youtube.com/watch?v=JYj1GE8aT08)
+
+[![Open Roundtable February 27, 2014](http://img.youtube.com/vi/JYj1GE8aT08/1.jpg)](https://www.youtube.com/watch?v=JYj1GE8aT08)
+
+### February 20, 2014 - YUI in the Wild #6 with Daniel Stockman from Zillow on D3
+   *[Video Recording](https://www.youtube.com/watch?v=aUsAtkbDuBM)
+
+[![Open Roundtable February 20, 2014](http://img.youtube.com/vi/aUsAtkbDuBM/1.jpg)](https://www.youtube.com/watch?v=aUsAtkbDuBM)
+
+
+
 ### February 13, 2014 - Drew Folta and Intl for Modown
    *[Video Recording](https://www.youtube.com/watch?v=4XhtP5arLHE)
 
-[![Open Roundtable February 13, 2014](http://img.youtube.com/vi/4XhtP5arLHE/0.jpg)](http://www.youtube.com/watch?v=4XhtP5arLHE)
+[![Open Roundtable February 13, 2014](http://img.youtube.com/vi/4XhtP5arLHE/1.jpg)](http://www.youtube.com/watch?v=4XhtP5arLHE)
 
 ### February 6, 2014
    *[Video Recording](https://www.youtube.com/watch?v=s9BQta07N_A)
