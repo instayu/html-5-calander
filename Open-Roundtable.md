@@ -33,7 +33,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ### March 6, 2014 - YUI In the Wild #8 with Andy Earnshaw on Intl.js
    *[Video Recording](https://www.youtube.com/watch?v=mGhwjzFD7RQ)
 
-[![Open Roundtable March 6, 2014](http://img.youtube.com/vi/4XhtP5arLHE/0.jpg)](https://www.youtube.com/watch?v=mGhwjzFD7RQ)
+[![Open Roundtable March 6, 2014](http://img.youtube.com/vi/mGhwjzFD7RQ/0.jpg)](https://www.youtube.com/watch?v=mGhwjzFD7RQ)
 
 ### February 27, 2014 - YUI In the Wild #7 with Andrew Nicols of Moodle
    *[Video Recording](https://www.youtube.com/watch?v=JYj1GE8aT08)
