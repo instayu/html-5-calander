@@ -29,15 +29,8 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 * [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.15.0.zip)
 * [npm module](https://npmjs.org/package/yui)
 
-### 3.14.1
-
-* [Release announcement](http://www.yuiblog.com/blog/2013/12/18/yui-3-14-1-released/)
-* [[YUI 3.14.1 Change History Rollup]]
-* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.14.1/build/yui/yui-min.js)
-* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.14.1.zip)
-* [npm module](https://npmjs.org/package/yui)
-
 ## Past Releases
+* [[YUI 3.14.1 Change History Rollup]]
 * [[YUI 3.14.0 Change History Rollup]]
 * [[YUI 3.13.0 Change History Rollup]]
 * [[YUI 3.12.0 Change History Rollup]]
