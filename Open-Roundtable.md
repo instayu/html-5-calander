@@ -9,8 +9,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * Seth Bertalotto on custom Yeoman generators
-  * Tilo Mitra on the latest on PureCSS.
+  * Lauren Tsung on "Working with Designers"
   * (Got something on your mind? Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
