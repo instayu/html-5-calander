@@ -28,6 +28,13 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
+### March 20. 2014 - YUI Open Roundtable with Lauren Tsung on Working with Designers
+   *[Video Recording](https://www.youtube.com/watch?v=WiNt_XMGrwA)
+
+[![Open Roundtable March 13, 2014](http://img.youtube.com/vi/WiNt_XMGrwA/0.jpg)](https://www.youtube.com/watch?v=WiNt_XMGrwA)
+
+
+
 ### March 13, 2014 - YUI Open Roundtable with Seth Bertalotto,Tilo Mitra, and Eric Ferraiuolo
    *[Video Recording](https://www.youtube.com/watch?v=RrqVlLeOl-I)
 
