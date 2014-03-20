@@ -38,7 +38,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ### March 13, 2014 - YUI Open Roundtable with Seth Bertalotto,Tilo Mitra, and Eric Ferraiuolo
    *[Video Recording](https://www.youtube.com/watch?v=RrqVlLeOl-I)
 
-[![Open Roundtable March 13, 2014](http://img.youtube.com/vi/RrqVlLeOl-I/0.jpg)](https://www.youtube.com/watch?v=RrqVlLeOl-I)
+[![Open Roundtable March 13, 2014](http://img.youtube.com/vi/RrqVlLeOl-I/1.jpg)](https://www.youtube.com/watch?v=RrqVlLeOl-I)
 
 ### March 6, 2014 - YUI In the Wild #8 with Andy Earnshaw on Intl.js
    *[Video Recording](https://www.youtube.com/watch?v=mGhwjzFD7RQ)
