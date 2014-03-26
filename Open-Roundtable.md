@@ -9,7 +9,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * Lauren Tsung on "Working with Designers"
+  * Steven Olmsted - a node.js + YUI powered telephony platform for building robust voice interfaces and collecting realtime data and Transit-realtime: A YAF web-app allowing transit agencies to enter, manage, and disseminate information about transit services.
   * (Got something on your mind? Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
