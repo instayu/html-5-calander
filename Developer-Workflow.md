@@ -279,6 +279,7 @@ YUI({
 
 * For help with `yogi` just run `yogi --help`
 * Make sure you are always running the latest version of `yogi`
+* `yogi build` just builds the tree. `grunt build` runs `yogi build` and `npm i`.
  
 ## Reviewers & committers: How to review and merge a PR
 
