@@ -160,3 +160,9 @@
   from their `requires` list. ([#1737][]: @ezequiel)
 
 [#1737]: https://github.com/yui/yui3/issues/1737
+
+
+## YUI Test Change History
+
+* `test.next` now takes an optional argument to change the value
+  of `this` inside the callback.
