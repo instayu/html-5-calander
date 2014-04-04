@@ -8,7 +8,7 @@
   semantics as the route dispatching process. Now all registered param handlers
   will process any named params, giving them a chance to validate and reject a
   param value. This will make the `hasRoute()` method an effective way to check
-  whether a router will dispatch to a route handler for a given URL. ([#][])
+  whether a router will dispatch to a route handler for a given URL. ([#1722][])
 
 
 [#1722]: https://github.com/yui/yui3/issues/1722
