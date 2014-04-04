@@ -9,7 +9,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * Tilo Mitra
+  * Juan Dopazo - Promises.
   * (Got something on your mind? Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
@@ -28,52 +28,57 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
-#### March 27, 2014 - YUI in the Wild #9 with Steven Olmsted of IBI Group
-   *[Video Recording](https://www.youtube.com/watch?v=vgh4uqQVu2o)
+#### April 3, 2014 - YUI Open Roundtable with Tilo Mitra on YUI and Hammer.js 
+   * [Video Recording](https://www.youtube.com/watch?v=468EeSYmf6Q)
 
-[![Open Roundtable March 27, 2014](http://img.youtube.com/vi/vgh4uqQVu2o/0.jpg)](https://www.youtube.com/watch?v=vgh4uqQVu2o)
+[![Open Roundtable April 3, 2014](http://img.youtube.com/vi/468EeSYmf6Q/0.jpg)](https://www.youtube.com/watch?v=468EeSYmf6Q)
+
+#### March 27, 2014 - YUI in the Wild #9 with Steven Olmsted of IBI Group
+   * [Video Recording](https://www.youtube.com/watch?v=vgh4uqQVu2o)
+
+[![Open Roundtable March 27, 2014](http://img.youtube.com/vi/vgh4uqQVu2o/1.jpg)](https://www.youtube.com/watch?v=vgh4uqQVu2o)
 
 #### March 20. 2014 - YUI Open Roundtable with Lauren Tsung on Working with Designers
-   *[Video Recording](https://www.youtube.com/watch?v=WiNt_XMGrwA)
+   * [Video Recording](https://www.youtube.com/watch?v=WiNt_XMGrwA)
 
 [![Open Roundtable March 20, 2014](http://img.youtube.com/vi/WiNt_XMGrwA/1.jpg)](https://www.youtube.com/watch?v=WiNt_XMGrwA)
 
 
 
 #### March 13, 2014 - YUI Open Roundtable with Seth Bertalotto,Tilo Mitra, and Eric Ferraiuolo
-   *[Video Recording](https://www.youtube.com/watch?v=RrqVlLeOl-I)
+   * [Video Recording](https://www.youtube.com/watch?v=RrqVlLeOl-I)
 
 [![Open Roundtable March 13, 2014](http://img.youtube.com/vi/RrqVlLeOl-I/1.jpg)](https://www.youtube.com/watch?v=RrqVlLeOl-I)
 
 #### March 6, 2014 - YUI In the Wild #8 with Andy Earnshaw on Intl.js
-   *[Video Recording](https://www.youtube.com/watch?v=mGhwjzFD7RQ)
+   * [Video Recording](https://www.youtube.com/watch?v=mGhwjzFD7RQ)
 
 [![Open Roundtable March 6, 2014](http://img.youtube.com/vi/mGhwjzFD7RQ/1.jpg)](https://www.youtube.com/watch?v=mGhwjzFD7RQ)
 
 #### February 27, 2014 - YUI In the Wild #7 with Andrew Nicols of Moodle
-   *[Video Recording](https://www.youtube.com/watch?v=JYj1GE8aT08)
+   * [Video Recording](https://www.youtube.com/watch?v=JYj1GE8aT08)
 
 [![Open Roundtable February 27, 2014](http://img.youtube.com/vi/JYj1GE8aT08/1.jpg)](https://www.youtube.com/watch?v=JYj1GE8aT08)
 
 #### February 20, 2014 - YUI in the Wild #6 with Daniel Stockman from Zillow on D3
-   *[Video Recording](https://www.youtube.com/watch?v=aUsAtkbDuBM)
+   * [Video Recording](https://www.youtube.com/watch?v=aUsAtkbDuBM)
 
 [![Open Roundtable February 20, 2014](http://img.youtube.com/vi/aUsAtkbDuBM/1.jpg)](https://www.youtube.com/watch?v=aUsAtkbDuBM)
 
 
 
 #### February 13, 2014 - Drew Folta and Intl for Modown
-   *[Video Recording](https://www.youtube.com/watch?v=4XhtP5arLHE)
+   * [Video Recording](https://www.youtube.com/watch?v=4XhtP5arLHE)
 
 [![Open Roundtable February 13, 2014](http://img.youtube.com/vi/4XhtP5arLHE/1.jpg)](http://www.youtube.com/watch?v=4XhtP5arLHE)
 
 #### February 6, 2014
-   *[Video Recording](https://www.youtube.com/watch?v=s9BQta07N_A)
+   * [Video Recording](https://www.youtube.com/watch?v=s9BQta07N_A)
 
 [![Open Roundtable February 6, 2014](http://img.youtube.com/vi/s9BQta07N_A/1.jpg)](http://www.youtube.com/watch?v=s9BQta07N_A)
 
 #### January 30, 2014
-   *[Video Recording](https://www.youtube.com/watch?v=AXcbJ-U_WDU)
+   * [Video Recording](https://www.youtube.com/watch?v=AXcbJ-U_WDU)
 
 [![Open Roundtable January 23, 2014](http://img.youtube.com/vi/AXcbJ-U_WDU/1.jpg)](http://www.youtube.com/watch?v=AXcbJ-U_WDU)
 
