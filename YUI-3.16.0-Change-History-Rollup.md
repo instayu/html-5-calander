@@ -131,7 +131,7 @@
 
 
 
-* [#1486][]: Fix a issue that zIndex of 999 is kept on dragged item (Paul B.)
+* [#1486][]: Fix a issue that zIndex of 999 is kept on dragged item (Paul B. @popox)
 
 [#1486]: https://github.com/yui/yui3/pull/1486
 
