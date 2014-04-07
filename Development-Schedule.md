@@ -15,7 +15,7 @@ Sprint 13
 * **March 28, 2014:** [Code Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#wiki-code-freeze).
 * **April 1, 2014:** [Commit Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#wiki-commit-freeze) Pull Request Deadline.
 * **April 4, 2014:** [Commit Freeze](https://github.com/yui/yui3/wiki/Contribution-Standards#wiki-commit-freeze).
-* **April 8, 2014:** Stable Release.
+* **April 10, 2014:** Stable Release.
 
 Sprint 12 (3.15.0)
 --------------------------
