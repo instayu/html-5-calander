@@ -22,14 +22,15 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ### 3.15.0 
 
-* [GitHub release page](https://github.com/yui/yui3/releases/tag/v3.15.0)
-* [Release announcement](http://www.yuiblog.com/blog/2014/02/26/yui-3-15-0-released/)
-* [[YUI 3.15.0 Change History Rollup]]
-* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.15.0/build/yui/yui-min.js)
-* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.15.0.zip)
+* [GitHub release page](https://github.com/yui/yui3/releases/tag/v3.16.0)
+* [Release announcement](http://www.yuiblog.com/blog/2014/04/10/yui-3-16-0-released/)
+* [[YUI 3.16.0 Change History Rollup]]
+* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.16.0/build/yui/yui-min.js)
+* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.16.0.zip)
 * [npm module](https://npmjs.org/package/yui)
 
 ## Past Releases
+* [[YUI 3.15.0 Change History Rollup]]
 * [[YUI 3.14.1 Change History Rollup]]
 * [[YUI 3.14.0 Change History Rollup]]
 * [[YUI 3.13.0 Change History Rollup]]
