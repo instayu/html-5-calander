@@ -20,7 +20,7 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Current Release
 
-### 3.15.0 
+### 3.16.0 
 
 * [GitHub release page](https://github.com/yui/yui3/releases/tag/v3.16.0)
 * [Release announcement](http://www.yuiblog.com/blog/2014/04/10/yui-3-16-0-released/)
