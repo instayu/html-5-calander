@@ -30,7 +30,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ### April 10 2014 - YUI Open Roundtable with Juan Dopazo on Promises, ES6 Modules and YUI 
    * [Video Recording](https://www.youtube.com/watch?v=SO6hbFIgQlg)
 
-[![Open Roundtable April 3, 2014](http://img.youtube.com/vi/468EeSYmf6Q/0.jpg)](https://www.youtube.com/watch?v=SO6hbFIgQlg)
+[![Open Roundtable April 10, 2014](http://img.youtube.com/vi/SO6hbFIgQlg/0.jpg)](https://www.youtube.com/watch?v=SO6hbFIgQlg)
 
 #### April 3, 2014 - YUI Open Roundtable with Tilo Mitra on YUI and Hammer.js 
    * [Video Recording](https://www.youtube.com/watch?v=468EeSYmf6Q)
