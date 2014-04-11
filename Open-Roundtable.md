@@ -9,7 +9,6 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 * Demos
   * (Got something to show off?  Add an item here + your name.)
 * Discussion / Q&A
-  * Juan Dopazo - Promises.
   * (Got something on your mind? Add an item here + your name.)
 * Review
   * [Up For Grabs](https://github.com/yui/yui3/issues?direction=desc&labels=up+for+grabs&page=1&sort=created&state=open)
@@ -28,10 +27,15 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
+### April 10 2014 - YUI Open Roundtable with Juan Dopazo on Promises, ES6 Modules and YUI 
+   * [Video Recording](https://www.youtube.com/watch?v=SO6hbFIgQlg)
+
+[![Open Roundtable April 3, 2014](http://img.youtube.com/vi/468EeSYmf6Q/0.jpg)](https://www.youtube.com/watch?v=SO6hbFIgQlg)
+
 #### April 3, 2014 - YUI Open Roundtable with Tilo Mitra on YUI and Hammer.js 
    * [Video Recording](https://www.youtube.com/watch?v=468EeSYmf6Q)
 
-[![Open Roundtable April 3, 2014](http://img.youtube.com/vi/468EeSYmf6Q/0.jpg)](https://www.youtube.com/watch?v=468EeSYmf6Q)
+[![Open Roundtable April 3, 2014](http://img.youtube.com/vi/468EeSYmf6Q/1.jpg)](https://www.youtube.com/watch?v=468EeSYmf6Q)
 
 #### March 27, 2014 - YUI in the Wild #9 with Steven Olmsted of IBI Group
    * [Video Recording](https://www.youtube.com/watch?v=vgh4uqQVu2o)
