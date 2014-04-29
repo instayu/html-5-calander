@@ -353,7 +353,7 @@ Immediately verify that the automated build passes all unit tests and no breakag
 
 ## References
 * [shifter](http://yui.github.com/shifter) - Build YUI and Gallery - `sudo npm -g i shifter`
-* [yogi](http://yui.github.com/yogi) - ( **Y**UI **o**r **G**allery **I**nterface )  Command Line Helper for YUI - `sudo npm -g i yogi`
+* [yogi](http://yui.github.com/yogi) - ( YUI or Gallery Interface )  Command Line Helper for YUI - `sudo npm -g i yogi`
 * [Grover](http://github.com/davglass/grover) - YUITest wrapper for PhantomJS - `sudo npm -g i grover` (Make sure you have [phantomjs](http://phantomjs.org/) installed)
 * [Yeti](http://yeti.cx/) - Automates tests written with QUnit, Jasmine, Mocha with Expect.js assertions, Dojo Objective Harness, or YUI Test.
 * [UglifyJS](https://github.com/mishoo/UglifyJS) - Used to compress js
