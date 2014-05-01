@@ -41,6 +41,12 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 [![Open Roundtable April 24, 2014](http://img.youtube.com/vi/rFRFaimPTuk/1.jpg)](https://www.youtube.com/watch?v=rFRFaimPTuk)
 
+
+#### April 17, 2014 - YUI Open Roundtable - Learning Paths with Andrew Wooldridge  
+   * [Video Recording](https://www.youtube.com/watch?v=b7ASnMSofYA)
+
+[![Open Roundtable April 17, 2014](http://img.youtube.com/vi/b7ASnMSofYA/1.jpg)](https://www.youtube.com/watch?v=b7ASnMSofYA)
+
 #### April 10 2014 - YUI Open Roundtable with Juan Dopazo on Promises, ES6 Modules and YUI 
    * [Video Recording](https://www.youtube.com/watch?v=SO6hbFIgQlg)
 
