@@ -27,7 +27,16 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
-### April 10 2014 - YUI Open Roundtable with Juan Dopazo on Promises, ES6 Modules and YUI 
+#### May 1, 2014 - YUI Open Roundtable with Caridy Patino and Eric Ferraiuolo on the Modown Project 
+   * [Video Recording](https://www.youtube.com/watch?v=0Mp0ff9uTUY)
+   * Links:
+      * https://gist.github.com/ericf/6133744
+      * https://github.com/imalberto/photonews
+      * https://github.com/joyent/node/issues/6371#issuecomment-41347745
+
+[![Open Roundtable April 3, 2014](http://img.youtube.com/vi/0Mp0ff9uTUY/0.jpg)](https://www.youtube.com/watch?v=0Mp0ff9uTUY)
+
+#### April 10 2014 - YUI Open Roundtable with Juan Dopazo on Promises, ES6 Modules and YUI 
    * [Video Recording](https://www.youtube.com/watch?v=SO6hbFIgQlg)
 
 (No Thumbnail available)
