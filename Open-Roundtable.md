@@ -37,7 +37,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 [![Open Roundtable May 1, 2014](http://img.youtube.com/vi/0Mp0ff9uTUY/0.jpg)](https://www.youtube.com/watch?v=0Mp0ff9uTUY)
 
 #### April 24, 2014 - YUI In The Wild #10 with Marco Asbreuk on Using Promises in Mojito 
-    * [Video Recording](https://www.youtube.com/watch?v=rFRFaimPTuk)
+   * [Video Recording](https://www.youtube.com/watch?v=rFRFaimPTuk)
 
 [![Open Roundtable April 24, 2014](http://img.youtube.com/vi/rFRFaimPTuk/1.jpg)](https://www.youtube.com/watch?v=rFRFaimPTuk)
 
