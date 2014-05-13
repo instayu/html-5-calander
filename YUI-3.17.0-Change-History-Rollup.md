@@ -53,3 +53,10 @@
 ### App Change History
  
 * [ModelSync.Local] Stringify hash before saving.
+
+### Tree Change History
+
+* Fixed: Moving a node to another tree fails when that node has children.
+  ([#1689][]: @rgrove)
+
+[#1689]: https://github.com/yui/yui3/issues/1689
