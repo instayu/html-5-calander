@@ -1,17 +1,17 @@
-## Calendar Change History
+### Calendar Change History
 
 
 * [#1752][]: Y.Calendar.selectDates fails when passed the maximumDate with minutes/seconds (@mairatma)
 
 [#1752]: https://github.com/yui/yui3/pull/1752
 
-## DOM Change History
+### DOM Change History
 
 * [#1709][]: Move out of color-base module (@okuryu)
 
 [#1709]: https://github.com/yui/yui3/pull/1709
 
-## YUI Loader Change History
+### YUI Loader Change History
 
 * Add support for optional dependencies. These dependencies are conditionally
   loaded but each dependency is responsible for determining the result of the
@@ -32,24 +32,24 @@
   }).use('bar', ...);
 ```
 
-## MenuNav Change History
+### MenuNav Change History
 
 * Correct check for IE UserAgent [Andrew Nicols]
 
-## Drag And Drop Change History
+### Drag And Drop Change History
 
 * Check whether the mousedown event belonged to a valid drop target before preventing default [Andrew Nicols]
 
 
-## Rich Text Editor Change History
+### Rich Text Editor Change History
 
 * [Editor]: Increase specificity of when to set cursor.
 * [Editor]: Check for the existence of `node` before removing it.
 
-## Node Change History
+### Node Change History
 
 * [Node]: Add `invalid` to event whitelist.
 
-## App Change History
+### App Change History
  
 * [ModelSync.Local] Stringify hash before saving.
