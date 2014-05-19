@@ -5,8 +5,12 @@
 ### Calendar Change History
 
 * [#1752][]: Y.Calendar.selectDates fails when passed the maximumDate with minutes/seconds (@mairatma)
+* [#1749][]: Fix left/right margin issues with dual-panel calendars
+* [#1724][]: Fix issues with `calendarnavigation` month :hover and disabled styles
 
 [#1752]: https://github.com/yui/yui3/pull/1752
+[#1749]: https://github.com/yui/yui3/pull/1749
+[#1724]: https://github.com/yui/yui3/pull/1724
 
 ### Drag And Drop Change History
 
