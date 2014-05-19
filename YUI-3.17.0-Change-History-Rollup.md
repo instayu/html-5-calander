@@ -1,15 +1,27 @@
-### Calendar Change History
+### App Framework Change History
+ 
+* [ModelSync.Local] Stringify hash before saving.
 
+### Calendar Change History
 
 * [#1752][]: Y.Calendar.selectDates fails when passed the maximumDate with minutes/seconds (@mairatma)
 
 [#1752]: https://github.com/yui/yui3/pull/1752
+
+### Drag And Drop Change History
+
+* Check whether the mousedown event belonged to a valid drop target before preventing default [Andrew Nicols]
 
 ### DOM Change History
 
 * [#1709][]: Move out of color-base module (@okuryu)
 
 [#1709]: https://github.com/yui/yui3/pull/1709
+
+### Rich Text Editor Change History
+
+* [Editor]: Increase specificity of when to set cursor.
+* [Editor]: Check for the existence of `node` before removing it.
 
 ### YUI Loader Change History
 
@@ -34,25 +46,13 @@
 
 ### MenuNav Change History
 
-* Correct check for IE UserAgent [Andrew Nicols]
+* [#1772][] Correct check for IE UserAgent to make sure that the browser is IE. (Andrew Nicols)
 
-### Drag And Drop Change History
-
-* Check whether the mousedown event belonged to a valid drop target before preventing default [Andrew Nicols]
-
-
-### Rich Text Editor Change History
-
-* [Editor]: Increase specificity of when to set cursor.
-* [Editor]: Check for the existence of `node` before removing it.
+[#1772]: https://github.com/yui/yui3/pull/1772
 
 ### Node Change History
 
 * [Node]: Add `invalid` to event whitelist.
-
-### App Change History
- 
-* [ModelSync.Local] Stringify hash before saving.
 
 ### Tree Change History
 
