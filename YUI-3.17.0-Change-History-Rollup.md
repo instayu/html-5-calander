@@ -10,7 +10,9 @@
 
 ### Drag And Drop Change History
 
-* Check whether the mousedown event belonged to a valid drop target before preventing default [Andrew Nicols]
+* [#1778][] Filter mousedown events to check that they belong to a valid drop target. (Andrew Nicols)
+
+[#1778]: https://github.com/yui/yui3/pull/1778
 
 ### DOM Change History
 
