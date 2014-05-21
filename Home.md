@@ -20,13 +20,14 @@ YUI's official [user guides](http://yuilibrary.com/yui/docs/guides/) and [API do
 
 ## Current Release
 
-### 3.16.0 
+### 3.17.1 
 
-* [GitHub release page](https://github.com/yui/yui3/releases/tag/v3.16.0)
-* [Release announcement](http://www.yuiblog.com/blog/2014/04/10/yui-3-16-0-released/)
-* [[YUI 3.16.0 Change History Rollup]]
-* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.16.0/build/yui/yui-min.js)
-* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.16.0.zip)
+* [GitHub release page](https://github.com/yui/yui3/releases/tag/v3.17.1)
+* [Release announcement](http://www.yuiblog.com/blog/2014/05/21/yui-3-17-1-released/)
+* [[YUI 3.17.0 Change History Rollup]] (short-lived release)
+* [[YUI 3.17.1 Change History Rollup]]
+* [Seed file on Yahoo!'s CDN](http://yui.yahooapis.com/3.17.1/build/yui/yui-min.js)
+* [Zip dist file](http://yui.zenfs.com/releases/yui3/yui_3.17.1.zip)
 * [npm module](https://npmjs.org/package/yui)
 
 ## Past Releases
