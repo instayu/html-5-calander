@@ -28,7 +28,7 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 ### 2014
 
 #### May 29, 2014 - YUI Open Roundtable with Clarence Leung on AppLinks
-   *[Video Recording](https://www.youtube.com/watch?v=WDeE0cMy6SE)
+   * [Video Recording](https://www.youtube.com/watch?v=WDeE0cMy6SE)
 
 [![Open Roundtable May 15, 2014](http://img.youtube.com/vi/WDeE0cMy6SE/0.jpg)](https://www.youtube.com/watch?v=WDeE0cMy6SE)
 
