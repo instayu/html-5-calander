@@ -27,10 +27,16 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
+#### May 22, 2014 - YUI In the Wild #11 with Simon Hojberg on ES6 Modules 
+   * [Video Recording](https://www.youtube.com/watch?v=-v0Up8OBTuk)
+
+[![Open Roundtable May 15, 2014](http://img.youtube.com/vi/v0Up8OBTuk/0.jpg)](https://www.youtube.com/watch?v=v0Up8OBTuk)
+
+
 #### May 15, 2014 - YUI Open Roundtable with Reid Burke on yo/tests and YUI
    * [Video Recording](https://www.youtube.com/watch?v=yyNVQDazzAM)
 
-[![Open Roundtable May 15, 2014](http://img.youtube.com/vi/yyNVQDazzAM/0.jpg)](https://www.youtube.com/watch?v=0Mp0ff9uTUY)
+[![Open Roundtable May 15, 2014](http://img.youtube.com/vi/yyNVQDazzAM/1.jpg)](https://www.youtube.com/watch?v=yyNVQDazzAM)
 
 
 #### May 1, 2014 - YUI Open Roundtable with Caridy Patino and Eric Ferraiuolo on the Modown Project 
