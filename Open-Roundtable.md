@@ -27,10 +27,15 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
+#### May 29, 2014 - YUI Open Roundtable with Clarence Leung on AppLinks
+   *[Video Recording](https://www.youtube.com/watch?v=WDeE0cMy6SE)
+
+[![Open Roundtable May 15, 2014](http://img.youtube.com/vi/WDeE0cMy6SE/0.jpg)](https://www.youtube.com/watch?v=WDeE0cMy6SE)
+
 #### May 22, 2014 - YUI In the Wild #11 with Simon Hojberg on ES6 Modules 
    * [Video Recording](https://www.youtube.com/watch?v=-v0Up8OBTuk)
 
-[![Open Roundtable May 15, 2014](http://img.youtube.com/vi/-v0Up8OBTuk/0.jpg)](https://www.youtube.com/watch?v=-v0Up8OBTuk)
+[![Open Roundtable May 15, 2014](http://img.youtube.com/vi/-v0Up8OBTuk/1.jpg)](https://www.youtube.com/watch?v=-v0Up8OBTuk)
 
 
 #### May 15, 2014 - YUI Open Roundtable with Reid Burke on yo/tests and YUI
