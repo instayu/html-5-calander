@@ -92,7 +92,7 @@ Graded Browser Support provides an inclusive definition of support and a framewo
 
 [Tim Berners-Lee](http://www.w3.org/People/domain?domain=Management#timbl%40w3.org), inventor of the World Wide Web and director of the [W3C](http://www.w3.org/), has said it best:
 
-"Anyone who slaps a 'this page is best viewed with Browser X' label on a Web page appears to be yearning for the bad old days, before the Web, when you had very little chance of reading a document written on another computer, another word processor, or another network."
+> "Anyone who slaps a 'this page is best viewed with Browser X' label on a Web page appears to be yearning for the bad old days, before the Web, when you had very little chance of reading a document written on another computer, another word processor, or another network."
 
 ## Updates Archive
 This page is the permanent home of the GBS strategy. Updates are publicized on the YUI Blog. You may always reference past updates on the blog via the links gathered here.
