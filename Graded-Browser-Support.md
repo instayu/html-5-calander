@@ -95,7 +95,7 @@ Graded Browser Support provides an inclusive definition of support and a framewo
 > "Anyone who slaps a 'this page is best viewed with Browser X' label on a Web page appears to be yearning for the bad old days, before the Web, when you had very little chance of reading a document written on another computer, another word processor, or another network."
 
 ## Updates Archive
-This page is the permanent home of the GBS strategy. Updates are publicized on the YUI Blog. You may always reference past updates on the blog via the links gathered here.
+This page is the permanent home of the GBS strategy. Updates are publicized on the [YUI Blog](http://yuiblog.com/). You may always reference past updates on the blog via the links gathered here.
 
 * [GBS Update, 2012-07-26](http://www.yuiblog.com/blog/2012/07/26/gbs-update-2012q3/)
 * [GBS Update, 2011-07-12](http://www.yuiblog.com/blog/2011/07/12/gbs-update/)
