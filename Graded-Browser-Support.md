@@ -1,3 +1,4 @@
+( The YUI Target Environments Matrix [is here](http://yuilibrary.com/yui/environments/))
 ## About the Browser Test Baseline and Operating Systems
 
 The Browser Test Baseline provides a baseline set of browsers that should be tested. It is designed to maximize coverage with limited testing resources by testing the smallest possible subset of browser combinations and leveraging implicit coverage from shared core browser engines. At the very least, all listed browsers should be tested in one operating system, in order to provide "baseline" coverage. Testing on multiple operating systems should be accommodated after all browsers have been verified with baseline coverage and should start with features that have known platform-specific issues. The test platforms should be chosen based on usage statistics and market trends.
