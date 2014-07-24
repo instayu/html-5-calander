@@ -97,12 +97,12 @@ Graded Browser Support provides an inclusive definition of support and a framewo
 ## Updates Archive
 This page is the permanent home of the GBS strategy. Updates are publicized on the YUI Blog. You may always reference past updates on the blog via the links gathered here.
 
-[GBS Update, 2012-07-26](http://www.yuiblog.com/blog/2012/07/26/gbs-update-2012q3/)
-[GBS Update, 2011-07-12](http://www.yuiblog.com/blog/2011/07/12/gbs-update/)
-[GBS Update, 2010-11-03](http://www.yuiblog.com/blog/2010/11/03/gbs-update-2010q4/)
-[GBS Update, 2010-02-16](http://www.yuiblog.com/blog/2010/02/16/gbs-update-2010q1/)
-[GBS Update, 2009-10-16](http://www.yuiblog.com/blog/2009/10/16/gbs-update-2009q4/)
-[GBS Update, 2009-07-02](http://yuiblog.com/blog/2009/07/02/gbs-update-20090702/)
-[GBS Update, 2009-01-28](http://yuiblog.com/blog/2009/01/28/gbs-update-20090128/)
-[GBS Update, 2008-07-03](http://yuiblog.com/blog/2008/07/03/gbs-update-20080703/)
-[GBS Update, 2008-02-19](http://yuiblog.com/blog/2008/02/19/gbs-update-20080219/)
+* [GBS Update, 2012-07-26](http://www.yuiblog.com/blog/2012/07/26/gbs-update-2012q3/)
+* [GBS Update, 2011-07-12](http://www.yuiblog.com/blog/2011/07/12/gbs-update/)
+* [GBS Update, 2010-11-03](http://www.yuiblog.com/blog/2010/11/03/gbs-update-2010q4/)
+* [GBS Update, 2010-02-16](http://www.yuiblog.com/blog/2010/02/16/gbs-update-2010q1/)
+* [GBS Update, 2009-10-16](http://www.yuiblog.com/blog/2009/10/16/gbs-update-2009q4/)
+* [GBS Update, 2009-07-02](http://yuiblog.com/blog/2009/07/02/gbs-update-20090702/)
+* [GBS Update, 2009-01-28](http://yuiblog.com/blog/2009/01/28/gbs-update-20090128/)
+* [GBS Update, 2008-07-03](http://yuiblog.com/blog/2008/07/03/gbs-update-20080703/)
+* [GBS Update, 2008-02-19](http://yuiblog.com/blog/2008/02/19/gbs-update-20080219/)
