@@ -1,3 +1,5 @@
+** Draft document. Still being edited **
+
 This tutorial walks you through how to set up Git on various platforms so you can be reading and writing YUI code in no time. Once your environment is set up, be sure to read Tutorial: Contribute Code to YUI to learn how to clone YUI source code to your local development environment, and submit a CLA to contribute to YUI.
 
 ## Install Git on Mac
