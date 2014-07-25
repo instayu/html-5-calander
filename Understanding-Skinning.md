@@ -63,7 +63,7 @@ Either statically by adding a <link> tag for each component to be skinned.
 
 ...or through YUI's built-in Loader infrastructure, by adding the following object literal to the YUI().use() statement in JavaScript. This makes an alternate skin become the default skin for the entire page.
 
-```javascript
+```html
 <script>
 YUI({ skin: 'night' }).use("...", function (Y) {
     ...
@@ -75,7 +75,7 @@ YUI({ skin: 'night' }).use("...", function (Y) {
 
 The "night" skin is designed to use a black or very dark background. Since skins do not override the background color of the page, you'll probably need to set that color in CSS on the whole page...
 
-```css
+```html
 <style>
     html {
         background-color: #000;
