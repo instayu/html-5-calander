@@ -27,10 +27,20 @@ If you have topics you would like covered in the next Open Roundtable, please ed
 
 ### 2014
 
+#### June 19, 2014 - Open Roundtable with Eduardo Lundgren from LifeRay on AlloyUI
+   * [Video Recording](https://www.youtube.com/watch?v=ImbaPJDo89k)
+
+[![Open Roundtable June 12, 2014](http://img.youtube.com/vi/ImbaPJDo89k/0.jpg)](https://www.youtube.com/watch?v=WDeE0cMy6SE)
+
+#### June 12, 2014 - YUI Open Roundtable with Julien Lecomte
+   * [Video Recording](https://www.youtube.com/watch?v=0q6JXh-YEl0)
+
+[![Open Roundtable June 12, 2014](http://img.youtube.com/vi/0q6JXh-YEl0/1.jpg)](https://www.youtube.com/watch?v=WDeE0cMy6SE)
+
 #### May 29, 2014 - YUI Open Roundtable with Clarence Leung on AppLinks
    * [Video Recording](https://www.youtube.com/watch?v=WDeE0cMy6SE)
 
-[![Open Roundtable May 15, 2014](http://img.youtube.com/vi/WDeE0cMy6SE/0.jpg)](https://www.youtube.com/watch?v=WDeE0cMy6SE)
+[![Open Roundtable May 15, 2014](http://img.youtube.com/vi/WDeE0cMy6SE/1.jpg)](https://www.youtube.com/watch?v=WDeE0cMy6SE)
 
 #### May 22, 2014 - YUI In the Wild #11 with Simon Hojberg on ES6 Modules 
    * [Video Recording](https://www.youtube.com/watch?v=-v0Up8OBTuk)
