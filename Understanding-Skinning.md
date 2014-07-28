@@ -1,7 +1,7 @@
 ## Using YUI Skins
 The default YUI skin is the "sam" skin. It was named in honor of Sam Lind, the designer who created it. CSS rules for skins are "namespaced" under contextual selectors based on the skin name, so the selector/class for the "sam" skin is "yui3-skin-sam". Here are some YUI widgets with the Sam skin applied. 
 
-(image pending)
+[[img/sam_w650.png]]
 
 You can apply a skin to the full document or just to specific regions or controls. To apply the "sam" skin to an entire page, add this class to your body element:
 
@@ -23,7 +23,7 @@ Since the "sam" skin is the YUI default, YUI will load all the assets required f
 
 An alternate, "night" skin, became available in YUI version 3.4.0. It's optimized for touch devices. The name "night" was chosen for this skin because it was designed for a black or dark background. 
 
-(image pending)
+[[img/night_w650.png]]
 
 ## Different Ways to Load Skin Files
 
@@ -63,7 +63,7 @@ Either statically by adding a <link> tag for each component to be skinned.
 
 ...or through YUI's built-in Loader infrastructure, by adding the following object literal to the YUI().use() statement in JavaScript. This makes an alternate skin become the default skin for the entire page.
 
-```javascript
+```html
 <script>
 YUI({ skin: 'night' }).use("...", function (Y) {
     ...
@@ -75,7 +75,7 @@ YUI({ skin: 'night' }).use("...", function (Y) {
 
 The "night" skin is designed to use a black or very dark background. Since skins do not override the background color of the page, you'll probably need to set that color in CSS on the whole page...
 
-```css
+```html
 <style>
     html {
         background-color: #000;
