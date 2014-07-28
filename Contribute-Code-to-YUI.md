@@ -1,6 +1,6 @@
 This tutorial assumes you already have `Git` installed and working. If you don't, see [Tutorial: Set Up Your Git Environment](http://yuilibrary.com/yui/docs/tutorials/git/) for more info, also be sure to [sign our CLA](http://yuilibrary.com/contribute/cla/) if you haven't already before you contribute to YUI.
 
-This tutorial explains how to set up your environment to make contributions and how to make individual pull requests.
+This tutorial explains how to [set up your environment](#inital-setup) to make contributions and how to [make individual pull requests](#contributing-changes).
 
 For more advanced information visit our Developer Workflow wiki on Github.
 
