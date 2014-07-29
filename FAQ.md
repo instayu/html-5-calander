@@ -1,19 +1,19 @@
 Not finding the answer you're looking for here? Check out the YUI developer forums, where thousands of YUI users and developers gather to discuss the library, or head over to the #yui IRC channel on freenode.net.
 
-* What is YUI?
-* Why YUI?
-* Where can I download YUI?
-* Does Yahoo's CDN support SSL?
-* I'm having trouble implementing YUI. Where can I get support or help?
-* Does YUI work in all web browsers?
-* What does it mean when a product or component is released as beta?
-* What does it mean when a YUI product or component is released as experimental?
-* How do I contribute a patch or a component to YUI?
-* Where is the YUI source code?
-* What are the -debug.js and -min.js versions of YUI build files?
-* Where can I go to learn more about the YUI roadmap and plans for future components?
-* How do I report a bug?
-* How is "YUI" pronounced?
+* [What is YUI?](#what-is-yui)
+* [Why YUI?](#why-yui)
+* [Where can I download YUI?](#where-can-i-download-yui)
+* [Does Yahoo's CDN support SSL?](#does-yahoos-cdn-support-ssl)
+* [I'm having trouble implementing YUI. Where can I get support or help?](#im-having-trouble-implementing-yui-where-can-i-get-support-or-help)
+* [Does YUI work in all web browsers?](#does-yui-work-in-all-web-browsers)
+* [What does it mean when a product or component is released as beta?](#what-does-it-mean-when-a-product-or-component-is-released-as-beta)
+* [What does it mean when a YUI product or component is released as experimental?](#what-does-it-mean-when-a-yui-product-or-component-is-released-as-experimental)
+* [How do I contribute a patch or a component to YUI?](#how-do-i-contribute-a-patch-or-a-component-to-yui)
+* [Where is the YUI source code?](#where-is-the-yui-source-code)
+* [What are the -debug.js and -min.js versions of YUI build files?](#what-are-the--debugjs-and--minjs-versions-of-yui-build-files)
+* [Where can I go to learn more about the YUI roadmap and plans for future components?](#where-can-i-go-to-learn-more-about-the-yui-roadmap-and-plans-for-future-components)
+* [How do I report a bug?](#how-do-i-report-a-bug)
+* [How is "YUI" pronounced?](#how-is-yui-pronounced)
 
 ## What is YUI?
 YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications. YUI is provided under a [BSD license](http://yuilibrary.com/license/) and is [available on GitHub](https://github.com/yui) for forking and contribution.
