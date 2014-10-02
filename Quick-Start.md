@@ -1,9 +1,8 @@
-
 ### 1. Copy and paste
 
 ```html
 // Put the YUI seed file on your page.
-<script src="http://yui.yahooapis.com/3.17.2/build/yui/yui-min.js"></script>
+<script src="http://yui.yahooapis.com/3.18.0/build/yui/yui-min.js"></script>
 ```
 
 The YUI seed file is an ultra-small bit of JavaScript that enables you to load any YUI component on your page.
