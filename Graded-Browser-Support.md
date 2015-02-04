@@ -37,13 +37,21 @@ While an inclusive definition of browser support is necessary, the support conti
 
 Before examining each grade, here are some characteristics useful for defining levels of support.
 
-Identified vs. Unknown There are over 10,000 browser brands, versions, and configurations and that number is growing. It is possible to group known browsers together.
+#### Identified vs. Unknown
 
-Capable vs. Incapable No two browsers have an identical implementation. However, it is possible to group browsers according to their support for most web standards.
+There are over 10,000 browser brands, versions, and configurations and that number is growing. It is possible to group known browsers together.
 
-Modern vs. Antiquated As newer browser versions are released, the relevancy of earlier versions decreases.
+#### Capable vs. Incapable
 
-Common vs. Rare There are thousands of browsers in use, but only a few dozen are widely used.
+No two browsers have an identical implementation. However, it is possible to group browsers according to their support for most web standards.
+
+#### Modern vs. Antiquated
+
+As newer browser versions are released, the relevancy of earlier versions decreases.
+
+#### Common vs. Rare
+
+There are thousands of browsers in use, but only a few dozen are widely used.
 
 ### Three Grades of Support
 
@@ -68,7 +76,7 @@ X-grade browsers are all browsers not designated as any other grade.
 
 **Summary:** X-grade browsers are assumed to be capable and modern. QA does not test, and bugs are not opened against X-grade browsers.
 
-####The Relationship Between A-grade and X-grade Support
+#### The Relationship Between A-grade and X-grade Support
 
 A bit more on the relationship between A-grade and X-grade browsers: One unexpected instance of X-grade is a newly released version of an A-grade browser. Since thorough QA testing is an A-grade requirement, a brand-new (and therefore untested) browser does not qualify as an A-grade browser. This example highlights a strength of the Graded Browser Support approach. The only practical difference between A-grade and X-grade browsers is that QA actively tests against A-grade browsers.
 
