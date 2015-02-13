@@ -1,9 +1,5 @@
 Not finding the answer you're looking for here? Check out the YUI developer forums, where thousands of YUI users and developers gather to discuss the library, or head over to the #yui IRC channel on freenode.net.
 
-Q> How can we use YUI in Our application and how to integrated in asp.net
-
-
-
 * [What is YUI?](#what-is-yui)
 * [Why YUI?](#why-yui)
 * [Where can I download YUI?](#where-can-i-download-yui)
