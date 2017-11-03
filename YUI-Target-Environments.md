@@ -9,17 +9,14 @@
         <td align="center">10.0</td>
         <td align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
-
     <tr>
         <th align="left">Chrome †</th>
         <td colspan="6" align="center">Latest stable</td>
     </tr>
-
     <tr>
         <th align="left">Firefox †</th>
         <td colspan="6" align="center">Latest stable</td>
     </tr>
-
     <tr>
         <th align="left">Safari</th>
         <td align="center">iOS 5.†</td>
@@ -27,21 +24,17 @@
         <td align="center">iOS 7.†</td>
         <td align="center">Safari 6.1 <br> (OS X 10.8)</td>
         <td colspan="2" align="center">Safari 7.† <br> (OS X 10.9)</td>
-
     </tr>
-
     <tr>
         <th align="left">Android</th>
         <td align="center">2.3.†</td>
         <td colspan="5" align="center">4.†</td>
     </tr>
-
     <tr>
         <th align="left">Node.js*</th>
         <td align="center">0.8.†</td>
         <td colspan="5" align="center">0.10.†</td>
     </tr>
-
     <tr>
         <th align="left">Windows (Native)</th>
         <td colspan="6" align="center">Windows 8 Apps (WinJS &gt;= 2.†)</td>
