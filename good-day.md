@@ -1,8 +1,0 @@
-# 關於我的文章
-![5454544](https://2.bp.blogspot.com/-KbyagwIqWw0/Wj3Hlrtp4NI/AAAAAAAAF34/uV05WUAANCo1CSBw3KRqwYSW3WOdm4uSACKgBGAs/s320/20156019_1783615291655107_9047305662242338956_n.jpg)* 
-
-* 1
-* 2
-* 31
-1. 
-***
